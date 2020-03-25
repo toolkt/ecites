@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="auth_signup_fields_extend" inherit_id="auth_signup.fields" name="Signup Fields Extend">
+            <xpath expr="//div[hasclass('field-confirm_password')]" position="after">
+
+                <div class="form-group field-company">
+                    <label for="company" class="control-label">Name of Establishment / Company</label>
+                    <input type="text" name="company" id="company" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+                    t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                
+                <div class="form-group field-phone">
+                    <label for="phone" class="control-label">Phone</label>
+                    <input type="text" name="phone" t-att-value="phone" id="phone" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                <div class="form-group field-street_name">
+                    <label for="street" class="control-label">Street</label>
+                    <input type="text" name="street" t-att-value="street" id="street" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                <div class="form-group field-street">
+                    <label for="street2" class="control-label">Street2</label>
+                    <input type="text" name="street2" t-att-value="street2" id="street2" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                <div class="form-group field-zip">
+                    <label for="zip" class="control-label">Zip</label>
+                    <input type="text" name="zip" id="zip" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                <div class="form-group field-city">
+                    <label for="city" class="control-label">City</label>
+                    <input type="text" name="city" t-att-value="city" id="city" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+                <div class="form-group field-state">
+                    <label for="state_id" class="control-label">State</label>
+                    <select name="state_id" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                    t-att-autofocus="'autofocus' if login and not only_passwords else None">
+                        <option value="">Select</option>
+                        <t t-foreach="states or []" t-as="state">
+                            <option t-att-value="state.id">
+                                <t t-esc="state.name" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+                <div class="form-group field-country">
+                    <label for="country_id" class="control-label">Country</label>
+                    <select name="country_id" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                    t-att-autofocus="'autofocus' if login and not only_passwords else None">
+                        <option value="">Select</option>
+                        <t t-foreach="countries or []" t-as="country">
+                            <option t-att-value="country.id">
+                                <t t-esc="country.name" />
+                            </option>
+                        </t>
+                    </select>
+                </div>
+
+                <div class="form-group field-permit_no">
+                    <label for="permit_no" class="control-label">Wildlife Farm Permit No. (if applicable)</label>
+                    <input type="text" name="permit_no" id="permit_no" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+                    t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+
+
+                <div class="form-group field-date_issued">
+	                <label for="permit_date_issued" class="control-label">Date Issued</label>
+	                <input type="date" name="date_issued" t-att-value="date_issued" id="date_issued" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+	                t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+            	</div>
+
+
+                <div class="form-group field-authorized_rep">
+                    <label for="authorized_rep" class="control-label">Name of authorized representative</label>
+                    <input type="text" name="authorized_rep" id="authorized_rep" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+                    t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+
+                <div class="form-group field-authorized_rep_contact_no">
+                    <label for="authorized_rep_contact_no" class="control-label">Contact number</label>
+                    <input type="text" name="authorized_rep_contact_no" id="authorized_rep_contact_no" class="form-control" required="required" t-att-readonly="'readonly' if only_passwords else None"
+                    t-att-autofocus="'autofocus' if login and not only_passwords else None" />
+                </div>
+
+            </xpath>
+        </template>
+    </data>
+</odoo>

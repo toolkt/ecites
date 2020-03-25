@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+        <menuitem id="menu_ecites_settings" name="Settings" parent="menu_ecites_application_master"/>
+
+        <record id="view_ecites_species_search" model="ir.ui.view">
+            <field name="name">ecites.species.view.search</field>
+            <field name="model">ecites.species</field>
+            <field name="arch" type="xml">
+                <search>
+                    <field name="name"/>
+                    <field name="s_english_name1"/>
+                    <field name="s_english_name2"/>
+
+                    <filter string="Flora" name="flora" domain="[('s_type', '=', 'Flora')]"/>
+                    <filter string="Fauna" name="fauna" domain="[('s_type', '=', 'Fauna')]"/>
+
+                    <group expand="1" string="Group by">
+                       <filter string="Class" name="groupby_s_class" context="{'group_by':'s_class'}" />
+                       <filter string="Type" name="groupby_s_type" context="{'group_by':'s_type'}" />
+                    </group>
+
+                </search>
+            </field>
+        </record>
+
+        <!-- SPECIES -->
+        <record id="view_ecites_species_tree" model="ir.ui.view">
+            <field name="name">Species</field>
+            <field name="model">ecites.species</field>
+            <field name="arch" type="xml">
+                <tree editable='bottom'>
+                    <field name="name"/>
+                    <field name="s_english_name1"/>
+                    <field name="s_english_name2"/>
+                    <field name="s_kingdom"/>
+                    <field name="s_class"/>
+                    <field name="s_order"/>
+                    <field name="s_family"/>
+                    <field name="s_current_listing"/>
+                    <field name="s_type"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="action_ecites_species" model="ir.actions.act_window">
+            <field name="name">Species</field>
+            <field name="res_model">ecites.species</field>
+            <field name="view_mode">tree</field>
+            <field name="domain">[]</field>
+        </record>
+
+
+        <menuitem id="menu_ecites_species" action="action_ecites_species" parent="menu_ecites_settings"/>
+
+
+
+ 
+
+        <!-- SOURCE -->
+        <record id="view_ecites_source_tree" model="ir.ui.view">
+            <field name="name">Source</field>
+            <field name="model">ecites.source</field>
+            <field name="arch" type="xml">
+                <tree editable='bottom'>
+                    <field name="code"/>
+                    <field name="name"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="action_ecites_source" model="ir.actions.act_window">
+            <field name="name">Source</field>
+            <field name="res_model">ecites.source</field>
+            <field name="view_mode">tree</field>
+            <field name="domain">[]</field>
+        </record>
+
+
+        <menuitem id="menu_ecites_source" action="action_ecites_source" parent="menu_ecites_settings"/>
+
+
+        <!-- PURPOSE -->
+        <record id="view_ecites_purpose_tree" model="ir.ui.view">
+            <field name="name">Purpose</field>
+            <field name="model">ecites.purpose</field>
+            <field name="arch" type="xml">
+                <tree editable='bottom'>
+                    <field name="code"/>
+                    <field name="name"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="action_ecites_purpose" model="ir.actions.act_window">
+            <field name="name">Purpose</field>
+            <field name="res_model">ecites.purpose</field>
+            <field name="view_mode">tree</field>
+            <field name="domain">[]</field>
+        </record>
+
+
+        <menuitem id="menu_ecites_purpose" action="action_ecites_purpose" parent="menu_ecites_settings"/>
+
+
+</odoo>

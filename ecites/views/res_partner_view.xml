@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="res_partner_form_inherit" model="ir.ui.view">
+            <field name="name">res.partner.form.inherit</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='function']" position="after">
+                     <field name="company" attrs="{'invisible':[('company_type','=','company')]}"/>
+                </xpath>
+            </field>
+        </record>
+
+
+        <record id="res_users_view_form_simple_modif_ecites" model="ir.ui.view">
+            <field name="name">res.users.preferences.form.simplified.ecites.inherit</field>
+            <field name="model">res.users</field>
+            <field name="inherit_id" ref="base.view_users_form_simple_modif"/>
+            <field name="mode">primary</field>
+            <field name="arch" type="xml">
+                <footer position="replace"/>
+                <h1 position="replace"/>
+                <widget name="notification_alert" position="replace"/>
+                <xpath expr="//field[@name='image_1920']" position="replace"/>
+                <field name="signature" position="replace" />
+                <xpath expr="//group[@name='preference_contact']" position="before">
+                    <group>
+                        <field name="signature" />
+                    </group>
+                </xpath>
+                <xpath expr="//field[@name='company_id']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+            </field>
+        </record>
+
+
+    </data>
+</odoo>
+
+

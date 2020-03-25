@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_user_ecites_application,user.ecites.application,model_ecites_application,base.group_user,1,1,1,1
+access_user_ecites_species,user.ecites.species,model_ecites_species,base.group_user,1,1,1,1
+access_user_ecites_application_line,user.ecites.application.line,model_ecites_application_line,base.group_user,1,1,1,1
+access_user_ecites_source,user.ecites.source,model_ecites_source,base.group_user,1,1,1,1
+access_user_ecites_purpose,user.ecites.purpose,model_ecites_purpose,base.group_user,1,1,1,1
