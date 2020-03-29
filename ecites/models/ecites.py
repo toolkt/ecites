@@ -257,8 +257,8 @@ class eCitesSubmitWizard(models.TransientModel):
 
 
     applicant = fields.Char("Applicant Name")
-    company_name = fields.Char("Company", related="rec_id.company_name")
-    company_address = fields.Text(string='Address', related="rec_id.company_address" )
+    company_name = fields.Char("Company")
+    company_address = fields.Text("Address")
 
     brgy_id = fields.Many2one('res.brgy', string='Barangay')
     citymun_id = fields.Many2one('res.citymun', string='City / Municipality')
