@@ -1,0 +1,10 @@
+﻿id,code,name
+ecites_source_1,W,Specimens taken from the wild
+ecites_source_2,R,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving adulthood"
+ecites_source_3,D,"Appendix I animals bred in captivity for commercial purposes in operations included in the Secretariat’s Register, in accordance with Resolution Conf., 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention"
+ecites_source_4,A,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev CoP17), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5 (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)  "
+ecites_source_5,C,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5"
+ecites_source_6,F,"Animals born in captivity (F1 or subsequent generations) that do not fulfill the definition  of “bred in captivity” in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof"
+ecites_source_7,U,Source unknown (must be justified)
+ecites_source_8,I,Confiscated or seized specimens (may be used with another code)
+ecites_source_9,O,Pre-Convention specimens 

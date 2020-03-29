@@ -1,0 +1,89 @@
+id,name,code,region_id/id,active
+res_province_128,ILOCOS NORTE,128,res_region_1,TRUE
+res_province_129,ILOCOS SUR,129,res_region_1,TRUE
+res_province_133,LA UNION,133,res_region_1,TRUE
+res_province_155,PANGASINAN,155,res_region_1,TRUE
+res_province_209,BATANES,209,res_region_2,TRUE
+res_province_215,CAGAYAN,215,res_region_2,TRUE
+res_province_231,ISABELA,231,res_region_2,TRUE
+res_province_250,NUEVA VIZCAYA,250,res_region_2,TRUE
+res_province_257,QUIRINO,257,res_region_2,TRUE
+res_province_308,BATAAN,308,res_region_3,TRUE
+res_province_314,BULACAN,314,res_region_3,TRUE
+res_province_349,NUEVA ECIJA,349,res_region_3,TRUE
+res_province_354,PAMPANGA,354,res_region_3,TRUE
+res_province_369,TARLAC,369,res_region_3,TRUE
+res_province_371,ZAMBALES,371,res_region_3,TRUE
+res_province_377,AURORA,377,res_region_3,TRUE
+res_province_410,BATANGAS,410,res_region_4,TRUE
+res_province_421,CAVITE,421,res_region_4,TRUE
+res_province_434,LAGUNA,434,res_region_4,TRUE
+res_province_456,QUEZON,456,res_region_4,TRUE
+res_province_458,RIZAL,458,res_region_4,TRUE
+res_province_1740,MARINDUQUE,1740,res_region_17,TRUE
+res_province_1751,OCCIDENTAL MINDORO,1751,res_region_17,TRUE
+res_province_1752,ORIENTAL MINDORO,1752,res_region_17,TRUE
+res_province_1753,PALAWAN,1753,res_region_17,TRUE
+res_province_1759,ROMBLON,1759,res_region_17,TRUE
+res_province_505,ALBAY,505,res_region_5,TRUE
+res_province_516,CAMARINES NORTE,516,res_region_5,TRUE
+res_province_517,CAMARINES SUR,517,res_region_5,TRUE
+res_province_520,CATANDUANES,520,res_region_5,TRUE
+res_province_541,MASBATE,541,res_region_5,TRUE
+res_province_562,SORSOGON,562,res_region_5,TRUE
+res_province_604,AKLAN,604,res_region_6,TRUE
+res_province_606,ANTIQUE,606,res_region_6,TRUE
+res_province_619,CAPIZ,619,res_region_6,TRUE
+res_province_630,ILOILO,630,res_region_6,TRUE
+res_province_645,NEGROS OCCIDENTAL,645,res_region_6,TRUE
+res_province_679,GUIMARAS,679,res_region_6,TRUE
+res_province_712,BOHOL,712,res_region_7,TRUE
+res_province_722,CEBU,722,res_region_7,TRUE
+res_province_746,NEGROS ORIENTAL,746,res_region_7,TRUE
+res_province_761,SIQUIJOR,761,res_region_7,TRUE
+res_province_826,EASTERN SAMAR,826,res_region_8,TRUE
+res_province_837,LEYTE,837,res_region_8,TRUE
+res_province_848,NORTHERN SAMAR,848,res_region_8,TRUE
+res_province_860,SAMAR (WESTERN SAMAR),860,res_region_8,TRUE
+res_province_864,SOUTHERN LEYTE,864,res_region_8,TRUE
+res_province_878,BILIRAN,878,res_region_8,TRUE
+res_province_972,ZAMBOANGA DEL NORTE,972,res_region_9,TRUE
+res_province_973,ZAMBOANGA DEL SUR,973,res_region_9,TRUE
+res_province_983,ZAMBOANGA SIBUGAY,983,res_region_9,TRUE
+res_province_997,CITY OF ISABELA,997,res_region_9,TRUE
+res_province_1013,BUKIDNON,1013,res_region_10,TRUE
+res_province_1018,CAMIGUIN,1018,res_region_10,TRUE
+res_province_1035,LANAO DEL NORTE,1035,res_region_10,TRUE
+res_province_1042,MISAMIS OCCIDENTAL,1042,res_region_10,TRUE
+res_province_1043,MISAMIS ORIENTAL,1043,res_region_10,TRUE
+res_province_1123,DAVAO DEL NORTE,1123,res_region_11,TRUE
+res_province_1124,DAVAO DEL SUR,1124,res_region_11,TRUE
+res_province_1125,DAVAO ORIENTAL,1125,res_region_11,TRUE
+res_province_1182,COMPOSTELA VALLEY,1182,res_region_11,TRUE
+res_province_1186,DAVAO OCCIDENTAL,1186,res_region_11,TRUE
+res_province_1247,COTABATO (NORTH COTABATO),1247,res_region_12,TRUE
+res_province_1263,SOUTH COTABATO,1263,res_region_12,TRUE
+res_province_1265,SULTAN KUDARAT,1265,res_region_12,TRUE
+res_province_1280,SARANGANI,1280,res_region_12,TRUE
+res_province_1298,COTABATO CITY,1298,res_region_12,TRUE
+res_province_1339,"NCR, CITY OF MANILA, FIRST DISTRICT",1339,res_region_13,TRUE
+res_province_1339,CITY OF MANILA,1339,res_region_13,TRUE
+res_province_1374,"NCR, SECOND DISTRICT",1374,res_region_13,TRUE
+res_province_1375,"NCR, THIRD DISTRICT",1375,res_region_13,TRUE
+res_province_1376,"NCR, FOURTH DISTRICT",1376,res_region_13,TRUE
+res_province_1401,ABRA,1401,res_region_14,TRUE
+res_province_1411,BENGUET,1411,res_region_14,TRUE
+res_province_1427,IFUGAO,1427,res_region_14,TRUE
+res_province_1432,KALINGA,1432,res_region_14,TRUE
+res_province_1444,MOUNTAIN PROVINCE,1444,res_region_14,TRUE
+res_province_1481,APAYAO,1481,res_region_14,TRUE
+res_province_1507,BASILAN,1507,res_region_15,TRUE
+res_province_1536,LANAO DEL SUR,1536,res_region_15,TRUE
+res_province_1538,MAGUINDANAO,1538,res_region_15,TRUE
+res_province_1566,SULU,1566,res_region_15,TRUE
+res_province_1570,TAWI-TAWI,1570,res_region_15,TRUE
+res_province_1602,AGUSAN DEL NORTE,1602,res_region_16,TRUE
+res_province_1603,AGUSAN DEL SUR,1603,res_region_16,TRUE
+res_province_1667,SURIGAO DEL NORTE,1667,res_region_16,TRUE
+res_province_1668,SURIGAO DEL SUR,1668,res_region_16,TRUE
+res_province_1685,DINAGAT ISLANDS,1685,res_region_16,TRUE

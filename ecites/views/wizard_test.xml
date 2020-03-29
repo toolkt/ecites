@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+        
+  <data>
+
+
+  <record id="ecites_submit_wizard_form" model="ir.ui.view">
+    <field name="name">ecites.submit.wizard.form</field>
+    <field name="model">ecites.submit.wizard</field>
+    <field name="mode">primary</field>
+    <field name="inherit_id" ref="multi_step_wizard.multi_step_wizard_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//footer" position="before">     
+        <header>
+            <field name="state" widget="statusbar" />
+        </header>
+        <H1><field name="rec_id" readonly="1"/></H1>
+        <group name="start" attrs="{'invisible': [('state', '!=', 'start')]}">
+          <group>
+            <field name="applicant"/>
+            <field name="company_name"/>
+            <field name="company_address"/>
+            <field name="phone"/>
+            <field name="email"/>
+          </group>
+          <group>
+            <field name="region_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+            <field name="province_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+            <field name="citymun_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+            <field name="brgy_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+            <field name="complete_address"/>
+          </group>
+        </group>
+
+        <group name="permit" attrs="{'invisible': [('state', '!=', 'permit')]}">
+          <group>
+            <field name="permit_no" string="Permit No" placeholder="Wildlife Farm Permit No. (if applicable)"/>
+            <field name="permit_date_issued"/>
+            <field name="authorized_rep" string="Representative" placeholder="Name of authorized Representative"/>
+            <field name="authorized_rep_contact_no"/>
+          </group>
+        </group>    
+
+        <group name="sign" attrs="{'invisible': [('state', '!=', 'sign')]}">
+          <group>
+            <field nolabel="1" name="digital_signature" widget="signature"/>
+          </group>
+        </group>   
+
+      </xpath> 
+    </field>
+  </record>
+
+
+
+
+<!-- 
+
+  <record id="my_wizard_form" model="ir.ui.view">
+    <field name="name">my.wizard.form</field>
+    <field name="model">my.wizard</field>
+    <field name="mode">primary</field>
+    <field name="inherit_id" ref="multi_step_wizard.multi_step_wizard_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//footer" position="before">     
+                    <header>
+                        <field name="state" widget="statusbar" />
+                    </header>
+
+
+        <h1>
+          <field name="name"
+                attrs="{'readonly': [('state', '!=', 'start')]}"
+                class="oe_inline"
+                placeholder="Name"/>
+        </h1>
+        <group name="configure" attrs="{'invisible': [('state', '!=', 'configure')]}">
+          <group>
+            <field name="field1"/>
+            <field name="field2"/>
+          </group>
+        </group>
+        <group name="custom" attrs="{'invisible': [('state', '!=', 'custom')]}">
+          <group>
+            <field name="field3"/>
+          </group>
+        </group>
+        <div name="final" attrs="{'invisible': [('state', '!=', 'final')]}">
+          <p>The project is now configured.</p>
+        </div>
+      </xpath> 
+    </field>
+  </record>
+ -->
+
+
+
+    </data>
+</odoo>

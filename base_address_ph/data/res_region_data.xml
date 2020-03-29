@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+
+        <record id="res_region_1" model="res.region">
+            <field name="code" eval="1"/>
+            <field name="name">REGION I (ILOCOS REGION)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_2" model="res.region">
+            <field name="code" eval="2"/>
+            <field name="name">REGION II (CAGAYAN VALLEY)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_3" model="res.region">
+            <field name="code" eval="3"/>
+            <field name="name">REGION III (CENTRAL LUZON)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_4" model="res.region">
+            <field name="code" eval="4"/>
+            <field name="name">REGION IV-A (CALABARZON)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_17" model="res.region">
+            <field name="code" eval="17"/>
+            <field name="name">REGION IV-B (MIMAROPA)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_5" model="res.region">
+            <field name="code" eval="5"/>
+            <field name="name">REGION V (BICOL REGION)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_6" model="res.region">
+            <field name="code" eval="6"/>
+            <field name="name">REGION VI (WESTERN VISAYAS)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_7" model="res.region">
+            <field name="code" eval="7"/>
+            <field name="name">REGION VII (CENTRAL VISAYAS)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_8" model="res.region">
+            <field name="code" eval="8"/>
+            <field name="name">REGION VIII (EASTERN VISAYAS)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_9" model="res.region">
+            <field name="code" eval="9"/>
+            <field name="name">REGION IX (ZAMBOANGA PENINSULA)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_10" model="res.region">
+            <field name="code" eval="10"/>
+            <field name="name">REGION X (NORTHERN MINDANAO)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_11" model="res.region">
+            <field name="code" eval="11"/>
+            <field name="name">REGION XI (DAVAO REGION)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_12" model="res.region">
+            <field name="code" eval="12"/>
+            <field name="name">REGION XII (SOCCSKSARGEN)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_13" model="res.region">
+            <field name="code" eval="13"/>
+            <field name="name">NATIONAL CAPITAL REGION (NCR)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_14" model="res.region">
+            <field name="code" eval="14"/>
+            <field name="name">CORDILLERA ADMINISTRATIVE REGION (CAR)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_15" model="res.region">
+            <field name="code" eval="15"/>
+            <field name="name">AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_region_16" model="res.region">
+            <field name="code" eval="16"/>
+            <field name="name">REGION XIII (Caraga)</field>
+            <field name="active">TRUE</field>
+        </record>
+
+
+    </data>
+</odoo>

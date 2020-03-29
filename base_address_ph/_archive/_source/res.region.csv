@@ -1,0 +1,18 @@
+id,code,name,active
+__export__.res_region_1,1,REGION I (ILOCOS REGION),TRUE
+__export__.res_region_2,2,REGION II (CAGAYAN VALLEY),TRUE
+__export__.res_region_3,3,REGION III (CENTRAL LUZON),TRUE
+__export__.res_region_4,4,REGION IV-A (CALABARZON),TRUE
+__export__.res_region_17,17,REGION IV-B (MIMAROPA),TRUE
+__export__.res_region_5,5,REGION V (BICOL REGION),TRUE
+__export__.res_region_6,6,REGION VI (WESTERN VISAYAS),TRUE
+__export__.res_region_7,7,REGION VII (CENTRAL VISAYAS),TRUE
+__export__.res_region_8,8,REGION VIII (EASTERN VISAYAS),TRUE
+__export__.res_region_9,9,REGION IX (ZAMBOANGA PENINSULA),TRUE
+__export__.res_region_10,10,REGION X (NORTHERN MINDANAO),TRUE
+__export__.res_region_11,11,REGION XI (DAVAO REGION),TRUE
+__export__.res_region_12,12,REGION XII (SOCCSKSARGEN),TRUE
+__export__.res_region_13,13,NATIONAL CAPITAL REGION (NCR),TRUE
+__export__.res_region_14,14,CORDILLERA ADMINISTRATIVE REGION (CAR),TRUE
+__export__.res_region_15,15,AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM),TRUE
+__export__.res_region_16,16,REGION XIII (Caraga),TRUE

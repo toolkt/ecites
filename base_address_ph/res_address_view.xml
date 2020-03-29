@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>        
+        <!-- REGION VIEW -->
+        <record id="partner_region_form_view" model="ir.ui.view">
+            <field name="name">Region</field>
+            <field name="model">res.region</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="Region" editable="bottom">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="active"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="partner_region_action" model="ir.actions.act_window">
+            <field name="name">Region</field>
+            <field name="res_model">res.region</field>
+            <field name="view_mode">tree</field>
+            <field name="context">{'active_test':False}</field>
+        </record>
+
+        <menuitem action="partner_region_action" id="partner_region_menu" parent="base.menu_users" groups="base.group_user" sequence="50"/>
+
+
+        <!-- PROVINCE VIEW -->
+        <record id="partner_province_form_view" model="ir.ui.view">
+            <field name="name">Province</field>
+            <field name="model">res.province</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="province" editable="top">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="region_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+                    <field name="active"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="partner_province_action" model="ir.actions.act_window">
+            <field name="name">Province</field>
+            <field name="res_model">res.province</field>
+            <field name="view_mode">tree</field>
+            <field name="context">{'active_test':False}</field>
+        </record>
+
+        <menuitem action="partner_province_action" id="partner_province_menu" parent="base.menu_users" groups="base.group_user" sequence="50"/>
+
+
+
+        <!-- CITY / MUNICIPALITY -->
+        <record id="partner_citymun_form_view" model="ir.ui.view">
+            <field name="name">City / Municipality</field>
+            <field name="model">res.citymun</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="citymun" editable="top">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="province_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+                    <field name="active"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="partner_citymun_action" model="ir.actions.act_window">
+            <field name="name">City / Municipality</field>
+            <field name="res_model">res.citymun</field>
+            <field name="view_mode">tree</field>
+            <field name="context">{'active_test':False}</field>
+        </record>
+
+        <menuitem action="partner_citymun_action" id="partner_citymun_menu" parent="base.menu_users" groups="base.group_user" sequence="50"/>
+
+
+        <!-- BARANGAY -->
+        <record id="partner_brgy_form_view" model="ir.ui.view">
+            <field name="name">Barangay</field>
+            <field name="model">res.brgy</field>
+            <field name="type">tree</field>
+            <field name="arch" type="xml">
+                <tree string="brgy" editable="top">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="citymun_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'/>
+                    <field name="active"/>
+                </tree>
+            </field>
+        </record>
+
+
+        <record id="partner_brgy_action" model="ir.actions.act_window">
+            <field name="name">Barangay</field>
+            <field name="res_model">res.brgy</field>
+            <field name="view_mode">tree</field>
+            <field name="context">{'active_test':False}</field>
+        </record>
+
+        <menuitem action="partner_brgy_action" id="partner_brgy_menu" parent="base.menu_users" groups="base.group_user" sequence="50"/>
+
+    </data>
+</odoo>

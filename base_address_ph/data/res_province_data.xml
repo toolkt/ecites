@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+
+        <record id="res_province_128" model="res.province">
+            <field name="name">ILOCOS NORTE</field>
+            <field name="code" eval="128"/>
+            <field name="region_id" ref="res_region_1"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_129" model="res.province">
+            <field name="name">ILOCOS SUR</field>
+            <field name="code" eval="129"/>
+            <field name="region_id" ref="res_region_1"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_133" model="res.province">
+            <field name="name">LA UNION</field>
+            <field name="code" eval="133"/>
+            <field name="region_id" ref="res_region_1"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_155" model="res.province">
+            <field name="name">PANGASINAN</field>
+            <field name="code" eval="155"/>
+            <field name="region_id" ref="res_region_1"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_209" model="res.province">
+            <field name="name">BATANES</field>
+            <field name="code" eval="209"/>
+            <field name="region_id" ref="res_region_2"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_215" model="res.province">
+            <field name="name">CAGAYAN</field>
+            <field name="code" eval="215"/>
+            <field name="region_id" ref="res_region_2"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_231" model="res.province">
+            <field name="name">ISABELA</field>
+            <field name="code" eval="231"/>
+            <field name="region_id" ref="res_region_2"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_250" model="res.province">
+            <field name="name">NUEVA VIZCAYA</field>
+            <field name="code" eval="250"/>
+            <field name="region_id" ref="res_region_2"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_257" model="res.province">
+            <field name="name">QUIRINO</field>
+            <field name="code" eval="257"/>
+            <field name="region_id" ref="res_region_2"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_308" model="res.province">
+            <field name="name">BATAAN</field>
+            <field name="code" eval="308"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_314" model="res.province">
+            <field name="name">BULACAN</field>
+            <field name="code" eval="314"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_349" model="res.province">
+            <field name="name">NUEVA ECIJA</field>
+            <field name="code" eval="349"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_354" model="res.province">
+            <field name="name">PAMPANGA</field>
+            <field name="code" eval="354"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_369" model="res.province">
+            <field name="name">TARLAC</field>
+            <field name="code" eval="369"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_371" model="res.province">
+            <field name="name">ZAMBALES</field>
+            <field name="code" eval="371"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_377" model="res.province">
+            <field name="name">AURORA</field>
+            <field name="code" eval="377"/>
+            <field name="region_id" ref="res_region_3"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_410" model="res.province">
+            <field name="name">BATANGAS</field>
+            <field name="code" eval="410"/>
+            <field name="region_id" ref="res_region_4"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_421" model="res.province">
+            <field name="name">CAVITE</field>
+            <field name="code" eval="421"/>
+            <field name="region_id" ref="res_region_4"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_434" model="res.province">
+            <field name="name">LAGUNA</field>
+            <field name="code" eval="434"/>
+            <field name="region_id" ref="res_region_4"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_456" model="res.province">
+            <field name="name">QUEZON</field>
+            <field name="code" eval="456"/>
+            <field name="region_id" ref="res_region_4"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_458" model="res.province">
+            <field name="name">RIZAL</field>
+            <field name="code" eval="458"/>
+            <field name="region_id" ref="res_region_4"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1740" model="res.province">
+            <field name="name">MARINDUQUE</field>
+            <field name="code" eval="1740"/>
+            <field name="region_id" ref="res_region_17"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1751" model="res.province">
+            <field name="name">OCCIDENTAL MINDORO</field>
+            <field name="code" eval="1751"/>
+            <field name="region_id" ref="res_region_17"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1752" model="res.province">
+            <field name="name">ORIENTAL MINDORO</field>
+            <field name="code" eval="1752"/>
+            <field name="region_id" ref="res_region_17"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1753" model="res.province">
+            <field name="name">PALAWAN</field>
+            <field name="code" eval="1753"/>
+            <field name="region_id" ref="res_region_17"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1759" model="res.province">
+            <field name="name">ROMBLON</field>
+            <field name="code" eval="1759"/>
+            <field name="region_id" ref="res_region_17"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_505" model="res.province">
+            <field name="name">ALBAY</field>
+            <field name="code" eval="505"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_516" model="res.province">
+            <field name="name">CAMARINES NORTE</field>
+            <field name="code" eval="516"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_517" model="res.province">
+            <field name="name">CAMARINES SUR</field>
+            <field name="code" eval="517"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_520" model="res.province">
+            <field name="name">CATANDUANES</field>
+            <field name="code" eval="520"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_541" model="res.province">
+            <field name="name">MASBATE</field>
+            <field name="code" eval="541"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_562" model="res.province">
+            <field name="name">SORSOGON</field>
+            <field name="code" eval="562"/>
+            <field name="region_id" ref="res_region_5"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_604" model="res.province">
+            <field name="name">AKLAN</field>
+            <field name="code" eval="604"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_606" model="res.province">
+            <field name="name">ANTIQUE</field>
+            <field name="code" eval="606"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_619" model="res.province">
+            <field name="name">CAPIZ</field>
+            <field name="code" eval="619"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_630" model="res.province">
+            <field name="name">ILOILO</field>
+            <field name="code" eval="630"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_645" model="res.province">
+            <field name="name">NEGROS OCCIDENTAL</field>
+            <field name="code" eval="645"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_679" model="res.province">
+            <field name="name">GUIMARAS</field>
+            <field name="code" eval="679"/>
+            <field name="region_id" ref="res_region_6"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_712" model="res.province">
+            <field name="name">BOHOL</field>
+            <field name="code" eval="712"/>
+            <field name="region_id" ref="res_region_7"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_722" model="res.province">
+            <field name="name">CEBU</field>
+            <field name="code" eval="722"/>
+            <field name="region_id" ref="res_region_7"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_746" model="res.province">
+            <field name="name">NEGROS ORIENTAL</field>
+            <field name="code" eval="746"/>
+            <field name="region_id" ref="res_region_7"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_761" model="res.province">
+            <field name="name">SIQUIJOR</field>
+            <field name="code" eval="761"/>
+            <field name="region_id" ref="res_region_7"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_826" model="res.province">
+            <field name="name">EASTERN SAMAR</field>
+            <field name="code" eval="826"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_837" model="res.province">
+            <field name="name">LEYTE</field>
+            <field name="code" eval="837"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_848" model="res.province">
+            <field name="name">NORTHERN SAMAR</field>
+            <field name="code" eval="848"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_860" model="res.province">
+            <field name="name">SAMAR (WESTERN SAMAR)</field>
+            <field name="code" eval="860"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_864" model="res.province">
+            <field name="name">SOUTHERN LEYTE</field>
+            <field name="code" eval="864"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_878" model="res.province">
+            <field name="name">BILIRAN</field>
+            <field name="code" eval="878"/>
+            <field name="region_id" ref="res_region_8"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_972" model="res.province">
+            <field name="name">ZAMBOANGA DEL NORTE</field>
+            <field name="code" eval="972"/>
+            <field name="region_id" ref="res_region_9"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_973" model="res.province">
+            <field name="name">ZAMBOANGA DEL SUR</field>
+            <field name="code" eval="973"/>
+            <field name="region_id" ref="res_region_9"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_983" model="res.province">
+            <field name="name">ZAMBOANGA SIBUGAY</field>
+            <field name="code" eval="983"/>
+            <field name="region_id" ref="res_region_9"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_997" model="res.province">
+            <field name="name">CITY OF ISABELA</field>
+            <field name="code" eval="997"/>
+            <field name="region_id" ref="res_region_9"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1013" model="res.province">
+            <field name="name">BUKIDNON</field>
+            <field name="code" eval="1013"/>
+            <field name="region_id" ref="res_region_10"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1018" model="res.province">
+            <field name="name">CAMIGUIN</field>
+            <field name="code" eval="1018"/>
+            <field name="region_id" ref="res_region_10"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1035" model="res.province">
+            <field name="name">LANAO DEL NORTE</field>
+            <field name="code" eval="1035"/>
+            <field name="region_id" ref="res_region_10"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1042" model="res.province">
+            <field name="name">MISAMIS OCCIDENTAL</field>
+            <field name="code" eval="1042"/>
+            <field name="region_id" ref="res_region_10"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1043" model="res.province">
+            <field name="name">MISAMIS ORIENTAL</field>
+            <field name="code" eval="1043"/>
+            <field name="region_id" ref="res_region_10"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1123" model="res.province">
+            <field name="name">DAVAO DEL NORTE</field>
+            <field name="code" eval="1123"/>
+            <field name="region_id" ref="res_region_11"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1124" model="res.province">
+            <field name="name">DAVAO DEL SUR</field>
+            <field name="code" eval="1124"/>
+            <field name="region_id" ref="res_region_11"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1125" model="res.province">
+            <field name="name">DAVAO ORIENTAL</field>
+            <field name="code" eval="1125"/>
+            <field name="region_id" ref="res_region_11"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1182" model="res.province">
+            <field name="name">COMPOSTELA VALLEY</field>
+            <field name="code" eval="1182"/>
+            <field name="region_id" ref="res_region_11"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1186" model="res.province">
+            <field name="name">DAVAO OCCIDENTAL</field>
+            <field name="code" eval="1186"/>
+            <field name="region_id" ref="res_region_11"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1247" model="res.province">
+            <field name="name">COTABATO (NORTH COTABATO)</field>
+            <field name="code" eval="1247"/>
+            <field name="region_id" ref="res_region_12"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1263" model="res.province">
+            <field name="name">SOUTH COTABATO</field>
+            <field name="code" eval="1263"/>
+            <field name="region_id" ref="res_region_12"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1265" model="res.province">
+            <field name="name">SULTAN KUDARAT</field>
+            <field name="code" eval="1265"/>
+            <field name="region_id" ref="res_region_12"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1280" model="res.province">
+            <field name="name">SARANGANI</field>
+            <field name="code" eval="1280"/>
+            <field name="region_id" ref="res_region_12"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1298" model="res.province">
+            <field name="name">COTABATO CITY</field>
+            <field name="code" eval="1298"/>
+            <field name="region_id" ref="res_region_12"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1339" model="res.province">
+            <field name="name">NCR, CITY OF MANILA, FIRST DISTRICT</field>
+            <field name="code" eval="1339"/>
+            <field name="region_id" ref="res_region_13"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1339" model="res.province">
+            <field name="name">CITY OF MANILA</field>
+            <field name="code" eval="1339"/>
+            <field name="region_id" ref="res_region_13"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1374" model="res.province">
+            <field name="name">NCR, SECOND DISTRICT</field>
+            <field name="code" eval="1374"/>
+            <field name="region_id" ref="res_region_13"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1375" model="res.province">
+            <field name="name">NCR, THIRD DISTRICT</field>
+            <field name="code" eval="1375"/>
+            <field name="region_id" ref="res_region_13"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1376" model="res.province">
+            <field name="name">NCR, FOURTH DISTRICT</field>
+            <field name="code" eval="1376"/>
+            <field name="region_id" ref="res_region_13"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1401" model="res.province">
+            <field name="name">ABRA</field>
+            <field name="code" eval="1401"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1411" model="res.province">
+            <field name="name">BENGUET</field>
+            <field name="code" eval="1411"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1427" model="res.province">
+            <field name="name">IFUGAO</field>
+            <field name="code" eval="1427"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1432" model="res.province">
+            <field name="name">KALINGA</field>
+            <field name="code" eval="1432"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1444" model="res.province">
+            <field name="name">MOUNTAIN PROVINCE</field>
+            <field name="code" eval="1444"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1481" model="res.province">
+            <field name="name">APAYAO</field>
+            <field name="code" eval="1481"/>
+            <field name="region_id" ref="res_region_14"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1507" model="res.province">
+            <field name="name">BASILAN</field>
+            <field name="code" eval="1507"/>
+            <field name="region_id" ref="res_region_15"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1536" model="res.province">
+            <field name="name">LANAO DEL SUR</field>
+            <field name="code" eval="1536"/>
+            <field name="region_id" ref="res_region_15"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1538" model="res.province">
+            <field name="name">MAGUINDANAO</field>
+            <field name="code" eval="1538"/>
+            <field name="region_id" ref="res_region_15"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1566" model="res.province">
+            <field name="name">SULU</field>
+            <field name="code" eval="1566"/>
+            <field name="region_id" ref="res_region_15"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1570" model="res.province">
+            <field name="name">TAWI-TAWI</field>
+            <field name="code" eval="1570"/>
+            <field name="region_id" ref="res_region_15"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1602" model="res.province">
+            <field name="name">AGUSAN DEL NORTE</field>
+            <field name="code" eval="1602"/>
+            <field name="region_id" ref="res_region_16"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1603" model="res.province">
+            <field name="name">AGUSAN DEL SUR</field>
+            <field name="code" eval="1603"/>
+            <field name="region_id" ref="res_region_16"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1667" model="res.province">
+            <field name="name">SURIGAO DEL NORTE</field>
+            <field name="code" eval="1667"/>
+            <field name="region_id" ref="res_region_16"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1668" model="res.province">
+            <field name="name">SURIGAO DEL SUR</field>
+            <field name="code" eval="1668"/>
+            <field name="region_id" ref="res_region_16"/>
+            <field name="active">TRUE</field>
+        </record>
+
+        <record id="res_province_1685" model="res.province">
+            <field name="name">DINAGAT ISLANDS</field>
+            <field name="code" eval="1685"/>
+            <field name="region_id" ref="res_region_16"/>
+            <field name="active">TRUE</field>
+        </record>
+
+
+    </data>
+</odoo>

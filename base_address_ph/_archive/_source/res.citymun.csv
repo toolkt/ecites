@@ -1,0 +1,1649 @@
+id,name,code,province_id/id,active
+__export__.res_citymun_12801,ADAMS,12801,__export__.res_province_128,TRUE
+__export__.res_citymun_12802,BACARRA,12802,__export__.res_province_128,TRUE
+__export__.res_citymun_12803,BADOC,12803,__export__.res_province_128,TRUE
+__export__.res_citymun_12804,BANGUI,12804,__export__.res_province_128,TRUE
+__export__.res_citymun_12805,CITY OF BATAC,12805,__export__.res_province_128,TRUE
+__export__.res_citymun_12806,BURGOS,12806,__export__.res_province_128,TRUE
+__export__.res_citymun_12807,CARASI,12807,__export__.res_province_128,TRUE
+__export__.res_citymun_12808,CURRIMAO,12808,__export__.res_province_128,TRUE
+__export__.res_citymun_12809,DINGRAS,12809,__export__.res_province_128,TRUE
+__export__.res_citymun_12810,DUMALNEG,12810,__export__.res_province_128,TRUE
+__export__.res_citymun_12811,BANNA (ESPIRITU),12811,__export__.res_province_128,TRUE
+__export__.res_citymun_12812,LAOAG CITY (Capital),12812,__export__.res_province_128,TRUE
+__export__.res_citymun_12813,MARCOS,12813,__export__.res_province_128,TRUE
+__export__.res_citymun_12814,NUEVA ERA,12814,__export__.res_province_128,TRUE
+__export__.res_citymun_12815,PAGUDPUD,12815,__export__.res_province_128,TRUE
+__export__.res_citymun_12816,PAOAY,12816,__export__.res_province_128,TRUE
+__export__.res_citymun_12817,PASUQUIN,12817,__export__.res_province_128,TRUE
+__export__.res_citymun_12818,PIDDIG,12818,__export__.res_province_128,TRUE
+__export__.res_citymun_12819,PINILI,12819,__export__.res_province_128,TRUE
+__export__.res_citymun_12820,SAN NICOLAS,12820,__export__.res_province_128,TRUE
+__export__.res_citymun_12821,SARRAT,12821,__export__.res_province_128,TRUE
+__export__.res_citymun_12822,SOLSONA,12822,__export__.res_province_128,TRUE
+__export__.res_citymun_12823,VINTAR,12823,__export__.res_province_128,TRUE
+__export__.res_citymun_12901,ALILEM,12901,__export__.res_province_129,TRUE
+__export__.res_citymun_12902,BANAYOYO,12902,__export__.res_province_129,TRUE
+__export__.res_citymun_12903,BANTAY,12903,__export__.res_province_129,TRUE
+__export__.res_citymun_12904,BURGOS,12904,__export__.res_province_129,TRUE
+__export__.res_citymun_12905,CABUGAO,12905,__export__.res_province_129,TRUE
+__export__.res_citymun_12906,CITY OF CANDON,12906,__export__.res_province_129,TRUE
+__export__.res_citymun_12907,CAOAYAN,12907,__export__.res_province_129,TRUE
+__export__.res_citymun_12908,CERVANTES,12908,__export__.res_province_129,TRUE
+__export__.res_citymun_12909,GALIMUYOD,12909,__export__.res_province_129,TRUE
+__export__.res_citymun_12910,GREGORIO DEL PILAR (CONCEPCION),12910,__export__.res_province_129,TRUE
+__export__.res_citymun_12911,LIDLIDDA,12911,__export__.res_province_129,TRUE
+__export__.res_citymun_12912,MAGSINGAL,12912,__export__.res_province_129,TRUE
+__export__.res_citymun_12913,NAGBUKEL,12913,__export__.res_province_129,TRUE
+__export__.res_citymun_12914,NARVACAN,12914,__export__.res_province_129,TRUE
+__export__.res_citymun_12915,QUIRINO (ANGKAKI),12915,__export__.res_province_129,TRUE
+__export__.res_citymun_12916,SALCEDO (BAUGEN),12916,__export__.res_province_129,TRUE
+__export__.res_citymun_12917,SAN EMILIO,12917,__export__.res_province_129,TRUE
+__export__.res_citymun_12918,SAN ESTEBAN,12918,__export__.res_province_129,TRUE
+__export__.res_citymun_12919,SAN ILDEFONSO,12919,__export__.res_province_129,TRUE
+__export__.res_citymun_12920,SAN JUAN (LAPOG),12920,__export__.res_province_129,TRUE
+__export__.res_citymun_12921,SAN VICENTE,12921,__export__.res_province_129,TRUE
+__export__.res_citymun_12922,SANTA,12922,__export__.res_province_129,TRUE
+__export__.res_citymun_12923,SANTA CATALINA,12923,__export__.res_province_129,TRUE
+__export__.res_citymun_12924,SANTA CRUZ,12924,__export__.res_province_129,TRUE
+__export__.res_citymun_12925,SANTA LUCIA,12925,__export__.res_province_129,TRUE
+__export__.res_citymun_12926,SANTA MARIA,12926,__export__.res_province_129,TRUE
+__export__.res_citymun_12927,SANTIAGO,12927,__export__.res_province_129,TRUE
+__export__.res_citymun_12928,SANTO DOMINGO,12928,__export__.res_province_129,TRUE
+__export__.res_citymun_12929,SIGAY,12929,__export__.res_province_129,TRUE
+__export__.res_citymun_12930,SINAIT,12930,__export__.res_province_129,TRUE
+__export__.res_citymun_12931,SUGPON,12931,__export__.res_province_129,TRUE
+__export__.res_citymun_12932,SUYO,12932,__export__.res_province_129,TRUE
+__export__.res_citymun_12933,TAGUDIN,12933,__export__.res_province_129,TRUE
+__export__.res_citymun_12934,CITY OF VIGAN (Capital),12934,__export__.res_province_129,TRUE
+__export__.res_citymun_13301,AGOO,13301,__export__.res_province_133,TRUE
+__export__.res_citymun_13302,ARINGAY,13302,__export__.res_province_133,TRUE
+__export__.res_citymun_13303,BACNOTAN,13303,__export__.res_province_133,TRUE
+__export__.res_citymun_13304,BAGULIN,13304,__export__.res_province_133,TRUE
+__export__.res_citymun_13305,BALAOAN,13305,__export__.res_province_133,TRUE
+__export__.res_citymun_13306,BANGAR,13306,__export__.res_province_133,TRUE
+__export__.res_citymun_13307,BAUANG,13307,__export__.res_province_133,TRUE
+__export__.res_citymun_13308,BURGOS,13308,__export__.res_province_133,TRUE
+__export__.res_citymun_13309,CABA,13309,__export__.res_province_133,TRUE
+__export__.res_citymun_13310,LUNA,13310,__export__.res_province_133,TRUE
+__export__.res_citymun_13311,NAGUILIAN,13311,__export__.res_province_133,TRUE
+__export__.res_citymun_13312,PUGO,13312,__export__.res_province_133,TRUE
+__export__.res_citymun_13313,ROSARIO,13313,__export__.res_province_133,TRUE
+__export__.res_citymun_13314,CITY OF SAN FERNANDO (Capital),13314,__export__.res_province_133,TRUE
+__export__.res_citymun_13315,SAN GABRIEL,13315,__export__.res_province_133,TRUE
+__export__.res_citymun_13316,SAN JUAN,13316,__export__.res_province_133,TRUE
+__export__.res_citymun_13317,SANTO TOMAS,13317,__export__.res_province_133,TRUE
+__export__.res_citymun_13318,SANTOL,13318,__export__.res_province_133,TRUE
+__export__.res_citymun_13319,SUDIPEN,13319,__export__.res_province_133,TRUE
+__export__.res_citymun_13320,TUBAO,13320,__export__.res_province_133,TRUE
+__export__.res_citymun_15501,AGNO,15501,__export__.res_province_155,TRUE
+__export__.res_citymun_15502,AGUILAR,15502,__export__.res_province_155,TRUE
+__export__.res_citymun_15503,CITY OF ALAMINOS,15503,__export__.res_province_155,TRUE
+__export__.res_citymun_15504,ALCALA,15504,__export__.res_province_155,TRUE
+__export__.res_citymun_15505,ANDA,15505,__export__.res_province_155,TRUE
+__export__.res_citymun_15506,ASINGAN,15506,__export__.res_province_155,TRUE
+__export__.res_citymun_15507,BALUNGAO,15507,__export__.res_province_155,TRUE
+__export__.res_citymun_15508,BANI,15508,__export__.res_province_155,TRUE
+__export__.res_citymun_15509,BASISTA,15509,__export__.res_province_155,TRUE
+__export__.res_citymun_15510,BAUTISTA,15510,__export__.res_province_155,TRUE
+__export__.res_citymun_15511,BAYAMBANG,15511,__export__.res_province_155,TRUE
+__export__.res_citymun_15512,BINALONAN,15512,__export__.res_province_155,TRUE
+__export__.res_citymun_15513,BINMALEY,15513,__export__.res_province_155,TRUE
+__export__.res_citymun_15514,BOLINAO,15514,__export__.res_province_155,TRUE
+__export__.res_citymun_15515,BUGALLON,15515,__export__.res_province_155,TRUE
+__export__.res_citymun_15516,BURGOS,15516,__export__.res_province_155,TRUE
+__export__.res_citymun_15517,CALASIAO,15517,__export__.res_province_155,TRUE
+__export__.res_citymun_15518,DAGUPAN CITY,15518,__export__.res_province_155,TRUE
+__export__.res_citymun_15519,DASOL,15519,__export__.res_province_155,TRUE
+__export__.res_citymun_15520,INFANTA,15520,__export__.res_province_155,TRUE
+__export__.res_citymun_15521,LABRADOR,15521,__export__.res_province_155,TRUE
+__export__.res_citymun_15522,LINGAYEN (Capital),15522,__export__.res_province_155,TRUE
+__export__.res_citymun_15523,MABINI,15523,__export__.res_province_155,TRUE
+__export__.res_citymun_15524,MALASIQUI,15524,__export__.res_province_155,TRUE
+__export__.res_citymun_15525,MANAOAG,15525,__export__.res_province_155,TRUE
+__export__.res_citymun_15526,MANGALDAN,15526,__export__.res_province_155,TRUE
+__export__.res_citymun_15527,MANGATAREM,15527,__export__.res_province_155,TRUE
+__export__.res_citymun_15528,MAPANDAN,15528,__export__.res_province_155,TRUE
+__export__.res_citymun_15529,NATIVIDAD,15529,__export__.res_province_155,TRUE
+__export__.res_citymun_15530,POZORRUBIO,15530,__export__.res_province_155,TRUE
+__export__.res_citymun_15531,ROSALES,15531,__export__.res_province_155,TRUE
+__export__.res_citymun_15532,SAN CARLOS CITY,15532,__export__.res_province_155,TRUE
+__export__.res_citymun_15533,SAN FABIAN,15533,__export__.res_province_155,TRUE
+__export__.res_citymun_15534,SAN JACINTO,15534,__export__.res_province_155,TRUE
+__export__.res_citymun_15535,SAN MANUEL,15535,__export__.res_province_155,TRUE
+__export__.res_citymun_15536,SAN NICOLAS,15536,__export__.res_province_155,TRUE
+__export__.res_citymun_15537,SAN QUINTIN,15537,__export__.res_province_155,TRUE
+__export__.res_citymun_15538,SANTA BARBARA,15538,__export__.res_province_155,TRUE
+__export__.res_citymun_15539,SANTA MARIA,15539,__export__.res_province_155,TRUE
+__export__.res_citymun_15540,SANTO TOMAS,15540,__export__.res_province_155,TRUE
+__export__.res_citymun_15541,SISON,15541,__export__.res_province_155,TRUE
+__export__.res_citymun_15542,SUAL,15542,__export__.res_province_155,TRUE
+__export__.res_citymun_15543,TAYUG,15543,__export__.res_province_155,TRUE
+__export__.res_citymun_15544,UMINGAN,15544,__export__.res_province_155,TRUE
+__export__.res_citymun_15545,URBIZTONDO,15545,__export__.res_province_155,TRUE
+__export__.res_citymun_15546,CITY OF URDANETA,15546,__export__.res_province_155,TRUE
+__export__.res_citymun_15547,VILLASIS,15547,__export__.res_province_155,TRUE
+__export__.res_citymun_15548,LAOAC,15548,__export__.res_province_155,TRUE
+__export__.res_citymun_20901,BASCO (Capital),20901,__export__.res_province_209,TRUE
+__export__.res_citymun_20902,ITBAYAT,20902,__export__.res_province_209,TRUE
+__export__.res_citymun_20903,IVANA,20903,__export__.res_province_209,TRUE
+__export__.res_citymun_20904,MAHATAO,20904,__export__.res_province_209,TRUE
+__export__.res_citymun_20905,SABTANG,20905,__export__.res_province_209,TRUE
+__export__.res_citymun_20906,UYUGAN,20906,__export__.res_province_209,TRUE
+__export__.res_citymun_21501,ABULUG,21501,__export__.res_province_215,TRUE
+__export__.res_citymun_21502,ALCALA,21502,__export__.res_province_215,TRUE
+__export__.res_citymun_21503,ALLACAPAN,21503,__export__.res_province_215,TRUE
+__export__.res_citymun_21504,AMULUNG,21504,__export__.res_province_215,TRUE
+__export__.res_citymun_21505,APARRI,21505,__export__.res_province_215,TRUE
+__export__.res_citymun_21506,BAGGAO,21506,__export__.res_province_215,TRUE
+__export__.res_citymun_21507,BALLESTEROS,21507,__export__.res_province_215,TRUE
+__export__.res_citymun_21508,BUGUEY,21508,__export__.res_province_215,TRUE
+__export__.res_citymun_21509,CALAYAN,21509,__export__.res_province_215,TRUE
+__export__.res_citymun_21510,CAMALANIUGAN,21510,__export__.res_province_215,TRUE
+__export__.res_citymun_21511,CLAVERIA,21511,__export__.res_province_215,TRUE
+__export__.res_citymun_21512,ENRILE,21512,__export__.res_province_215,TRUE
+__export__.res_citymun_21513,GATTARAN,21513,__export__.res_province_215,TRUE
+__export__.res_citymun_21514,GONZAGA,21514,__export__.res_province_215,TRUE
+__export__.res_citymun_21515,IGUIG,21515,__export__.res_province_215,TRUE
+__export__.res_citymun_21516,LAL-LO,21516,__export__.res_province_215,TRUE
+__export__.res_citymun_21517,LASAM,21517,__export__.res_province_215,TRUE
+__export__.res_citymun_21518,PAMPLONA,21518,__export__.res_province_215,TRUE
+__export__.res_citymun_21519,PEÑABLANCA,21519,__export__.res_province_215,TRUE
+__export__.res_citymun_21520,PIAT,21520,__export__.res_province_215,TRUE
+__export__.res_citymun_21521,RIZAL,21521,__export__.res_province_215,TRUE
+__export__.res_citymun_21522,SANCHEZ-MIRA,21522,__export__.res_province_215,TRUE
+__export__.res_citymun_21523,SANTA ANA,21523,__export__.res_province_215,TRUE
+__export__.res_citymun_21524,SANTA PRAXEDES,21524,__export__.res_province_215,TRUE
+__export__.res_citymun_21525,SANTA TERESITA,21525,__export__.res_province_215,TRUE
+__export__.res_citymun_21526,SANTO NIÑO (FAIRE),21526,__export__.res_province_215,TRUE
+__export__.res_citymun_21527,SOLANA,21527,__export__.res_province_215,TRUE
+__export__.res_citymun_21528,TUAO,21528,__export__.res_province_215,TRUE
+__export__.res_citymun_21529,TUGUEGARAO CITY (Capital),21529,__export__.res_province_215,TRUE
+__export__.res_citymun_23101,ALICIA,23101,__export__.res_province_231,TRUE
+__export__.res_citymun_23102,ANGADANAN,23102,__export__.res_province_231,TRUE
+__export__.res_citymun_23103,AURORA,23103,__export__.res_province_231,TRUE
+__export__.res_citymun_23104,BENITO SOLIVEN,23104,__export__.res_province_231,TRUE
+__export__.res_citymun_23105,BURGOS,23105,__export__.res_province_231,TRUE
+__export__.res_citymun_23106,CABAGAN,23106,__export__.res_province_231,TRUE
+__export__.res_citymun_23107,CABATUAN,23107,__export__.res_province_231,TRUE
+__export__.res_citymun_23108,CITY OF CAUAYAN,23108,__export__.res_province_231,TRUE
+__export__.res_citymun_23109,CORDON,23109,__export__.res_province_231,TRUE
+__export__.res_citymun_23110,DINAPIGUE,23110,__export__.res_province_231,TRUE
+__export__.res_citymun_23111,DIVILACAN,23111,__export__.res_province_231,TRUE
+__export__.res_citymun_23112,ECHAGUE,23112,__export__.res_province_231,TRUE
+__export__.res_citymun_23113,GAMU,23113,__export__.res_province_231,TRUE
+__export__.res_citymun_23114,ILAGAN CITY (Capital),23114,__export__.res_province_231,TRUE
+__export__.res_citymun_23115,JONES,23115,__export__.res_province_231,TRUE
+__export__.res_citymun_23116,LUNA,23116,__export__.res_province_231,TRUE
+__export__.res_citymun_23117,MACONACON,23117,__export__.res_province_231,TRUE
+__export__.res_citymun_23118,DELFIN ALBANO (MAGSAYSAY),23118,__export__.res_province_231,TRUE
+__export__.res_citymun_23119,MALLIG,23119,__export__.res_province_231,TRUE
+__export__.res_citymun_23120,NAGUILIAN,23120,__export__.res_province_231,TRUE
+__export__.res_citymun_23121,PALANAN,23121,__export__.res_province_231,TRUE
+__export__.res_citymun_23122,QUEZON,23122,__export__.res_province_231,TRUE
+__export__.res_citymun_23123,QUIRINO,23123,__export__.res_province_231,TRUE
+__export__.res_citymun_23124,RAMON,23124,__export__.res_province_231,TRUE
+__export__.res_citymun_23125,REINA MERCEDES,23125,__export__.res_province_231,TRUE
+__export__.res_citymun_23126,ROXAS,23126,__export__.res_province_231,TRUE
+__export__.res_citymun_23127,SAN AGUSTIN,23127,__export__.res_province_231,TRUE
+__export__.res_citymun_23128,SAN GUILLERMO,23128,__export__.res_province_231,TRUE
+__export__.res_citymun_23129,SAN ISIDRO,23129,__export__.res_province_231,TRUE
+__export__.res_citymun_23130,SAN MANUEL,23130,__export__.res_province_231,TRUE
+__export__.res_citymun_23131,SAN MARIANO,23131,__export__.res_province_231,TRUE
+__export__.res_citymun_23132,SAN MATEO,23132,__export__.res_province_231,TRUE
+__export__.res_citymun_23133,SAN PABLO,23133,__export__.res_province_231,TRUE
+__export__.res_citymun_23134,SANTA MARIA,23134,__export__.res_province_231,TRUE
+__export__.res_citymun_23135,CITY OF SANTIAGO,23135,__export__.res_province_231,TRUE
+__export__.res_citymun_23136,SANTO TOMAS,23136,__export__.res_province_231,TRUE
+__export__.res_citymun_23137,TUMAUINI,23137,__export__.res_province_231,TRUE
+__export__.res_citymun_25001,AMBAGUIO,25001,__export__.res_province_250,TRUE
+__export__.res_citymun_25002,ARITAO,25002,__export__.res_province_250,TRUE
+__export__.res_citymun_25003,BAGABAG,25003,__export__.res_province_250,TRUE
+__export__.res_citymun_25004,BAMBANG,25004,__export__.res_province_250,TRUE
+__export__.res_citymun_25005,BAYOMBONG (Capital),25005,__export__.res_province_250,TRUE
+__export__.res_citymun_25006,DIADI,25006,__export__.res_province_250,TRUE
+__export__.res_citymun_25007,DUPAX DEL NORTE,25007,__export__.res_province_250,TRUE
+__export__.res_citymun_25008,DUPAX DEL SUR,25008,__export__.res_province_250,TRUE
+__export__.res_citymun_25009,KASIBU,25009,__export__.res_province_250,TRUE
+__export__.res_citymun_25010,KAYAPA,25010,__export__.res_province_250,TRUE
+__export__.res_citymun_25011,QUEZON,25011,__export__.res_province_250,TRUE
+__export__.res_citymun_25012,SANTA FE,25012,__export__.res_province_250,TRUE
+__export__.res_citymun_25013,SOLANO,25013,__export__.res_province_250,TRUE
+__export__.res_citymun_25014,VILLAVERDE,25014,__export__.res_province_250,TRUE
+__export__.res_citymun_25015,ALFONSO CASTANEDA,25015,__export__.res_province_250,TRUE
+__export__.res_citymun_25701,AGLIPAY,25701,__export__.res_province_257,TRUE
+__export__.res_citymun_25702,CABARROGUIS (Capital),25702,__export__.res_province_257,TRUE
+__export__.res_citymun_25703,DIFFUN,25703,__export__.res_province_257,TRUE
+__export__.res_citymun_25704,MADDELA,25704,__export__.res_province_257,TRUE
+__export__.res_citymun_25705,SAGUDAY,25705,__export__.res_province_257,TRUE
+__export__.res_citymun_25706,NAGTIPUNAN,25706,__export__.res_province_257,TRUE
+__export__.res_citymun_30801,ABUCAY,30801,__export__.res_province_308,TRUE
+__export__.res_citymun_30802,BAGAC,30802,__export__.res_province_308,TRUE
+__export__.res_citymun_30803,CITY OF BALANGA (Capital),30803,__export__.res_province_308,TRUE
+__export__.res_citymun_30804,DINALUPIHAN,30804,__export__.res_province_308,TRUE
+__export__.res_citymun_30805,HERMOSA,30805,__export__.res_province_308,TRUE
+__export__.res_citymun_30806,LIMAY,30806,__export__.res_province_308,TRUE
+__export__.res_citymun_30807,MARIVELES,30807,__export__.res_province_308,TRUE
+__export__.res_citymun_30808,MORONG,30808,__export__.res_province_308,TRUE
+__export__.res_citymun_30809,ORANI,30809,__export__.res_province_308,TRUE
+__export__.res_citymun_30810,ORION,30810,__export__.res_province_308,TRUE
+__export__.res_citymun_30811,PILAR,30811,__export__.res_province_308,TRUE
+__export__.res_citymun_30812,SAMAL,30812,__export__.res_province_308,TRUE
+__export__.res_citymun_31401,ANGAT,31401,__export__.res_province_314,TRUE
+__export__.res_citymun_31402,BALAGTAS (BIGAA),31402,__export__.res_province_314,TRUE
+__export__.res_citymun_31403,BALIUAG,31403,__export__.res_province_314,TRUE
+__export__.res_citymun_31404,BOCAUE,31404,__export__.res_province_314,TRUE
+__export__.res_citymun_31405,BULACAN,31405,__export__.res_province_314,TRUE
+__export__.res_citymun_31406,BUSTOS,31406,__export__.res_province_314,TRUE
+__export__.res_citymun_31407,CALUMPIT,31407,__export__.res_province_314,TRUE
+__export__.res_citymun_31408,GUIGUINTO,31408,__export__.res_province_314,TRUE
+__export__.res_citymun_31409,HAGONOY,31409,__export__.res_province_314,TRUE
+__export__.res_citymun_31410,CITY OF MALOLOS (Capital),31410,__export__.res_province_314,TRUE
+__export__.res_citymun_31411,MARILAO,31411,__export__.res_province_314,TRUE
+__export__.res_citymun_31412,CITY OF MEYCAUAYAN,31412,__export__.res_province_314,TRUE
+__export__.res_citymun_31413,NORZAGARAY,31413,__export__.res_province_314,TRUE
+__export__.res_citymun_31414,OBANDO,31414,__export__.res_province_314,TRUE
+__export__.res_citymun_31415,PANDI,31415,__export__.res_province_314,TRUE
+__export__.res_citymun_31416,PAOMBONG,31416,__export__.res_province_314,TRUE
+__export__.res_citymun_31417,PLARIDEL,31417,__export__.res_province_314,TRUE
+__export__.res_citymun_31418,PULILAN,31418,__export__.res_province_314,TRUE
+__export__.res_citymun_31419,SAN ILDEFONSO,31419,__export__.res_province_314,TRUE
+__export__.res_citymun_31420,CITY OF SAN JOSE DEL MONTE,31420,__export__.res_province_314,TRUE
+__export__.res_citymun_31421,SAN MIGUEL,31421,__export__.res_province_314,TRUE
+__export__.res_citymun_31422,SAN RAFAEL,31422,__export__.res_province_314,TRUE
+__export__.res_citymun_31423,SANTA MARIA,31423,__export__.res_province_314,TRUE
+__export__.res_citymun_31424,DOÑA REMEDIOS TRINIDAD,31424,__export__.res_province_314,TRUE
+__export__.res_citymun_34901,ALIAGA,34901,__export__.res_province_349,TRUE
+__export__.res_citymun_34902,BONGABON,34902,__export__.res_province_349,TRUE
+__export__.res_citymun_34903,CABANATUAN CITY,34903,__export__.res_province_349,TRUE
+__export__.res_citymun_34904,CABIAO,34904,__export__.res_province_349,TRUE
+__export__.res_citymun_34905,CARRANGLAN,34905,__export__.res_province_349,TRUE
+__export__.res_citymun_34906,CUYAPO,34906,__export__.res_province_349,TRUE
+__export__.res_citymun_34907,GABALDON (BITULOK & SABANI),34907,__export__.res_province_349,TRUE
+__export__.res_citymun_34908,CITY OF GAPAN,34908,__export__.res_province_349,TRUE
+__export__.res_citymun_34909,GENERAL MAMERTO NATIVIDAD,34909,__export__.res_province_349,TRUE
+__export__.res_citymun_34910,GENERAL TINIO (PAPAYA),34910,__export__.res_province_349,TRUE
+__export__.res_citymun_34911,GUIMBA,34911,__export__.res_province_349,TRUE
+__export__.res_citymun_34912,JAEN,34912,__export__.res_province_349,TRUE
+__export__.res_citymun_34913,LAUR,34913,__export__.res_province_349,TRUE
+__export__.res_citymun_34914,LICAB,34914,__export__.res_province_349,TRUE
+__export__.res_citymun_34915,LLANERA,34915,__export__.res_province_349,TRUE
+__export__.res_citymun_34916,LUPAO,34916,__export__.res_province_349,TRUE
+__export__.res_citymun_34917,SCIENCE CITY OF MUÑOZ,34917,__export__.res_province_349,TRUE
+__export__.res_citymun_34918,NAMPICUAN,34918,__export__.res_province_349,TRUE
+__export__.res_citymun_34919,PALAYAN CITY (Capital),34919,__export__.res_province_349,TRUE
+__export__.res_citymun_34920,PANTABANGAN,34920,__export__.res_province_349,TRUE
+__export__.res_citymun_34921,PEÑARANDA,34921,__export__.res_province_349,TRUE
+__export__.res_citymun_34922,QUEZON,34922,__export__.res_province_349,TRUE
+__export__.res_citymun_34923,RIZAL,34923,__export__.res_province_349,TRUE
+__export__.res_citymun_34924,SAN ANTONIO,34924,__export__.res_province_349,TRUE
+__export__.res_citymun_34925,SAN ISIDRO,34925,__export__.res_province_349,TRUE
+__export__.res_citymun_34926,SAN JOSE CITY,34926,__export__.res_province_349,TRUE
+__export__.res_citymun_34927,SAN LEONARDO,34927,__export__.res_province_349,TRUE
+__export__.res_citymun_34928,SANTA ROSA,34928,__export__.res_province_349,TRUE
+__export__.res_citymun_34929,SANTO DOMINGO,34929,__export__.res_province_349,TRUE
+__export__.res_citymun_34930,TALAVERA,34930,__export__.res_province_349,TRUE
+__export__.res_citymun_34931,TALUGTUG,34931,__export__.res_province_349,TRUE
+__export__.res_citymun_34932,ZARAGOZA,34932,__export__.res_province_349,TRUE
+__export__.res_citymun_35401,ANGELES CITY,35401,__export__.res_province_354,TRUE
+__export__.res_citymun_35402,APALIT,35402,__export__.res_province_354,TRUE
+__export__.res_citymun_35403,ARAYAT,35403,__export__.res_province_354,TRUE
+__export__.res_citymun_35404,BACOLOR,35404,__export__.res_province_354,TRUE
+__export__.res_citymun_35405,CANDABA,35405,__export__.res_province_354,TRUE
+__export__.res_citymun_35406,FLORIDABLANCA,35406,__export__.res_province_354,TRUE
+__export__.res_citymun_35407,GUAGUA,35407,__export__.res_province_354,TRUE
+__export__.res_citymun_35408,LUBAO,35408,__export__.res_province_354,TRUE
+__export__.res_citymun_35409,MABALACAT CITY,35409,__export__.res_province_354,TRUE
+__export__.res_citymun_35410,MACABEBE,35410,__export__.res_province_354,TRUE
+__export__.res_citymun_35411,MAGALANG,35411,__export__.res_province_354,TRUE
+__export__.res_citymun_35412,MASANTOL,35412,__export__.res_province_354,TRUE
+__export__.res_citymun_35413,MEXICO,35413,__export__.res_province_354,TRUE
+__export__.res_citymun_35414,MINALIN,35414,__export__.res_province_354,TRUE
+__export__.res_citymun_35415,PORAC,35415,__export__.res_province_354,TRUE
+__export__.res_citymun_35416,CITY OF SAN FERNANDO (Capital),35416,__export__.res_province_354,TRUE
+__export__.res_citymun_35417,SAN LUIS,35417,__export__.res_province_354,TRUE
+__export__.res_citymun_35418,SAN SIMON,35418,__export__.res_province_354,TRUE
+__export__.res_citymun_35419,SANTA ANA,35419,__export__.res_province_354,TRUE
+__export__.res_citymun_35420,SANTA RITA,35420,__export__.res_province_354,TRUE
+__export__.res_citymun_35421,SANTO TOMAS,35421,__export__.res_province_354,TRUE
+__export__.res_citymun_35422,SASMUAN (Sexmoan),35422,__export__.res_province_354,TRUE
+__export__.res_citymun_36901,ANAO,36901,__export__.res_province_369,TRUE
+__export__.res_citymun_36902,BAMBAN,36902,__export__.res_province_369,TRUE
+__export__.res_citymun_36903,CAMILING,36903,__export__.res_province_369,TRUE
+__export__.res_citymun_36904,CAPAS,36904,__export__.res_province_369,TRUE
+__export__.res_citymun_36905,CONCEPCION,36905,__export__.res_province_369,TRUE
+__export__.res_citymun_36906,GERONA,36906,__export__.res_province_369,TRUE
+__export__.res_citymun_36907,LA PAZ,36907,__export__.res_province_369,TRUE
+__export__.res_citymun_36908,MAYANTOC,36908,__export__.res_province_369,TRUE
+__export__.res_citymun_36909,MONCADA,36909,__export__.res_province_369,TRUE
+__export__.res_citymun_36910,PANIQUI,36910,__export__.res_province_369,TRUE
+__export__.res_citymun_36911,PURA,36911,__export__.res_province_369,TRUE
+__export__.res_citymun_36912,RAMOS,36912,__export__.res_province_369,TRUE
+__export__.res_citymun_36913,SAN CLEMENTE,36913,__export__.res_province_369,TRUE
+__export__.res_citymun_36914,SAN MANUEL,36914,__export__.res_province_369,TRUE
+__export__.res_citymun_36915,SANTA IGNACIA,36915,__export__.res_province_369,TRUE
+__export__.res_citymun_36916,CITY OF TARLAC (Capital),36916,__export__.res_province_369,TRUE
+__export__.res_citymun_36917,VICTORIA,36917,__export__.res_province_369,TRUE
+__export__.res_citymun_36918,SAN JOSE,36918,__export__.res_province_369,TRUE
+__export__.res_citymun_37101,BOTOLAN,37101,__export__.res_province_371,TRUE
+__export__.res_citymun_37102,CABANGAN,37102,__export__.res_province_371,TRUE
+__export__.res_citymun_37103,CANDELARIA,37103,__export__.res_province_371,TRUE
+__export__.res_citymun_37104,CASTILLEJOS,37104,__export__.res_province_371,TRUE
+__export__.res_citymun_37105,IBA (Capital),37105,__export__.res_province_371,TRUE
+__export__.res_citymun_37106,MASINLOC,37106,__export__.res_province_371,TRUE
+__export__.res_citymun_37107,OLONGAPO CITY,37107,__export__.res_province_371,TRUE
+__export__.res_citymun_37108,PALAUIG,37108,__export__.res_province_371,TRUE
+__export__.res_citymun_37109,SAN ANTONIO,37109,__export__.res_province_371,TRUE
+__export__.res_citymun_37110,SAN FELIPE,37110,__export__.res_province_371,TRUE
+__export__.res_citymun_37111,SAN MARCELINO,37111,__export__.res_province_371,TRUE
+__export__.res_citymun_37112,SAN NARCISO,37112,__export__.res_province_371,TRUE
+__export__.res_citymun_37113,SANTA CRUZ,37113,__export__.res_province_371,TRUE
+__export__.res_citymun_37114,SUBIC,37114,__export__.res_province_371,TRUE
+__export__.res_citymun_37701,BALER (Capital),37701,__export__.res_province_377,TRUE
+__export__.res_citymun_37702,CASIGURAN,37702,__export__.res_province_377,TRUE
+__export__.res_citymun_37703,DILASAG,37703,__export__.res_province_377,TRUE
+__export__.res_citymun_37704,DINALUNGAN,37704,__export__.res_province_377,TRUE
+__export__.res_citymun_37705,DINGALAN,37705,__export__.res_province_377,TRUE
+__export__.res_citymun_37706,DIPACULAO,37706,__export__.res_province_377,TRUE
+__export__.res_citymun_37707,MARIA AURORA,37707,__export__.res_province_377,TRUE
+__export__.res_citymun_37708,SAN LUIS,37708,__export__.res_province_377,TRUE
+__export__.res_citymun_41001,AGONCILLO,41001,__export__.res_province_410,TRUE
+__export__.res_citymun_41002,ALITAGTAG,41002,__export__.res_province_410,TRUE
+__export__.res_citymun_41003,BALAYAN,41003,__export__.res_province_410,TRUE
+__export__.res_citymun_41004,BALETE,41004,__export__.res_province_410,TRUE
+__export__.res_citymun_41005,BATANGAS CITY (Capital),41005,__export__.res_province_410,TRUE
+__export__.res_citymun_41006,BAUAN,41006,__export__.res_province_410,TRUE
+__export__.res_citymun_41007,CALACA,41007,__export__.res_province_410,TRUE
+__export__.res_citymun_41008,CALATAGAN,41008,__export__.res_province_410,TRUE
+__export__.res_citymun_41009,CUENCA,41009,__export__.res_province_410,TRUE
+__export__.res_citymun_41010,IBAAN,41010,__export__.res_province_410,TRUE
+__export__.res_citymun_41011,LAUREL,41011,__export__.res_province_410,TRUE
+__export__.res_citymun_41012,LEMERY,41012,__export__.res_province_410,TRUE
+__export__.res_citymun_41013,LIAN,41013,__export__.res_province_410,TRUE
+__export__.res_citymun_41014,LIPA CITY,41014,__export__.res_province_410,TRUE
+__export__.res_citymun_41015,LOBO,41015,__export__.res_province_410,TRUE
+__export__.res_citymun_41016,MABINI,41016,__export__.res_province_410,TRUE
+__export__.res_citymun_41017,MALVAR,41017,__export__.res_province_410,TRUE
+__export__.res_citymun_41018,MATAASNAKAHOY,41018,__export__.res_province_410,TRUE
+__export__.res_citymun_41019,NASUGBU,41019,__export__.res_province_410,TRUE
+__export__.res_citymun_41020,PADRE GARCIA,41020,__export__.res_province_410,TRUE
+__export__.res_citymun_41021,ROSARIO,41021,__export__.res_province_410,TRUE
+__export__.res_citymun_41022,SAN JOSE,41022,__export__.res_province_410,TRUE
+__export__.res_citymun_41023,SAN JUAN,41023,__export__.res_province_410,TRUE
+__export__.res_citymun_41024,SAN LUIS,41024,__export__.res_province_410,TRUE
+__export__.res_citymun_41025,SAN NICOLAS,41025,__export__.res_province_410,TRUE
+__export__.res_citymun_41026,SAN PASCUAL,41026,__export__.res_province_410,TRUE
+__export__.res_citymun_41027,SANTA TERESITA,41027,__export__.res_province_410,TRUE
+__export__.res_citymun_41028,SANTO TOMAS,41028,__export__.res_province_410,TRUE
+__export__.res_citymun_41029,TAAL,41029,__export__.res_province_410,TRUE
+__export__.res_citymun_41030,TALISAY,41030,__export__.res_province_410,TRUE
+__export__.res_citymun_41031,CITY OF TANAUAN,41031,__export__.res_province_410,TRUE
+__export__.res_citymun_41032,TAYSAN,41032,__export__.res_province_410,TRUE
+__export__.res_citymun_41033,TINGLOY,41033,__export__.res_province_410,TRUE
+__export__.res_citymun_41034,TUY,41034,__export__.res_province_410,TRUE
+__export__.res_citymun_42101,ALFONSO,42101,__export__.res_province_421,TRUE
+__export__.res_citymun_42102,AMADEO,42102,__export__.res_province_421,TRUE
+__export__.res_citymun_42103,BACOOR CITY,42103,__export__.res_province_421,TRUE
+__export__.res_citymun_42104,CARMONA,42104,__export__.res_province_421,TRUE
+__export__.res_citymun_42105,CAVITE CITY,42105,__export__.res_province_421,TRUE
+__export__.res_citymun_42106,CITY OF DASMARIÑAS,42106,__export__.res_province_421,TRUE
+__export__.res_citymun_42107,GENERAL EMILIO AGUINALDO,42107,__export__.res_province_421,TRUE
+__export__.res_citymun_42108,GENERAL TRIAS,42108,__export__.res_province_421,TRUE
+__export__.res_citymun_42109,IMUS CITY,42109,__export__.res_province_421,TRUE
+__export__.res_citymun_42110,INDANG,42110,__export__.res_province_421,TRUE
+__export__.res_citymun_42111,KAWIT,42111,__export__.res_province_421,TRUE
+__export__.res_citymun_42112,MAGALLANES,42112,__export__.res_province_421,TRUE
+__export__.res_citymun_42113,MARAGONDON,42113,__export__.res_province_421,TRUE
+__export__.res_citymun_42114,MENDEZ (MENDEZ-NUÑEZ),42114,__export__.res_province_421,TRUE
+__export__.res_citymun_42115,NAIC,42115,__export__.res_province_421,TRUE
+__export__.res_citymun_42116,NOVELETA,42116,__export__.res_province_421,TRUE
+__export__.res_citymun_42117,ROSARIO,42117,__export__.res_province_421,TRUE
+__export__.res_citymun_42118,SILANG,42118,__export__.res_province_421,TRUE
+__export__.res_citymun_42119,TAGAYTAY CITY,42119,__export__.res_province_421,TRUE
+__export__.res_citymun_42120,TANZA,42120,__export__.res_province_421,TRUE
+__export__.res_citymun_42121,TERNATE,42121,__export__.res_province_421,TRUE
+__export__.res_citymun_42122,TRECE MARTIRES CITY (Capital),42122,__export__.res_province_421,TRUE
+__export__.res_citymun_42123,GEN. MARIANO ALVAREZ,42123,__export__.res_province_421,TRUE
+__export__.res_citymun_43401,ALAMINOS,43401,__export__.res_province_434,TRUE
+__export__.res_citymun_43402,BAY,43402,__export__.res_province_434,TRUE
+__export__.res_citymun_43403,CITY OF BIÑAN,43403,__export__.res_province_434,TRUE
+__export__.res_citymun_43404,CABUYAO CITY,43404,__export__.res_province_434,TRUE
+__export__.res_citymun_43405,CITY OF CALAMBA,43405,__export__.res_province_434,TRUE
+__export__.res_citymun_43406,CALAUAN,43406,__export__.res_province_434,TRUE
+__export__.res_citymun_43407,CAVINTI,43407,__export__.res_province_434,TRUE
+__export__.res_citymun_43408,FAMY,43408,__export__.res_province_434,TRUE
+__export__.res_citymun_43409,KALAYAAN,43409,__export__.res_province_434,TRUE
+__export__.res_citymun_43410,LILIW,43410,__export__.res_province_434,TRUE
+__export__.res_citymun_43411,LOS BAÑOS,43411,__export__.res_province_434,TRUE
+__export__.res_citymun_43412,LUISIANA,43412,__export__.res_province_434,TRUE
+__export__.res_citymun_43413,LUMBAN,43413,__export__.res_province_434,TRUE
+__export__.res_citymun_43414,MABITAC,43414,__export__.res_province_434,TRUE
+__export__.res_citymun_43415,MAGDALENA,43415,__export__.res_province_434,TRUE
+__export__.res_citymun_43416,MAJAYJAY,43416,__export__.res_province_434,TRUE
+__export__.res_citymun_43417,NAGCARLAN,43417,__export__.res_province_434,TRUE
+__export__.res_citymun_43418,PAETE,43418,__export__.res_province_434,TRUE
+__export__.res_citymun_43419,PAGSANJAN,43419,__export__.res_province_434,TRUE
+__export__.res_citymun_43420,PAKIL,43420,__export__.res_province_434,TRUE
+__export__.res_citymun_43421,PANGIL,43421,__export__.res_province_434,TRUE
+__export__.res_citymun_43422,PILA,43422,__export__.res_province_434,TRUE
+__export__.res_citymun_43423,RIZAL,43423,__export__.res_province_434,TRUE
+__export__.res_citymun_43424,SAN PABLO CITY,43424,__export__.res_province_434,TRUE
+__export__.res_citymun_43425,CITY OF SAN PEDRO,43425,__export__.res_province_434,TRUE
+__export__.res_citymun_43426,SANTA CRUZ (Capital),43426,__export__.res_province_434,TRUE
+__export__.res_citymun_43427,SANTA MARIA,43427,__export__.res_province_434,TRUE
+__export__.res_citymun_43428,CITY OF SANTA ROSA,43428,__export__.res_province_434,TRUE
+__export__.res_citymun_43429,SINILOAN,43429,__export__.res_province_434,TRUE
+__export__.res_citymun_43430,VICTORIA,43430,__export__.res_province_434,TRUE
+__export__.res_citymun_45601,AGDANGAN,45601,__export__.res_province_456,TRUE
+__export__.res_citymun_45602,ALABAT,45602,__export__.res_province_456,TRUE
+__export__.res_citymun_45603,ATIMONAN,45603,__export__.res_province_456,TRUE
+__export__.res_citymun_45605,BUENAVISTA,45605,__export__.res_province_456,TRUE
+__export__.res_citymun_45606,BURDEOS,45606,__export__.res_province_456,TRUE
+__export__.res_citymun_45607,CALAUAG,45607,__export__.res_province_456,TRUE
+__export__.res_citymun_45608,CANDELARIA,45608,__export__.res_province_456,TRUE
+__export__.res_citymun_45610,CATANAUAN,45610,__export__.res_province_456,TRUE
+__export__.res_citymun_45615,DOLORES,45615,__export__.res_province_456,TRUE
+__export__.res_citymun_45616,GENERAL LUNA,45616,__export__.res_province_456,TRUE
+__export__.res_citymun_45617,GENERAL NAKAR,45617,__export__.res_province_456,TRUE
+__export__.res_citymun_45618,GUINAYANGAN,45618,__export__.res_province_456,TRUE
+__export__.res_citymun_45619,GUMACA,45619,__export__.res_province_456,TRUE
+__export__.res_citymun_45620,INFANTA,45620,__export__.res_province_456,TRUE
+__export__.res_citymun_45621,JOMALIG,45621,__export__.res_province_456,TRUE
+__export__.res_citymun_45622,LOPEZ,45622,__export__.res_province_456,TRUE
+__export__.res_citymun_45623,LUCBAN,45623,__export__.res_province_456,TRUE
+__export__.res_citymun_45624,LUCENA CITY (Capital),45624,__export__.res_province_456,TRUE
+__export__.res_citymun_45625,MACALELON,45625,__export__.res_province_456,TRUE
+__export__.res_citymun_45627,MAUBAN,45627,__export__.res_province_456,TRUE
+__export__.res_citymun_45628,MULANAY,45628,__export__.res_province_456,TRUE
+__export__.res_citymun_45629,PADRE BURGOS,45629,__export__.res_province_456,TRUE
+__export__.res_citymun_45630,PAGBILAO,45630,__export__.res_province_456,TRUE
+__export__.res_citymun_45631,PANUKULAN,45631,__export__.res_province_456,TRUE
+__export__.res_citymun_45632,PATNANUNGAN,45632,__export__.res_province_456,TRUE
+__export__.res_citymun_45633,PEREZ,45633,__export__.res_province_456,TRUE
+__export__.res_citymun_45634,PITOGO,45634,__export__.res_province_456,TRUE
+__export__.res_citymun_45635,PLARIDEL,45635,__export__.res_province_456,TRUE
+__export__.res_citymun_45636,POLILLO,45636,__export__.res_province_456,TRUE
+__export__.res_citymun_45637,QUEZON,45637,__export__.res_province_456,TRUE
+__export__.res_citymun_45638,REAL,45638,__export__.res_province_456,TRUE
+__export__.res_citymun_45639,SAMPALOC,45639,__export__.res_province_456,TRUE
+__export__.res_citymun_45640,SAN ANDRES,45640,__export__.res_province_456,TRUE
+__export__.res_citymun_45641,SAN ANTONIO,45641,__export__.res_province_456,TRUE
+__export__.res_citymun_45642,SAN FRANCISCO (AURORA),45642,__export__.res_province_456,TRUE
+__export__.res_citymun_45644,SAN NARCISO,45644,__export__.res_province_456,TRUE
+__export__.res_citymun_45645,SARIAYA,45645,__export__.res_province_456,TRUE
+__export__.res_citymun_45646,TAGKAWAYAN,45646,__export__.res_province_456,TRUE
+__export__.res_citymun_45647,CITY OF TAYABAS,45647,__export__.res_province_456,TRUE
+__export__.res_citymun_45648,TIAONG,45648,__export__.res_province_456,TRUE
+__export__.res_citymun_45649,UNISAN,45649,__export__.res_province_456,TRUE
+__export__.res_citymun_45801,ANGONO,45801,__export__.res_province_458,TRUE
+__export__.res_citymun_45802,CITY OF ANTIPOLO,45802,__export__.res_province_458,TRUE
+__export__.res_citymun_45803,BARAS,45803,__export__.res_province_458,TRUE
+__export__.res_citymun_45804,BINANGONAN,45804,__export__.res_province_458,TRUE
+__export__.res_citymun_45805,CAINTA,45805,__export__.res_province_458,TRUE
+__export__.res_citymun_45806,CARDONA,45806,__export__.res_province_458,TRUE
+__export__.res_citymun_45807,JALA-JALA,45807,__export__.res_province_458,TRUE
+__export__.res_citymun_45808,RODRIGUEZ (MONTALBAN),45808,__export__.res_province_458,TRUE
+__export__.res_citymun_45809,MORONG,45809,__export__.res_province_458,TRUE
+__export__.res_citymun_45810,PILILLA,45810,__export__.res_province_458,TRUE
+__export__.res_citymun_45811,SAN MATEO,45811,__export__.res_province_458,TRUE
+__export__.res_citymun_45812,TANAY,45812,__export__.res_province_458,TRUE
+__export__.res_citymun_45813,TAYTAY,45813,__export__.res_province_458,TRUE
+__export__.res_citymun_45814,TERESA,45814,__export__.res_province_458,TRUE
+__export__.res_citymun_174001,BOAC (Capital),174001,__export__.res_province_1740,TRUE
+__export__.res_citymun_174002,BUENAVISTA,174002,__export__.res_province_1740,TRUE
+__export__.res_citymun_174003,GASAN,174003,__export__.res_province_1740,TRUE
+__export__.res_citymun_174004,MOGPOG,174004,__export__.res_province_1740,TRUE
+__export__.res_citymun_174005,SANTA CRUZ,174005,__export__.res_province_1740,TRUE
+__export__.res_citymun_174006,TORRIJOS,174006,__export__.res_province_1740,TRUE
+__export__.res_citymun_175101,ABRA DE ILOG,175101,__export__.res_province_1751,TRUE
+__export__.res_citymun_175102,CALINTAAN,175102,__export__.res_province_1751,TRUE
+__export__.res_citymun_175103,LOOC,175103,__export__.res_province_1751,TRUE
+__export__.res_citymun_175104,LUBANG,175104,__export__.res_province_1751,TRUE
+__export__.res_citymun_175105,MAGSAYSAY,175105,__export__.res_province_1751,TRUE
+__export__.res_citymun_175106,MAMBURAO (Capital),175106,__export__.res_province_1751,TRUE
+__export__.res_citymun_175107,PALUAN,175107,__export__.res_province_1751,TRUE
+__export__.res_citymun_175108,RIZAL,175108,__export__.res_province_1751,TRUE
+__export__.res_citymun_175109,SABLAYAN,175109,__export__.res_province_1751,TRUE
+__export__.res_citymun_175110,SAN JOSE,175110,__export__.res_province_1751,TRUE
+__export__.res_citymun_175111,SANTA CRUZ,175111,__export__.res_province_1751,TRUE
+__export__.res_citymun_175201,BACO,175201,__export__.res_province_1752,TRUE
+__export__.res_citymun_175202,BANSUD,175202,__export__.res_province_1752,TRUE
+__export__.res_citymun_175203,BONGABONG,175203,__export__.res_province_1752,TRUE
+__export__.res_citymun_175204,BULALACAO (SAN PEDRO),175204,__export__.res_province_1752,TRUE
+__export__.res_citymun_175205,CITY OF CALAPAN (Capital),175205,__export__.res_province_1752,TRUE
+__export__.res_citymun_175206,GLORIA,175206,__export__.res_province_1752,TRUE
+__export__.res_citymun_175207,MANSALAY,175207,__export__.res_province_1752,TRUE
+__export__.res_citymun_175208,NAUJAN,175208,__export__.res_province_1752,TRUE
+__export__.res_citymun_175209,PINAMALAYAN,175209,__export__.res_province_1752,TRUE
+__export__.res_citymun_175210,POLA,175210,__export__.res_province_1752,TRUE
+__export__.res_citymun_175211,PUERTO GALERA,175211,__export__.res_province_1752,TRUE
+__export__.res_citymun_175212,ROXAS,175212,__export__.res_province_1752,TRUE
+__export__.res_citymun_175213,SAN TEODORO,175213,__export__.res_province_1752,TRUE
+__export__.res_citymun_175214,SOCORRO,175214,__export__.res_province_1752,TRUE
+__export__.res_citymun_175215,VICTORIA,175215,__export__.res_province_1752,TRUE
+__export__.res_citymun_175301,ABORLAN,175301,__export__.res_province_1753,TRUE
+__export__.res_citymun_175302,AGUTAYA,175302,__export__.res_province_1753,TRUE
+__export__.res_citymun_175303,ARACELI,175303,__export__.res_province_1753,TRUE
+__export__.res_citymun_175304,BALABAC,175304,__export__.res_province_1753,TRUE
+__export__.res_citymun_175305,BATARAZA,175305,__export__.res_province_1753,TRUE
+__export__.res_citymun_175306,BROOKE'S POINT,175306,__export__.res_province_1753,TRUE
+__export__.res_citymun_175307,BUSUANGA,175307,__export__.res_province_1753,TRUE
+__export__.res_citymun_175308,CAGAYANCILLO,175308,__export__.res_province_1753,TRUE
+__export__.res_citymun_175309,CORON,175309,__export__.res_province_1753,TRUE
+__export__.res_citymun_175310,CUYO,175310,__export__.res_province_1753,TRUE
+__export__.res_citymun_175311,DUMARAN,175311,__export__.res_province_1753,TRUE
+__export__.res_citymun_175312,EL NIDO (BACUIT),175312,__export__.res_province_1753,TRUE
+__export__.res_citymun_175313,LINAPACAN,175313,__export__.res_province_1753,TRUE
+__export__.res_citymun_175314,MAGSAYSAY,175314,__export__.res_province_1753,TRUE
+__export__.res_citymun_175315,NARRA,175315,__export__.res_province_1753,TRUE
+__export__.res_citymun_175316,PUERTO PRINCESA CITY (Capital),175316,__export__.res_province_1753,TRUE
+__export__.res_citymun_175317,QUEZON,175317,__export__.res_province_1753,TRUE
+__export__.res_citymun_175318,ROXAS,175318,__export__.res_province_1753,TRUE
+__export__.res_citymun_175319,SAN VICENTE,175319,__export__.res_province_1753,TRUE
+__export__.res_citymun_175320,TAYTAY,175320,__export__.res_province_1753,TRUE
+__export__.res_citymun_175321,KALAYAAN,175321,__export__.res_province_1753,TRUE
+__export__.res_citymun_175322,CULION,175322,__export__.res_province_1753,TRUE
+__export__.res_citymun_175323,RIZAL (MARCOS),175323,__export__.res_province_1753,TRUE
+__export__.res_citymun_175324,SOFRONIO ESPAÑOLA,175324,__export__.res_province_1753,TRUE
+__export__.res_citymun_175901,ALCANTARA,175901,__export__.res_province_1759,TRUE
+__export__.res_citymun_175902,BANTON,175902,__export__.res_province_1759,TRUE
+__export__.res_citymun_175903,CAJIDIOCAN,175903,__export__.res_province_1759,TRUE
+__export__.res_citymun_175904,CALATRAVA,175904,__export__.res_province_1759,TRUE
+__export__.res_citymun_175905,CONCEPCION,175905,__export__.res_province_1759,TRUE
+__export__.res_citymun_175906,CORCUERA,175906,__export__.res_province_1759,TRUE
+__export__.res_citymun_175907,LOOC,175907,__export__.res_province_1759,TRUE
+__export__.res_citymun_175908,MAGDIWANG,175908,__export__.res_province_1759,TRUE
+__export__.res_citymun_175909,ODIONGAN,175909,__export__.res_province_1759,TRUE
+__export__.res_citymun_175910,ROMBLON (Capital),175910,__export__.res_province_1759,TRUE
+__export__.res_citymun_175911,SAN AGUSTIN,175911,__export__.res_province_1759,TRUE
+__export__.res_citymun_175912,SAN ANDRES,175912,__export__.res_province_1759,TRUE
+__export__.res_citymun_175913,SAN FERNANDO,175913,__export__.res_province_1759,TRUE
+__export__.res_citymun_175914,SAN JOSE,175914,__export__.res_province_1759,TRUE
+__export__.res_citymun_175915,SANTA FE,175915,__export__.res_province_1759,TRUE
+__export__.res_citymun_175916,FERROL,175916,__export__.res_province_1759,TRUE
+__export__.res_citymun_175917,SANTA MARIA (IMELDA),175917,__export__.res_province_1759,TRUE
+__export__.res_citymun_50501,BACACAY,50501,__export__.res_province_505,TRUE
+__export__.res_citymun_50502,CAMALIG,50502,__export__.res_province_505,TRUE
+__export__.res_citymun_50503,DARAGA (LOCSIN),50503,__export__.res_province_505,TRUE
+__export__.res_citymun_50504,GUINOBATAN,50504,__export__.res_province_505,TRUE
+__export__.res_citymun_50505,JOVELLAR,50505,__export__.res_province_505,TRUE
+__export__.res_citymun_50506,LEGAZPI CITY (Capital),50506,__export__.res_province_505,TRUE
+__export__.res_citymun_50507,LIBON,50507,__export__.res_province_505,TRUE
+__export__.res_citymun_50508,CITY OF LIGAO,50508,__export__.res_province_505,TRUE
+__export__.res_citymun_50509,MALILIPOT,50509,__export__.res_province_505,TRUE
+__export__.res_citymun_50510,MALINAO,50510,__export__.res_province_505,TRUE
+__export__.res_citymun_50511,MANITO,50511,__export__.res_province_505,TRUE
+__export__.res_citymun_50512,OAS,50512,__export__.res_province_505,TRUE
+__export__.res_citymun_50513,PIO DURAN,50513,__export__.res_province_505,TRUE
+__export__.res_citymun_50514,POLANGUI,50514,__export__.res_province_505,TRUE
+__export__.res_citymun_50515,RAPU-RAPU,50515,__export__.res_province_505,TRUE
+__export__.res_citymun_50516,SANTO DOMINGO (LIBOG),50516,__export__.res_province_505,TRUE
+__export__.res_citymun_50517,CITY OF TABACO,50517,__export__.res_province_505,TRUE
+__export__.res_citymun_50518,TIWI,50518,__export__.res_province_505,TRUE
+__export__.res_citymun_51601,BASUD,51601,__export__.res_province_516,TRUE
+__export__.res_citymun_51602,CAPALONGA,51602,__export__.res_province_516,TRUE
+__export__.res_citymun_51603,DAET (Capital),51603,__export__.res_province_516,TRUE
+__export__.res_citymun_51604,SAN LORENZO RUIZ (IMELDA),51604,__export__.res_province_516,TRUE
+__export__.res_citymun_51605,JOSE PANGANIBAN,51605,__export__.res_province_516,TRUE
+__export__.res_citymun_51606,LABO,51606,__export__.res_province_516,TRUE
+__export__.res_citymun_51607,MERCEDES,51607,__export__.res_province_516,TRUE
+__export__.res_citymun_51608,PARACALE,51608,__export__.res_province_516,TRUE
+__export__.res_citymun_51609,SAN VICENTE,51609,__export__.res_province_516,TRUE
+__export__.res_citymun_51610,SANTA ELENA,51610,__export__.res_province_516,TRUE
+__export__.res_citymun_51611,TALISAY,51611,__export__.res_province_516,TRUE
+__export__.res_citymun_51612,VINZONS,51612,__export__.res_province_516,TRUE
+__export__.res_citymun_51701,BAAO,51701,__export__.res_province_517,TRUE
+__export__.res_citymun_51702,BALATAN,51702,__export__.res_province_517,TRUE
+__export__.res_citymun_51703,BATO,51703,__export__.res_province_517,TRUE
+__export__.res_citymun_51704,BOMBON,51704,__export__.res_province_517,TRUE
+__export__.res_citymun_51705,BUHI,51705,__export__.res_province_517,TRUE
+__export__.res_citymun_51706,BULA,51706,__export__.res_province_517,TRUE
+__export__.res_citymun_51707,CABUSAO,51707,__export__.res_province_517,TRUE
+__export__.res_citymun_51708,CALABANGA,51708,__export__.res_province_517,TRUE
+__export__.res_citymun_51709,CAMALIGAN,51709,__export__.res_province_517,TRUE
+__export__.res_citymun_51710,CANAMAN,51710,__export__.res_province_517,TRUE
+__export__.res_citymun_51711,CARAMOAN,51711,__export__.res_province_517,TRUE
+__export__.res_citymun_51712,DEL GALLEGO,51712,__export__.res_province_517,TRUE
+__export__.res_citymun_51713,GAINZA,51713,__export__.res_province_517,TRUE
+__export__.res_citymun_51714,GARCHITORENA,51714,__export__.res_province_517,TRUE
+__export__.res_citymun_51715,GOA,51715,__export__.res_province_517,TRUE
+__export__.res_citymun_51716,IRIGA CITY,51716,__export__.res_province_517,TRUE
+__export__.res_citymun_51717,LAGONOY,51717,__export__.res_province_517,TRUE
+__export__.res_citymun_51718,LIBMANAN,51718,__export__.res_province_517,TRUE
+__export__.res_citymun_51719,LUPI,51719,__export__.res_province_517,TRUE
+__export__.res_citymun_51720,MAGARAO,51720,__export__.res_province_517,TRUE
+__export__.res_citymun_51721,MILAOR,51721,__export__.res_province_517,TRUE
+__export__.res_citymun_51722,MINALABAC,51722,__export__.res_province_517,TRUE
+__export__.res_citymun_51723,NABUA,51723,__export__.res_province_517,TRUE
+__export__.res_citymun_51724,NAGA CITY,51724,__export__.res_province_517,TRUE
+__export__.res_citymun_51725,OCAMPO,51725,__export__.res_province_517,TRUE
+__export__.res_citymun_51726,PAMPLONA,51726,__export__.res_province_517,TRUE
+__export__.res_citymun_51727,PASACAO,51727,__export__.res_province_517,TRUE
+__export__.res_citymun_51728,PILI (Capital),51728,__export__.res_province_517,TRUE
+__export__.res_citymun_51729,PRESENTACION (PARUBCAN),51729,__export__.res_province_517,TRUE
+__export__.res_citymun_51730,RAGAY,51730,__export__.res_province_517,TRUE
+__export__.res_citymun_51731,SAGÑAY,51731,__export__.res_province_517,TRUE
+__export__.res_citymun_51732,SAN FERNANDO,51732,__export__.res_province_517,TRUE
+__export__.res_citymun_51733,SAN JOSE,51733,__export__.res_province_517,TRUE
+__export__.res_citymun_51734,SIPOCOT,51734,__export__.res_province_517,TRUE
+__export__.res_citymun_51735,SIRUMA,51735,__export__.res_province_517,TRUE
+__export__.res_citymun_51736,TIGAON,51736,__export__.res_province_517,TRUE
+__export__.res_citymun_51737,TINAMBAC,51737,__export__.res_province_517,TRUE
+__export__.res_citymun_52001,BAGAMANOC,52001,__export__.res_province_520,TRUE
+__export__.res_citymun_52002,BARAS,52002,__export__.res_province_520,TRUE
+__export__.res_citymun_52003,BATO,52003,__export__.res_province_520,TRUE
+__export__.res_citymun_52004,CARAMORAN,52004,__export__.res_province_520,TRUE
+__export__.res_citymun_52005,GIGMOTO,52005,__export__.res_province_520,TRUE
+__export__.res_citymun_52006,PANDAN,52006,__export__.res_province_520,TRUE
+__export__.res_citymun_52007,PANGANIBAN (PAYO),52007,__export__.res_province_520,TRUE
+__export__.res_citymun_52008,SAN ANDRES (CALOLBON),52008,__export__.res_province_520,TRUE
+__export__.res_citymun_52009,SAN MIGUEL,52009,__export__.res_province_520,TRUE
+__export__.res_citymun_52010,VIGA,52010,__export__.res_province_520,TRUE
+__export__.res_citymun_52011,VIRAC (Capital),52011,__export__.res_province_520,TRUE
+__export__.res_citymun_54101,AROROY,54101,__export__.res_province_541,TRUE
+__export__.res_citymun_54102,BALENO,54102,__export__.res_province_541,TRUE
+__export__.res_citymun_54103,BALUD,54103,__export__.res_province_541,TRUE
+__export__.res_citymun_54104,BATUAN,54104,__export__.res_province_541,TRUE
+__export__.res_citymun_54105,CATAINGAN,54105,__export__.res_province_541,TRUE
+__export__.res_citymun_54106,CAWAYAN,54106,__export__.res_province_541,TRUE
+__export__.res_citymun_54107,CLAVERIA,54107,__export__.res_province_541,TRUE
+__export__.res_citymun_54108,DIMASALANG,54108,__export__.res_province_541,TRUE
+__export__.res_citymun_54109,ESPERANZA,54109,__export__.res_province_541,TRUE
+__export__.res_citymun_54110,MANDAON,54110,__export__.res_province_541,TRUE
+__export__.res_citymun_54111,CITY OF MASBATE (Capital),54111,__export__.res_province_541,TRUE
+__export__.res_citymun_54112,MILAGROS,54112,__export__.res_province_541,TRUE
+__export__.res_citymun_54113,MOBO,54113,__export__.res_province_541,TRUE
+__export__.res_citymun_54114,MONREAL,54114,__export__.res_province_541,TRUE
+__export__.res_citymun_54115,PALANAS,54115,__export__.res_province_541,TRUE
+__export__.res_citymun_54116,PIO V. CORPUZ (LIMBUHAN),54116,__export__.res_province_541,TRUE
+__export__.res_citymun_54117,PLACER,54117,__export__.res_province_541,TRUE
+__export__.res_citymun_54118,SAN FERNANDO,54118,__export__.res_province_541,TRUE
+__export__.res_citymun_54119,SAN JACINTO,54119,__export__.res_province_541,TRUE
+__export__.res_citymun_54120,SAN PASCUAL,54120,__export__.res_province_541,TRUE
+__export__.res_citymun_54121,USON,54121,__export__.res_province_541,TRUE
+__export__.res_citymun_56202,BARCELONA,56202,__export__.res_province_562,TRUE
+__export__.res_citymun_56203,BULAN,56203,__export__.res_province_562,TRUE
+__export__.res_citymun_56204,BULUSAN,56204,__export__.res_province_562,TRUE
+__export__.res_citymun_56205,CASIGURAN,56205,__export__.res_province_562,TRUE
+__export__.res_citymun_56206,CASTILLA,56206,__export__.res_province_562,TRUE
+__export__.res_citymun_56207,DONSOL,56207,__export__.res_province_562,TRUE
+__export__.res_citymun_56208,GUBAT,56208,__export__.res_province_562,TRUE
+__export__.res_citymun_56209,IROSIN,56209,__export__.res_province_562,TRUE
+__export__.res_citymun_56210,JUBAN,56210,__export__.res_province_562,TRUE
+__export__.res_citymun_56211,MAGALLANES,56211,__export__.res_province_562,TRUE
+__export__.res_citymun_56212,MATNOG,56212,__export__.res_province_562,TRUE
+__export__.res_citymun_56213,PILAR,56213,__export__.res_province_562,TRUE
+__export__.res_citymun_56214,PRIETO DIAZ,56214,__export__.res_province_562,TRUE
+__export__.res_citymun_56215,SANTA MAGDALENA,56215,__export__.res_province_562,TRUE
+__export__.res_citymun_56216,CITY OF SORSOGON (Capital),56216,__export__.res_province_562,TRUE
+__export__.res_citymun_60401,ALTAVAS,60401,__export__.res_province_604,TRUE
+__export__.res_citymun_60402,BALETE,60402,__export__.res_province_604,TRUE
+__export__.res_citymun_60403,BANGA,60403,__export__.res_province_604,TRUE
+__export__.res_citymun_60404,BATAN,60404,__export__.res_province_604,TRUE
+__export__.res_citymun_60405,BURUANGA,60405,__export__.res_province_604,TRUE
+__export__.res_citymun_60406,IBAJAY,60406,__export__.res_province_604,TRUE
+__export__.res_citymun_60407,KALIBO (Capital),60407,__export__.res_province_604,TRUE
+__export__.res_citymun_60408,LEZO,60408,__export__.res_province_604,TRUE
+__export__.res_citymun_60409,LIBACAO,60409,__export__.res_province_604,TRUE
+__export__.res_citymun_60410,MADALAG,60410,__export__.res_province_604,TRUE
+__export__.res_citymun_60411,MAKATO,60411,__export__.res_province_604,TRUE
+__export__.res_citymun_60412,MALAY,60412,__export__.res_province_604,TRUE
+__export__.res_citymun_60413,MALINAO,60413,__export__.res_province_604,TRUE
+__export__.res_citymun_60414,NABAS,60414,__export__.res_province_604,TRUE
+__export__.res_citymun_60415,NEW WASHINGTON,60415,__export__.res_province_604,TRUE
+__export__.res_citymun_60416,NUMANCIA,60416,__export__.res_province_604,TRUE
+__export__.res_citymun_60417,TANGALAN,60417,__export__.res_province_604,TRUE
+__export__.res_citymun_60601,ANINI-Y,60601,__export__.res_province_606,TRUE
+__export__.res_citymun_60602,BARBAZA,60602,__export__.res_province_606,TRUE
+__export__.res_citymun_60603,BELISON,60603,__export__.res_province_606,TRUE
+__export__.res_citymun_60604,BUGASONG,60604,__export__.res_province_606,TRUE
+__export__.res_citymun_60605,CALUYA,60605,__export__.res_province_606,TRUE
+__export__.res_citymun_60606,CULASI,60606,__export__.res_province_606,TRUE
+__export__.res_citymun_60607,TOBIAS FORNIER (DAO),60607,__export__.res_province_606,TRUE
+__export__.res_citymun_60608,HAMTIC,60608,__export__.res_province_606,TRUE
+__export__.res_citymun_60609,LAUA-AN,60609,__export__.res_province_606,TRUE
+__export__.res_citymun_60610,LIBERTAD,60610,__export__.res_province_606,TRUE
+__export__.res_citymun_60611,PANDAN,60611,__export__.res_province_606,TRUE
+__export__.res_citymun_60612,PATNONGON,60612,__export__.res_province_606,TRUE
+__export__.res_citymun_60613,SAN JOSE (Capital),60613,__export__.res_province_606,TRUE
+__export__.res_citymun_60614,SAN REMIGIO,60614,__export__.res_province_606,TRUE
+__export__.res_citymun_60615,SEBASTE,60615,__export__.res_province_606,TRUE
+__export__.res_citymun_60616,SIBALOM,60616,__export__.res_province_606,TRUE
+__export__.res_citymun_60617,TIBIAO,60617,__export__.res_province_606,TRUE
+__export__.res_citymun_60618,VALDERRAMA,60618,__export__.res_province_606,TRUE
+__export__.res_citymun_61901,CUARTERO,61901,__export__.res_province_619,TRUE
+__export__.res_citymun_61902,DAO,61902,__export__.res_province_619,TRUE
+__export__.res_citymun_61903,DUMALAG,61903,__export__.res_province_619,TRUE
+__export__.res_citymun_61904,DUMARAO,61904,__export__.res_province_619,TRUE
+__export__.res_citymun_61905,IVISAN,61905,__export__.res_province_619,TRUE
+__export__.res_citymun_61906,JAMINDAN,61906,__export__.res_province_619,TRUE
+__export__.res_citymun_61907,MA-AYON,61907,__export__.res_province_619,TRUE
+__export__.res_citymun_61908,MAMBUSAO,61908,__export__.res_province_619,TRUE
+__export__.res_citymun_61909,PANAY,61909,__export__.res_province_619,TRUE
+__export__.res_citymun_61910,PANITAN,61910,__export__.res_province_619,TRUE
+__export__.res_citymun_61911,PILAR,61911,__export__.res_province_619,TRUE
+__export__.res_citymun_61912,PONTEVEDRA,61912,__export__.res_province_619,TRUE
+__export__.res_citymun_61913,PRESIDENT ROXAS,61913,__export__.res_province_619,TRUE
+__export__.res_citymun_61914,ROXAS CITY (Capital),61914,__export__.res_province_619,TRUE
+__export__.res_citymun_61915,SAPI-AN,61915,__export__.res_province_619,TRUE
+__export__.res_citymun_61916,SIGMA,61916,__export__.res_province_619,TRUE
+__export__.res_citymun_61917,TAPAZ,61917,__export__.res_province_619,TRUE
+__export__.res_citymun_63001,AJUY,63001,__export__.res_province_630,TRUE
+__export__.res_citymun_63002,ALIMODIAN,63002,__export__.res_province_630,TRUE
+__export__.res_citymun_63003,ANILAO,63003,__export__.res_province_630,TRUE
+__export__.res_citymun_63004,BADIANGAN,63004,__export__.res_province_630,TRUE
+__export__.res_citymun_63005,BALASAN,63005,__export__.res_province_630,TRUE
+__export__.res_citymun_63006,BANATE,63006,__export__.res_province_630,TRUE
+__export__.res_citymun_63007,BAROTAC NUEVO,63007,__export__.res_province_630,TRUE
+__export__.res_citymun_63008,BAROTAC VIEJO,63008,__export__.res_province_630,TRUE
+__export__.res_citymun_63009,BATAD,63009,__export__.res_province_630,TRUE
+__export__.res_citymun_63010,BINGAWAN,63010,__export__.res_province_630,TRUE
+__export__.res_citymun_63012,CABATUAN,63012,__export__.res_province_630,TRUE
+__export__.res_citymun_63013,CALINOG,63013,__export__.res_province_630,TRUE
+__export__.res_citymun_63014,CARLES,63014,__export__.res_province_630,TRUE
+__export__.res_citymun_63015,CONCEPCION,63015,__export__.res_province_630,TRUE
+__export__.res_citymun_63016,DINGLE,63016,__export__.res_province_630,TRUE
+__export__.res_citymun_63017,DUEÑAS,63017,__export__.res_province_630,TRUE
+__export__.res_citymun_63018,DUMANGAS,63018,__export__.res_province_630,TRUE
+__export__.res_citymun_63019,ESTANCIA,63019,__export__.res_province_630,TRUE
+__export__.res_citymun_63020,GUIMBAL,63020,__export__.res_province_630,TRUE
+__export__.res_citymun_63021,IGBARAS,63021,__export__.res_province_630,TRUE
+__export__.res_citymun_63022,ILOILO CITY (Capital),63022,__export__.res_province_630,TRUE
+__export__.res_citymun_63023,JANIUAY,63023,__export__.res_province_630,TRUE
+__export__.res_citymun_63025,LAMBUNAO,63025,__export__.res_province_630,TRUE
+__export__.res_citymun_63026,LEGANES,63026,__export__.res_province_630,TRUE
+__export__.res_citymun_63027,LEMERY,63027,__export__.res_province_630,TRUE
+__export__.res_citymun_63028,LEON,63028,__export__.res_province_630,TRUE
+__export__.res_citymun_63029,MAASIN,63029,__export__.res_province_630,TRUE
+__export__.res_citymun_63030,MIAGAO,63030,__export__.res_province_630,TRUE
+__export__.res_citymun_63031,MINA,63031,__export__.res_province_630,TRUE
+__export__.res_citymun_63032,NEW LUCENA,63032,__export__.res_province_630,TRUE
+__export__.res_citymun_63034,OTON,63034,__export__.res_province_630,TRUE
+__export__.res_citymun_63035,CITY OF PASSI,63035,__export__.res_province_630,TRUE
+__export__.res_citymun_63036,PAVIA,63036,__export__.res_province_630,TRUE
+__export__.res_citymun_63037,POTOTAN,63037,__export__.res_province_630,TRUE
+__export__.res_citymun_63038,SAN DIONISIO,63038,__export__.res_province_630,TRUE
+__export__.res_citymun_63039,SAN ENRIQUE,63039,__export__.res_province_630,TRUE
+__export__.res_citymun_63040,SAN JOAQUIN,63040,__export__.res_province_630,TRUE
+__export__.res_citymun_63041,SAN MIGUEL,63041,__export__.res_province_630,TRUE
+__export__.res_citymun_63042,SAN RAFAEL,63042,__export__.res_province_630,TRUE
+__export__.res_citymun_63043,SANTA BARBARA,63043,__export__.res_province_630,TRUE
+__export__.res_citymun_63044,SARA,63044,__export__.res_province_630,TRUE
+__export__.res_citymun_63045,TIGBAUAN,63045,__export__.res_province_630,TRUE
+__export__.res_citymun_63046,TUBUNGAN,63046,__export__.res_province_630,TRUE
+__export__.res_citymun_63047,ZARRAGA,63047,__export__.res_province_630,TRUE
+__export__.res_citymun_64501,BACOLOD CITY (Capital),64501,__export__.res_province_645,TRUE
+__export__.res_citymun_64502,BAGO CITY,64502,__export__.res_province_645,TRUE
+__export__.res_citymun_64503,BINALBAGAN,64503,__export__.res_province_645,TRUE
+__export__.res_citymun_64504,CADIZ CITY,64504,__export__.res_province_645,TRUE
+__export__.res_citymun_64505,CALATRAVA,64505,__export__.res_province_645,TRUE
+__export__.res_citymun_64506,CANDONI,64506,__export__.res_province_645,TRUE
+__export__.res_citymun_64507,CAUAYAN,64507,__export__.res_province_645,TRUE
+__export__.res_citymun_64508,ENRIQUE B. MAGALONA (SARAVIA),64508,__export__.res_province_645,TRUE
+__export__.res_citymun_64509,CITY OF ESCALANTE,64509,__export__.res_province_645,TRUE
+__export__.res_citymun_64510,CITY OF HIMAMAYLAN,64510,__export__.res_province_645,TRUE
+__export__.res_citymun_64511,HINIGARAN,64511,__export__.res_province_645,TRUE
+__export__.res_citymun_64512,HINOBA-AN (ASIA),64512,__export__.res_province_645,TRUE
+__export__.res_citymun_64513,ILOG,64513,__export__.res_province_645,TRUE
+__export__.res_citymun_64514,ISABELA,64514,__export__.res_province_645,TRUE
+__export__.res_citymun_64515,CITY OF KABANKALAN,64515,__export__.res_province_645,TRUE
+__export__.res_citymun_64516,LA CARLOTA CITY,64516,__export__.res_province_645,TRUE
+__export__.res_citymun_64517,LA CASTELLANA,64517,__export__.res_province_645,TRUE
+__export__.res_citymun_64518,MANAPLA,64518,__export__.res_province_645,TRUE
+__export__.res_citymun_64519,MOISES PADILLA (MAGALLON),64519,__export__.res_province_645,TRUE
+__export__.res_citymun_64520,MURCIA,64520,__export__.res_province_645,TRUE
+__export__.res_citymun_64521,PONTEVEDRA,64521,__export__.res_province_645,TRUE
+__export__.res_citymun_64522,PULUPANDAN,64522,__export__.res_province_645,TRUE
+__export__.res_citymun_64523,SAGAY CITY,64523,__export__.res_province_645,TRUE
+__export__.res_citymun_64524,SAN CARLOS CITY,64524,__export__.res_province_645,TRUE
+__export__.res_citymun_64525,SAN ENRIQUE,64525,__export__.res_province_645,TRUE
+__export__.res_citymun_64526,SILAY CITY,64526,__export__.res_province_645,TRUE
+__export__.res_citymun_64527,CITY OF SIPALAY,64527,__export__.res_province_645,TRUE
+__export__.res_citymun_64528,CITY OF TALISAY,64528,__export__.res_province_645,TRUE
+__export__.res_citymun_64529,TOBOSO,64529,__export__.res_province_645,TRUE
+__export__.res_citymun_64530,VALLADOLID,64530,__export__.res_province_645,TRUE
+__export__.res_citymun_64531,CITY OF VICTORIAS,64531,__export__.res_province_645,TRUE
+__export__.res_citymun_64532,SALVADOR BENEDICTO,64532,__export__.res_province_645,TRUE
+__export__.res_citymun_67901,BUENAVISTA,67901,__export__.res_province_679,TRUE
+__export__.res_citymun_67902,JORDAN (Capital),67902,__export__.res_province_679,TRUE
+__export__.res_citymun_67903,NUEVA VALENCIA,67903,__export__.res_province_679,TRUE
+__export__.res_citymun_67904,SAN LORENZO,67904,__export__.res_province_679,TRUE
+__export__.res_citymun_67905,SIBUNAG,67905,__export__.res_province_679,TRUE
+__export__.res_citymun_71201,ALBURQUERQUE,71201,__export__.res_province_712,TRUE
+__export__.res_citymun_71202,ALICIA,71202,__export__.res_province_712,TRUE
+__export__.res_citymun_71203,ANDA,71203,__export__.res_province_712,TRUE
+__export__.res_citymun_71204,ANTEQUERA,71204,__export__.res_province_712,TRUE
+__export__.res_citymun_71205,BACLAYON,71205,__export__.res_province_712,TRUE
+__export__.res_citymun_71206,BALILIHAN,71206,__export__.res_province_712,TRUE
+__export__.res_citymun_71207,BATUAN,71207,__export__.res_province_712,TRUE
+__export__.res_citymun_71208,BILAR,71208,__export__.res_province_712,TRUE
+__export__.res_citymun_71209,BUENAVISTA,71209,__export__.res_province_712,TRUE
+__export__.res_citymun_71210,CALAPE,71210,__export__.res_province_712,TRUE
+__export__.res_citymun_71211,CANDIJAY,71211,__export__.res_province_712,TRUE
+__export__.res_citymun_71212,CARMEN,71212,__export__.res_province_712,TRUE
+__export__.res_citymun_71213,CATIGBIAN,71213,__export__.res_province_712,TRUE
+__export__.res_citymun_71214,CLARIN,71214,__export__.res_province_712,TRUE
+__export__.res_citymun_71215,CORELLA,71215,__export__.res_province_712,TRUE
+__export__.res_citymun_71216,CORTES,71216,__export__.res_province_712,TRUE
+__export__.res_citymun_71217,DAGOHOY,71217,__export__.res_province_712,TRUE
+__export__.res_citymun_71218,DANAO,71218,__export__.res_province_712,TRUE
+__export__.res_citymun_71219,DAUIS,71219,__export__.res_province_712,TRUE
+__export__.res_citymun_71220,DIMIAO,71220,__export__.res_province_712,TRUE
+__export__.res_citymun_71221,DUERO,71221,__export__.res_province_712,TRUE
+__export__.res_citymun_71222,GARCIA HERNANDEZ,71222,__export__.res_province_712,TRUE
+__export__.res_citymun_71223,GUINDULMAN,71223,__export__.res_province_712,TRUE
+__export__.res_citymun_71224,INABANGA,71224,__export__.res_province_712,TRUE
+__export__.res_citymun_71225,JAGNA,71225,__export__.res_province_712,TRUE
+__export__.res_citymun_71226,JETAFE,71226,__export__.res_province_712,TRUE
+__export__.res_citymun_71227,LILA,71227,__export__.res_province_712,TRUE
+__export__.res_citymun_71228,LOAY,71228,__export__.res_province_712,TRUE
+__export__.res_citymun_71229,LOBOC,71229,__export__.res_province_712,TRUE
+__export__.res_citymun_71230,LOON,71230,__export__.res_province_712,TRUE
+__export__.res_citymun_71231,MABINI,71231,__export__.res_province_712,TRUE
+__export__.res_citymun_71232,MARIBOJOC,71232,__export__.res_province_712,TRUE
+__export__.res_citymun_71233,PANGLAO,71233,__export__.res_province_712,TRUE
+__export__.res_citymun_71234,PILAR,71234,__export__.res_province_712,TRUE
+__export__.res_citymun_71235,PRES. CARLOS P. GARCIA (PITOGO),71235,__export__.res_province_712,TRUE
+__export__.res_citymun_71236,SAGBAYAN (BORJA),71236,__export__.res_province_712,TRUE
+__export__.res_citymun_71237,SAN ISIDRO,71237,__export__.res_province_712,TRUE
+__export__.res_citymun_71238,SAN MIGUEL,71238,__export__.res_province_712,TRUE
+__export__.res_citymun_71239,SEVILLA,71239,__export__.res_province_712,TRUE
+__export__.res_citymun_71240,SIERRA BULLONES,71240,__export__.res_province_712,TRUE
+__export__.res_citymun_71241,SIKATUNA,71241,__export__.res_province_712,TRUE
+__export__.res_citymun_71242,TAGBILARAN CITY (Capital),71242,__export__.res_province_712,TRUE
+__export__.res_citymun_71243,TALIBON,71243,__export__.res_province_712,TRUE
+__export__.res_citymun_71244,TRINIDAD,71244,__export__.res_province_712,TRUE
+__export__.res_citymun_71245,TUBIGON,71245,__export__.res_province_712,TRUE
+__export__.res_citymun_71246,UBAY,71246,__export__.res_province_712,TRUE
+__export__.res_citymun_71247,VALENCIA,71247,__export__.res_province_712,TRUE
+__export__.res_citymun_71248,BIEN UNIDO,71248,__export__.res_province_712,TRUE
+__export__.res_citymun_72201,ALCANTARA,72201,__export__.res_province_722,TRUE
+__export__.res_citymun_72202,ALCOY,72202,__export__.res_province_722,TRUE
+__export__.res_citymun_72203,ALEGRIA,72203,__export__.res_province_722,TRUE
+__export__.res_citymun_72204,ALOGUINSAN,72204,__export__.res_province_722,TRUE
+__export__.res_citymun_72205,ARGAO,72205,__export__.res_province_722,TRUE
+__export__.res_citymun_72206,ASTURIAS,72206,__export__.res_province_722,TRUE
+__export__.res_citymun_72207,BADIAN,72207,__export__.res_province_722,TRUE
+__export__.res_citymun_72208,BALAMBAN,72208,__export__.res_province_722,TRUE
+__export__.res_citymun_72209,BANTAYAN,72209,__export__.res_province_722,TRUE
+__export__.res_citymun_72210,BARILI,72210,__export__.res_province_722,TRUE
+__export__.res_citymun_72211,CITY OF BOGO,72211,__export__.res_province_722,TRUE
+__export__.res_citymun_72212,BOLJOON,72212,__export__.res_province_722,TRUE
+__export__.res_citymun_72213,BORBON,72213,__export__.res_province_722,TRUE
+__export__.res_citymun_72214,CITY OF CARCAR,72214,__export__.res_province_722,TRUE
+__export__.res_citymun_72215,CARMEN,72215,__export__.res_province_722,TRUE
+__export__.res_citymun_72216,CATMON,72216,__export__.res_province_722,TRUE
+__export__.res_citymun_72217,CEBU CITY (Capital),72217,__export__.res_province_722,TRUE
+__export__.res_citymun_72218,COMPOSTELA,72218,__export__.res_province_722,TRUE
+__export__.res_citymun_72219,CONSOLACION,72219,__export__.res_province_722,TRUE
+__export__.res_citymun_72220,CORDOVA,72220,__export__.res_province_722,TRUE
+__export__.res_citymun_72221,DAANBANTAYAN,72221,__export__.res_province_722,TRUE
+__export__.res_citymun_72222,DALAGUETE,72222,__export__.res_province_722,TRUE
+__export__.res_citymun_72223,DANAO CITY,72223,__export__.res_province_722,TRUE
+__export__.res_citymun_72224,DUMANJUG,72224,__export__.res_province_722,TRUE
+__export__.res_citymun_72225,GINATILAN,72225,__export__.res_province_722,TRUE
+__export__.res_citymun_72226,LAPU-LAPU CITY (OPON),72226,__export__.res_province_722,TRUE
+__export__.res_citymun_72227,LILOAN,72227,__export__.res_province_722,TRUE
+__export__.res_citymun_72228,MADRIDEJOS,72228,__export__.res_province_722,TRUE
+__export__.res_citymun_72229,MALABUYOC,72229,__export__.res_province_722,TRUE
+__export__.res_citymun_72230,MANDAUE CITY,72230,__export__.res_province_722,TRUE
+__export__.res_citymun_72231,MEDELLIN,72231,__export__.res_province_722,TRUE
+__export__.res_citymun_72232,MINGLANILLA,72232,__export__.res_province_722,TRUE
+__export__.res_citymun_72233,MOALBOAL,72233,__export__.res_province_722,TRUE
+__export__.res_citymun_72234,CITY OF NAGA,72234,__export__.res_province_722,TRUE
+__export__.res_citymun_72235,OSLOB,72235,__export__.res_province_722,TRUE
+__export__.res_citymun_72236,PILAR,72236,__export__.res_province_722,TRUE
+__export__.res_citymun_72237,PINAMUNGAHAN,72237,__export__.res_province_722,TRUE
+__export__.res_citymun_72238,PORO,72238,__export__.res_province_722,TRUE
+__export__.res_citymun_72239,RONDA,72239,__export__.res_province_722,TRUE
+__export__.res_citymun_72240,SAMBOAN,72240,__export__.res_province_722,TRUE
+__export__.res_citymun_72241,SAN FERNANDO,72241,__export__.res_province_722,TRUE
+__export__.res_citymun_72242,SAN FRANCISCO,72242,__export__.res_province_722,TRUE
+__export__.res_citymun_72243,SAN REMIGIO,72243,__export__.res_province_722,TRUE
+__export__.res_citymun_72244,SANTA FE,72244,__export__.res_province_722,TRUE
+__export__.res_citymun_72245,SANTANDER,72245,__export__.res_province_722,TRUE
+__export__.res_citymun_72246,SIBONGA,72246,__export__.res_province_722,TRUE
+__export__.res_citymun_72247,SOGOD,72247,__export__.res_province_722,TRUE
+__export__.res_citymun_72248,TABOGON,72248,__export__.res_province_722,TRUE
+__export__.res_citymun_72249,TABUELAN,72249,__export__.res_province_722,TRUE
+__export__.res_citymun_72250,CITY OF TALISAY,72250,__export__.res_province_722,TRUE
+__export__.res_citymun_72251,TOLEDO CITY,72251,__export__.res_province_722,TRUE
+__export__.res_citymun_72252,TUBURAN,72252,__export__.res_province_722,TRUE
+__export__.res_citymun_72253,TUDELA,72253,__export__.res_province_722,TRUE
+__export__.res_citymun_74601,AMLAN (AYUQUITAN),74601,__export__.res_province_746,TRUE
+__export__.res_citymun_74602,AYUNGON,74602,__export__.res_province_746,TRUE
+__export__.res_citymun_74603,BACONG,74603,__export__.res_province_746,TRUE
+__export__.res_citymun_74604,BAIS CITY,74604,__export__.res_province_746,TRUE
+__export__.res_citymun_74605,BASAY,74605,__export__.res_province_746,TRUE
+__export__.res_citymun_74606,CITY OF BAYAWAN (TULONG),74606,__export__.res_province_746,TRUE
+__export__.res_citymun_74607,BINDOY (PAYABON),74607,__export__.res_province_746,TRUE
+__export__.res_citymun_74608,CANLAON CITY,74608,__export__.res_province_746,TRUE
+__export__.res_citymun_74609,DAUIN,74609,__export__.res_province_746,TRUE
+__export__.res_citymun_74610,DUMAGUETE CITY (Capital),74610,__export__.res_province_746,TRUE
+__export__.res_citymun_74611,CITY OF GUIHULNGAN,74611,__export__.res_province_746,TRUE
+__export__.res_citymun_74612,JIMALALUD,74612,__export__.res_province_746,TRUE
+__export__.res_citymun_74613,LA LIBERTAD,74613,__export__.res_province_746,TRUE
+__export__.res_citymun_74614,MABINAY,74614,__export__.res_province_746,TRUE
+__export__.res_citymun_74615,MANJUYOD,74615,__export__.res_province_746,TRUE
+__export__.res_citymun_74616,PAMPLONA,74616,__export__.res_province_746,TRUE
+__export__.res_citymun_74617,SAN JOSE,74617,__export__.res_province_746,TRUE
+__export__.res_citymun_74618,SANTA CATALINA,74618,__export__.res_province_746,TRUE
+__export__.res_citymun_74619,SIATON,74619,__export__.res_province_746,TRUE
+__export__.res_citymun_74620,SIBULAN,74620,__export__.res_province_746,TRUE
+__export__.res_citymun_74621,CITY OF TANJAY,74621,__export__.res_province_746,TRUE
+__export__.res_citymun_74622,TAYASAN,74622,__export__.res_province_746,TRUE
+__export__.res_citymun_74623,VALENCIA (LUZURRIAGA),74623,__export__.res_province_746,TRUE
+__export__.res_citymun_74624,VALLEHERMOSO,74624,__export__.res_province_746,TRUE
+__export__.res_citymun_74625,ZAMBOANGUITA,74625,__export__.res_province_746,TRUE
+__export__.res_citymun_76101,ENRIQUE VILLANUEVA,76101,__export__.res_province_761,TRUE
+__export__.res_citymun_76102,LARENA,76102,__export__.res_province_761,TRUE
+__export__.res_citymun_76103,LAZI,76103,__export__.res_province_761,TRUE
+__export__.res_citymun_76104,MARIA,76104,__export__.res_province_761,TRUE
+__export__.res_citymun_76105,SAN JUAN,76105,__export__.res_province_761,TRUE
+__export__.res_citymun_76106,SIQUIJOR (Capital),76106,__export__.res_province_761,TRUE
+__export__.res_citymun_82601,ARTECHE,82601,__export__.res_province_826,TRUE
+__export__.res_citymun_82602,BALANGIGA,82602,__export__.res_province_826,TRUE
+__export__.res_citymun_82603,BALANGKAYAN,82603,__export__.res_province_826,TRUE
+__export__.res_citymun_82604,CITY OF BORONGAN (Capital),82604,__export__.res_province_826,TRUE
+__export__.res_citymun_82605,CAN-AVID,82605,__export__.res_province_826,TRUE
+__export__.res_citymun_82606,DOLORES,82606,__export__.res_province_826,TRUE
+__export__.res_citymun_82607,GENERAL MACARTHUR,82607,__export__.res_province_826,TRUE
+__export__.res_citymun_82608,GIPORLOS,82608,__export__.res_province_826,TRUE
+__export__.res_citymun_82609,GUIUAN,82609,__export__.res_province_826,TRUE
+__export__.res_citymun_82610,HERNANI,82610,__export__.res_province_826,TRUE
+__export__.res_citymun_82611,JIPAPAD,82611,__export__.res_province_826,TRUE
+__export__.res_citymun_82612,LAWAAN,82612,__export__.res_province_826,TRUE
+__export__.res_citymun_82613,LLORENTE,82613,__export__.res_province_826,TRUE
+__export__.res_citymun_82614,MASLOG,82614,__export__.res_province_826,TRUE
+__export__.res_citymun_82615,MAYDOLONG,82615,__export__.res_province_826,TRUE
+__export__.res_citymun_82616,MERCEDES,82616,__export__.res_province_826,TRUE
+__export__.res_citymun_82617,ORAS,82617,__export__.res_province_826,TRUE
+__export__.res_citymun_82618,QUINAPONDAN,82618,__export__.res_province_826,TRUE
+__export__.res_citymun_82619,SALCEDO,82619,__export__.res_province_826,TRUE
+__export__.res_citymun_82620,SAN JULIAN,82620,__export__.res_province_826,TRUE
+__export__.res_citymun_82621,SAN POLICARPO,82621,__export__.res_province_826,TRUE
+__export__.res_citymun_82622,SULAT,82622,__export__.res_province_826,TRUE
+__export__.res_citymun_82623,TAFT,82623,__export__.res_province_826,TRUE
+__export__.res_citymun_83701,ABUYOG,83701,__export__.res_province_837,TRUE
+__export__.res_citymun_83702,ALANGALANG,83702,__export__.res_province_837,TRUE
+__export__.res_citymun_83703,ALBUERA,83703,__export__.res_province_837,TRUE
+__export__.res_citymun_83705,BABATNGON,83705,__export__.res_province_837,TRUE
+__export__.res_citymun_83706,BARUGO,83706,__export__.res_province_837,TRUE
+__export__.res_citymun_83707,BATO,83707,__export__.res_province_837,TRUE
+__export__.res_citymun_83708,CITY OF BAYBAY,83708,__export__.res_province_837,TRUE
+__export__.res_citymun_83710,BURAUEN,83710,__export__.res_province_837,TRUE
+__export__.res_citymun_83713,CALUBIAN,83713,__export__.res_province_837,TRUE
+__export__.res_citymun_83714,CAPOOCAN,83714,__export__.res_province_837,TRUE
+__export__.res_citymun_83715,CARIGARA,83715,__export__.res_province_837,TRUE
+__export__.res_citymun_83717,DAGAMI,83717,__export__.res_province_837,TRUE
+__export__.res_citymun_83718,DULAG,83718,__export__.res_province_837,TRUE
+__export__.res_citymun_83719,HILONGOS,83719,__export__.res_province_837,TRUE
+__export__.res_citymun_83720,HINDANG,83720,__export__.res_province_837,TRUE
+__export__.res_citymun_83721,INOPACAN,83721,__export__.res_province_837,TRUE
+__export__.res_citymun_83722,ISABEL,83722,__export__.res_province_837,TRUE
+__export__.res_citymun_83723,JARO,83723,__export__.res_province_837,TRUE
+__export__.res_citymun_83724,JAVIER (BUGHO),83724,__export__.res_province_837,TRUE
+__export__.res_citymun_83725,JULITA,83725,__export__.res_province_837,TRUE
+__export__.res_citymun_83726,KANANGA,83726,__export__.res_province_837,TRUE
+__export__.res_citymun_83728,LA PAZ,83728,__export__.res_province_837,TRUE
+__export__.res_citymun_83729,LEYTE,83729,__export__.res_province_837,TRUE
+__export__.res_citymun_83730,MACARTHUR,83730,__export__.res_province_837,TRUE
+__export__.res_citymun_83731,MAHAPLAG,83731,__export__.res_province_837,TRUE
+__export__.res_citymun_83733,MATAG-OB,83733,__export__.res_province_837,TRUE
+__export__.res_citymun_83734,MATALOM,83734,__export__.res_province_837,TRUE
+__export__.res_citymun_83735,MAYORGA,83735,__export__.res_province_837,TRUE
+__export__.res_citymun_83736,MERIDA,83736,__export__.res_province_837,TRUE
+__export__.res_citymun_83738,ORMOC CITY,83738,__export__.res_province_837,TRUE
+__export__.res_citymun_83739,PALO,83739,__export__.res_province_837,TRUE
+__export__.res_citymun_83740,PALOMPON,83740,__export__.res_province_837,TRUE
+__export__.res_citymun_83741,PASTRANA,83741,__export__.res_province_837,TRUE
+__export__.res_citymun_83742,SAN ISIDRO,83742,__export__.res_province_837,TRUE
+__export__.res_citymun_83743,SAN MIGUEL,83743,__export__.res_province_837,TRUE
+__export__.res_citymun_83744,SANTA FE,83744,__export__.res_province_837,TRUE
+__export__.res_citymun_83745,TABANGO,83745,__export__.res_province_837,TRUE
+__export__.res_citymun_83746,TABONTABON,83746,__export__.res_province_837,TRUE
+__export__.res_citymun_83747,TACLOBAN CITY (Capital),83747,__export__.res_province_837,TRUE
+__export__.res_citymun_83748,TANAUAN,83748,__export__.res_province_837,TRUE
+__export__.res_citymun_83749,TOLOSA,83749,__export__.res_province_837,TRUE
+__export__.res_citymun_83750,TUNGA,83750,__export__.res_province_837,TRUE
+__export__.res_citymun_83751,VILLABA,83751,__export__.res_province_837,TRUE
+__export__.res_citymun_84801,ALLEN,84801,__export__.res_province_848,TRUE
+__export__.res_citymun_84802,BIRI,84802,__export__.res_province_848,TRUE
+__export__.res_citymun_84803,BOBON,84803,__export__.res_province_848,TRUE
+__export__.res_citymun_84804,CAPUL,84804,__export__.res_province_848,TRUE
+__export__.res_citymun_84805,CATARMAN (Capital),84805,__export__.res_province_848,TRUE
+__export__.res_citymun_84806,CATUBIG,84806,__export__.res_province_848,TRUE
+__export__.res_citymun_84807,GAMAY,84807,__export__.res_province_848,TRUE
+__export__.res_citymun_84808,LAOANG,84808,__export__.res_province_848,TRUE
+__export__.res_citymun_84809,LAPINIG,84809,__export__.res_province_848,TRUE
+__export__.res_citymun_84810,LAS NAVAS,84810,__export__.res_province_848,TRUE
+__export__.res_citymun_84811,LAVEZARES,84811,__export__.res_province_848,TRUE
+__export__.res_citymun_84812,MAPANAS,84812,__export__.res_province_848,TRUE
+__export__.res_citymun_84813,MONDRAGON,84813,__export__.res_province_848,TRUE
+__export__.res_citymun_84814,PALAPAG,84814,__export__.res_province_848,TRUE
+__export__.res_citymun_84815,PAMBUJAN,84815,__export__.res_province_848,TRUE
+__export__.res_citymun_84816,ROSARIO,84816,__export__.res_province_848,TRUE
+__export__.res_citymun_84817,SAN ANTONIO,84817,__export__.res_province_848,TRUE
+__export__.res_citymun_84818,SAN ISIDRO,84818,__export__.res_province_848,TRUE
+__export__.res_citymun_84819,SAN JOSE,84819,__export__.res_province_848,TRUE
+__export__.res_citymun_84820,SAN ROQUE,84820,__export__.res_province_848,TRUE
+__export__.res_citymun_84821,SAN VICENTE,84821,__export__.res_province_848,TRUE
+__export__.res_citymun_84822,SILVINO LOBOS,84822,__export__.res_province_848,TRUE
+__export__.res_citymun_84823,VICTORIA,84823,__export__.res_province_848,TRUE
+__export__.res_citymun_84824,LOPE DE VEGA,84824,__export__.res_province_848,TRUE
+__export__.res_citymun_86001,ALMAGRO,86001,__export__.res_province_860,TRUE
+__export__.res_citymun_86002,BASEY,86002,__export__.res_province_860,TRUE
+__export__.res_citymun_86003,CALBAYOG CITY,86003,__export__.res_province_860,TRUE
+__export__.res_citymun_86004,CALBIGA,86004,__export__.res_province_860,TRUE
+__export__.res_citymun_86005,CITY OF CATBALOGAN (Capital),86005,__export__.res_province_860,TRUE
+__export__.res_citymun_86006,DARAM,86006,__export__.res_province_860,TRUE
+__export__.res_citymun_86007,GANDARA,86007,__export__.res_province_860,TRUE
+__export__.res_citymun_86008,HINABANGAN,86008,__export__.res_province_860,TRUE
+__export__.res_citymun_86009,JIABONG,86009,__export__.res_province_860,TRUE
+__export__.res_citymun_86010,MARABUT,86010,__export__.res_province_860,TRUE
+__export__.res_citymun_86011,MATUGUINAO,86011,__export__.res_province_860,TRUE
+__export__.res_citymun_86012,MOTIONG,86012,__export__.res_province_860,TRUE
+__export__.res_citymun_86013,PINABACDAO,86013,__export__.res_province_860,TRUE
+__export__.res_citymun_86014,SAN JOSE DE BUAN,86014,__export__.res_province_860,TRUE
+__export__.res_citymun_86015,SAN SEBASTIAN,86015,__export__.res_province_860,TRUE
+__export__.res_citymun_86016,SANTA MARGARITA,86016,__export__.res_province_860,TRUE
+__export__.res_citymun_86017,SANTA RITA,86017,__export__.res_province_860,TRUE
+__export__.res_citymun_86018,SANTO NIÑO,86018,__export__.res_province_860,TRUE
+__export__.res_citymun_86019,TALALORA,86019,__export__.res_province_860,TRUE
+__export__.res_citymun_86020,TARANGNAN,86020,__export__.res_province_860,TRUE
+__export__.res_citymun_86021,VILLAREAL,86021,__export__.res_province_860,TRUE
+__export__.res_citymun_86022,PARANAS (WRIGHT),86022,__export__.res_province_860,TRUE
+__export__.res_citymun_86023,ZUMARRAGA,86023,__export__.res_province_860,TRUE
+__export__.res_citymun_86024,TAGAPUL-AN,86024,__export__.res_province_860,TRUE
+__export__.res_citymun_86025,SAN JORGE,86025,__export__.res_province_860,TRUE
+__export__.res_citymun_86026,PAGSANGHAN,86026,__export__.res_province_860,TRUE
+__export__.res_citymun_86401,ANAHAWAN,86401,__export__.res_province_864,TRUE
+__export__.res_citymun_86402,BONTOC,86402,__export__.res_province_864,TRUE
+__export__.res_citymun_86403,HINUNANGAN,86403,__export__.res_province_864,TRUE
+__export__.res_citymun_86404,HINUNDAYAN,86404,__export__.res_province_864,TRUE
+__export__.res_citymun_86405,LIBAGON,86405,__export__.res_province_864,TRUE
+__export__.res_citymun_86406,LILOAN,86406,__export__.res_province_864,TRUE
+__export__.res_citymun_86407,CITY OF MAASIN (Capital),86407,__export__.res_province_864,TRUE
+__export__.res_citymun_86408,MACROHON,86408,__export__.res_province_864,TRUE
+__export__.res_citymun_86409,MALITBOG,86409,__export__.res_province_864,TRUE
+__export__.res_citymun_86410,PADRE BURGOS,86410,__export__.res_province_864,TRUE
+__export__.res_citymun_86411,PINTUYAN,86411,__export__.res_province_864,TRUE
+__export__.res_citymun_86412,SAINT BERNARD,86412,__export__.res_province_864,TRUE
+__export__.res_citymun_86413,SAN FRANCISCO,86413,__export__.res_province_864,TRUE
+__export__.res_citymun_86414,SAN JUAN (CABALIAN),86414,__export__.res_province_864,TRUE
+__export__.res_citymun_86415,SAN RICARDO,86415,__export__.res_province_864,TRUE
+__export__.res_citymun_86416,SILAGO,86416,__export__.res_province_864,TRUE
+__export__.res_citymun_86417,SOGOD,86417,__export__.res_province_864,TRUE
+__export__.res_citymun_86418,TOMAS OPPUS,86418,__export__.res_province_864,TRUE
+__export__.res_citymun_86419,LIMASAWA,86419,__export__.res_province_864,TRUE
+__export__.res_citymun_87801,ALMERIA,87801,__export__.res_province_878,TRUE
+__export__.res_citymun_87802,BILIRAN,87802,__export__.res_province_878,TRUE
+__export__.res_citymun_87803,CABUCGAYAN,87803,__export__.res_province_878,TRUE
+__export__.res_citymun_87804,CAIBIRAN,87804,__export__.res_province_878,TRUE
+__export__.res_citymun_87805,CULABA,87805,__export__.res_province_878,TRUE
+__export__.res_citymun_87806,KAWAYAN,87806,__export__.res_province_878,TRUE
+__export__.res_citymun_87807,MARIPIPI,87807,__export__.res_province_878,TRUE
+__export__.res_citymun_87808,NAVAL (Capital),87808,__export__.res_province_878,TRUE
+__export__.res_citymun_97201,DAPITAN CITY,97201,__export__.res_province_972,TRUE
+__export__.res_citymun_97202,DIPOLOG CITY (Capital),97202,__export__.res_province_972,TRUE
+__export__.res_citymun_97203,KATIPUNAN,97203,__export__.res_province_972,TRUE
+__export__.res_citymun_97204,LA LIBERTAD,97204,__export__.res_province_972,TRUE
+__export__.res_citymun_97205,LABASON,97205,__export__.res_province_972,TRUE
+__export__.res_citymun_97206,LILOY,97206,__export__.res_province_972,TRUE
+__export__.res_citymun_97207,MANUKAN,97207,__export__.res_province_972,TRUE
+__export__.res_citymun_97208,MUTIA,97208,__export__.res_province_972,TRUE
+__export__.res_citymun_97209,PIÑAN (NEW PIÑAN),97209,__export__.res_province_972,TRUE
+__export__.res_citymun_97210,POLANCO,97210,__export__.res_province_972,TRUE
+__export__.res_citymun_97211,PRES. MANUEL A. ROXAS,97211,__export__.res_province_972,TRUE
+__export__.res_citymun_97212,RIZAL,97212,__export__.res_province_972,TRUE
+__export__.res_citymun_97213,SALUG,97213,__export__.res_province_972,TRUE
+__export__.res_citymun_97214,SERGIO OSMEÑA SR.,97214,__export__.res_province_972,TRUE
+__export__.res_citymun_97215,SIAYAN,97215,__export__.res_province_972,TRUE
+__export__.res_citymun_97216,SIBUCO,97216,__export__.res_province_972,TRUE
+__export__.res_citymun_97217,SIBUTAD,97217,__export__.res_province_972,TRUE
+__export__.res_citymun_97218,SINDANGAN,97218,__export__.res_province_972,TRUE
+__export__.res_citymun_97219,SIOCON,97219,__export__.res_province_972,TRUE
+__export__.res_citymun_97220,SIRAWAI,97220,__export__.res_province_972,TRUE
+__export__.res_citymun_97221,TAMPILISAN,97221,__export__.res_province_972,TRUE
+__export__.res_citymun_97222,JOSE DALMAN (PONOT),97222,__export__.res_province_972,TRUE
+__export__.res_citymun_97223,GUTALAC,97223,__export__.res_province_972,TRUE
+__export__.res_citymun_97224,BALIGUIAN,97224,__export__.res_province_972,TRUE
+__export__.res_citymun_97225,GODOD,97225,__export__.res_province_972,TRUE
+__export__.res_citymun_97226,BACUNGAN (Leon T. Postigo),97226,__export__.res_province_972,TRUE
+__export__.res_citymun_97227,KALAWIT,97227,__export__.res_province_972,TRUE
+__export__.res_citymun_97302,AURORA,97302,__export__.res_province_973,TRUE
+__export__.res_citymun_97303,BAYOG,97303,__export__.res_province_973,TRUE
+__export__.res_citymun_97305,DIMATALING,97305,__export__.res_province_973,TRUE
+__export__.res_citymun_97306,DINAS,97306,__export__.res_province_973,TRUE
+__export__.res_citymun_97307,DUMALINAO,97307,__export__.res_province_973,TRUE
+__export__.res_citymun_97308,DUMINGAG,97308,__export__.res_province_973,TRUE
+__export__.res_citymun_97311,KUMALARANG,97311,__export__.res_province_973,TRUE
+__export__.res_citymun_97312,LABANGAN,97312,__export__.res_province_973,TRUE
+__export__.res_citymun_97313,LAPUYAN,97313,__export__.res_province_973,TRUE
+__export__.res_citymun_97315,MAHAYAG,97315,__export__.res_province_973,TRUE
+__export__.res_citymun_97317,MARGOSATUBIG,97317,__export__.res_province_973,TRUE
+__export__.res_citymun_97318,MIDSALIP,97318,__export__.res_province_973,TRUE
+__export__.res_citymun_97319,MOLAVE,97319,__export__.res_province_973,TRUE
+__export__.res_citymun_97322,PAGADIAN CITY (Capital),97322,__export__.res_province_973,TRUE
+__export__.res_citymun_97323,RAMON MAGSAYSAY (LIARGO),97323,__export__.res_province_973,TRUE
+__export__.res_citymun_97324,SAN MIGUEL,97324,__export__.res_province_973,TRUE
+__export__.res_citymun_97325,SAN PABLO,97325,__export__.res_province_973,TRUE
+__export__.res_citymun_97327,TABINA,97327,__export__.res_province_973,TRUE
+__export__.res_citymun_97328,TAMBULIG,97328,__export__.res_province_973,TRUE
+__export__.res_citymun_97330,TUKURAN,97330,__export__.res_province_973,TRUE
+__export__.res_citymun_97332,ZAMBOANGA CITY,97332,__export__.res_province_973,TRUE
+__export__.res_citymun_97333,LAKEWOOD,97333,__export__.res_province_973,TRUE
+__export__.res_citymun_97337,JOSEFINA,97337,__export__.res_province_973,TRUE
+__export__.res_citymun_97338,PITOGO,97338,__export__.res_province_973,TRUE
+__export__.res_citymun_97340,SOMINOT (DON MARIANO MARCOS),97340,__export__.res_province_973,TRUE
+__export__.res_citymun_97341,VINCENZO A. SAGUN,97341,__export__.res_province_973,TRUE
+__export__.res_citymun_97343,GUIPOS,97343,__export__.res_province_973,TRUE
+__export__.res_citymun_97344,TIGBAO,97344,__export__.res_province_973,TRUE
+__export__.res_citymun_98301,ALICIA,98301,__export__.res_province_983,TRUE
+__export__.res_citymun_98302,BUUG,98302,__export__.res_province_983,TRUE
+__export__.res_citymun_98303,DIPLAHAN,98303,__export__.res_province_983,TRUE
+__export__.res_citymun_98304,IMELDA,98304,__export__.res_province_983,TRUE
+__export__.res_citymun_98305,IPIL (Capital),98305,__export__.res_province_983,TRUE
+__export__.res_citymun_98306,KABASALAN,98306,__export__.res_province_983,TRUE
+__export__.res_citymun_98307,MABUHAY,98307,__export__.res_province_983,TRUE
+__export__.res_citymun_98308,MALANGAS,98308,__export__.res_province_983,TRUE
+__export__.res_citymun_98309,NAGA,98309,__export__.res_province_983,TRUE
+__export__.res_citymun_98310,OLUTANGA,98310,__export__.res_province_983,TRUE
+__export__.res_citymun_98311,PAYAO,98311,__export__.res_province_983,TRUE
+__export__.res_citymun_98312,ROSELLER LIM,98312,__export__.res_province_983,TRUE
+__export__.res_citymun_98313,SIAY,98313,__export__.res_province_983,TRUE
+__export__.res_citymun_98314,TALUSAN,98314,__export__.res_province_983,TRUE
+__export__.res_citymun_98315,TITAY,98315,__export__.res_province_983,TRUE
+__export__.res_citymun_98316,TUNGAWAN,98316,__export__.res_province_983,TRUE
+__export__.res_citymun_99701,CITY OF ISABELA,99701,__export__.res_province_997,TRUE
+__export__.res_citymun_101301,BAUNGON,101301,__export__.res_province_1013,TRUE
+__export__.res_citymun_101302,DAMULOG,101302,__export__.res_province_1013,TRUE
+__export__.res_citymun_101303,DANGCAGAN,101303,__export__.res_province_1013,TRUE
+__export__.res_citymun_101304,DON CARLOS,101304,__export__.res_province_1013,TRUE
+__export__.res_citymun_101305,IMPASUG-ONG,101305,__export__.res_province_1013,TRUE
+__export__.res_citymun_101306,KADINGILAN,101306,__export__.res_province_1013,TRUE
+__export__.res_citymun_101307,KALILANGAN,101307,__export__.res_province_1013,TRUE
+__export__.res_citymun_101308,KIBAWE,101308,__export__.res_province_1013,TRUE
+__export__.res_citymun_101309,KITAOTAO,101309,__export__.res_province_1013,TRUE
+__export__.res_citymun_101310,LANTAPAN,101310,__export__.res_province_1013,TRUE
+__export__.res_citymun_101311,LIBONA,101311,__export__.res_province_1013,TRUE
+__export__.res_citymun_101312,CITY OF MALAYBALAY (Capital),101312,__export__.res_province_1013,TRUE
+__export__.res_citymun_101313,MALITBOG,101313,__export__.res_province_1013,TRUE
+__export__.res_citymun_101314,MANOLO FORTICH,101314,__export__.res_province_1013,TRUE
+__export__.res_citymun_101315,MARAMAG,101315,__export__.res_province_1013,TRUE
+__export__.res_citymun_101316,PANGANTUCAN,101316,__export__.res_province_1013,TRUE
+__export__.res_citymun_101317,QUEZON,101317,__export__.res_province_1013,TRUE
+__export__.res_citymun_101318,SAN FERNANDO,101318,__export__.res_province_1013,TRUE
+__export__.res_citymun_101319,SUMILAO,101319,__export__.res_province_1013,TRUE
+__export__.res_citymun_101320,TALAKAG,101320,__export__.res_province_1013,TRUE
+__export__.res_citymun_101321,CITY OF VALENCIA,101321,__export__.res_province_1013,TRUE
+__export__.res_citymun_101322,CABANGLASAN,101322,__export__.res_province_1013,TRUE
+__export__.res_citymun_101801,CATARMAN,101801,__export__.res_province_1018,TRUE
+__export__.res_citymun_101802,GUINSILIBAN,101802,__export__.res_province_1018,TRUE
+__export__.res_citymun_101803,MAHINOG,101803,__export__.res_province_1018,TRUE
+__export__.res_citymun_101804,MAMBAJAO (Capital),101804,__export__.res_province_1018,TRUE
+__export__.res_citymun_101805,SAGAY,101805,__export__.res_province_1018,TRUE
+__export__.res_citymun_103501,BACOLOD,103501,__export__.res_province_1035,TRUE
+__export__.res_citymun_103502,BALOI,103502,__export__.res_province_1035,TRUE
+__export__.res_citymun_103503,BAROY,103503,__export__.res_province_1035,TRUE
+__export__.res_citymun_103504,ILIGAN CITY,103504,__export__.res_province_1035,TRUE
+__export__.res_citymun_103505,KAPATAGAN,103505,__export__.res_province_1035,TRUE
+__export__.res_citymun_103506,SULTAN NAGA DIMAPORO (KAROMATAN),103506,__export__.res_province_1035,TRUE
+__export__.res_citymun_103507,KAUSWAGAN,103507,__export__.res_province_1035,TRUE
+__export__.res_citymun_103508,KOLAMBUGAN,103508,__export__.res_province_1035,TRUE
+__export__.res_citymun_103509,LALA,103509,__export__.res_province_1035,TRUE
+__export__.res_citymun_103510,LINAMON,103510,__export__.res_province_1035,TRUE
+__export__.res_citymun_103511,MAGSAYSAY,103511,__export__.res_province_1035,TRUE
+__export__.res_citymun_103512,MAIGO,103512,__export__.res_province_1035,TRUE
+__export__.res_citymun_103513,MATUNGAO,103513,__export__.res_province_1035,TRUE
+__export__.res_citymun_103514,MUNAI,103514,__export__.res_province_1035,TRUE
+__export__.res_citymun_103515,NUNUNGAN,103515,__export__.res_province_1035,TRUE
+__export__.res_citymun_103516,PANTAO RAGAT,103516,__export__.res_province_1035,TRUE
+__export__.res_citymun_103517,POONA PIAGAPO,103517,__export__.res_province_1035,TRUE
+__export__.res_citymun_103518,SALVADOR,103518,__export__.res_province_1035,TRUE
+__export__.res_citymun_103519,SAPAD,103519,__export__.res_province_1035,TRUE
+__export__.res_citymun_103520,TAGOLOAN,103520,__export__.res_province_1035,TRUE
+__export__.res_citymun_103521,TANGCAL,103521,__export__.res_province_1035,TRUE
+__export__.res_citymun_103522,TUBOD (Capital),103522,__export__.res_province_1035,TRUE
+__export__.res_citymun_103523,PANTAR,103523,__export__.res_province_1035,TRUE
+__export__.res_citymun_104201,ALORAN,104201,__export__.res_province_1042,TRUE
+__export__.res_citymun_104202,BALIANGAO,104202,__export__.res_province_1042,TRUE
+__export__.res_citymun_104203,BONIFACIO,104203,__export__.res_province_1042,TRUE
+__export__.res_citymun_104204,CALAMBA,104204,__export__.res_province_1042,TRUE
+__export__.res_citymun_104205,CLARIN,104205,__export__.res_province_1042,TRUE
+__export__.res_citymun_104206,CONCEPCION,104206,__export__.res_province_1042,TRUE
+__export__.res_citymun_104207,JIMENEZ,104207,__export__.res_province_1042,TRUE
+__export__.res_citymun_104208,LOPEZ JAENA,104208,__export__.res_province_1042,TRUE
+__export__.res_citymun_104209,OROQUIETA CITY (Capital),104209,__export__.res_province_1042,TRUE
+__export__.res_citymun_104210,OZAMIS CITY,104210,__export__.res_province_1042,TRUE
+__export__.res_citymun_104211,PANAON,104211,__export__.res_province_1042,TRUE
+__export__.res_citymun_104212,PLARIDEL,104212,__export__.res_province_1042,TRUE
+__export__.res_citymun_104213,SAPANG DALAGA,104213,__export__.res_province_1042,TRUE
+__export__.res_citymun_104214,SINACABAN,104214,__export__.res_province_1042,TRUE
+__export__.res_citymun_104215,TANGUB CITY,104215,__export__.res_province_1042,TRUE
+__export__.res_citymun_104216,TUDELA,104216,__export__.res_province_1042,TRUE
+__export__.res_citymun_104217,DON VICTORIANO CHIONGBIAN  (DON MARIANO MARCOS),104217,__export__.res_province_1042,TRUE
+__export__.res_citymun_104301,ALUBIJID,104301,__export__.res_province_1043,TRUE
+__export__.res_citymun_104302,BALINGASAG,104302,__export__.res_province_1043,TRUE
+__export__.res_citymun_104303,BALINGOAN,104303,__export__.res_province_1043,TRUE
+__export__.res_citymun_104304,BINUANGAN,104304,__export__.res_province_1043,TRUE
+__export__.res_citymun_104305,CAGAYAN DE ORO CITY (Capital),104305,__export__.res_province_1043,TRUE
+__export__.res_citymun_104306,CLAVERIA,104306,__export__.res_province_1043,TRUE
+__export__.res_citymun_104307,CITY OF EL SALVADOR,104307,__export__.res_province_1043,TRUE
+__export__.res_citymun_104308,GINGOOG CITY,104308,__export__.res_province_1043,TRUE
+__export__.res_citymun_104309,GITAGUM,104309,__export__.res_province_1043,TRUE
+__export__.res_citymun_104310,INITAO,104310,__export__.res_province_1043,TRUE
+__export__.res_citymun_104311,JASAAN,104311,__export__.res_province_1043,TRUE
+__export__.res_citymun_104312,KINOGUITAN,104312,__export__.res_province_1043,TRUE
+__export__.res_citymun_104313,LAGONGLONG,104313,__export__.res_province_1043,TRUE
+__export__.res_citymun_104314,LAGUINDINGAN,104314,__export__.res_province_1043,TRUE
+__export__.res_citymun_104315,LIBERTAD,104315,__export__.res_province_1043,TRUE
+__export__.res_citymun_104316,LUGAIT,104316,__export__.res_province_1043,TRUE
+__export__.res_citymun_104317,MAGSAYSAY (LINUGOS),104317,__export__.res_province_1043,TRUE
+__export__.res_citymun_104318,MANTICAO,104318,__export__.res_province_1043,TRUE
+__export__.res_citymun_104319,MEDINA,104319,__export__.res_province_1043,TRUE
+__export__.res_citymun_104320,NAAWAN,104320,__export__.res_province_1043,TRUE
+__export__.res_citymun_104321,OPOL,104321,__export__.res_province_1043,TRUE
+__export__.res_citymun_104322,SALAY,104322,__export__.res_province_1043,TRUE
+__export__.res_citymun_104323,SUGBONGCOGON,104323,__export__.res_province_1043,TRUE
+__export__.res_citymun_104324,TAGOLOAN,104324,__export__.res_province_1043,TRUE
+__export__.res_citymun_104325,TALISAYAN,104325,__export__.res_province_1043,TRUE
+__export__.res_citymun_104326,VILLANUEVA,104326,__export__.res_province_1043,TRUE
+__export__.res_citymun_112301,ASUNCION (SAUG),112301,__export__.res_province_1123,TRUE
+__export__.res_citymun_112303,CARMEN,112303,__export__.res_province_1123,TRUE
+__export__.res_citymun_112305,KAPALONG,112305,__export__.res_province_1123,TRUE
+__export__.res_citymun_112314,NEW CORELLA,112314,__export__.res_province_1123,TRUE
+__export__.res_citymun_112315,CITY OF PANABO,112315,__export__.res_province_1123,TRUE
+__export__.res_citymun_112317,ISLAND GARDEN CITY OF SAMAL,112317,__export__.res_province_1123,TRUE
+__export__.res_citymun_112318,SANTO TOMAS,112318,__export__.res_province_1123,TRUE
+__export__.res_citymun_112319,CITY OF TAGUM (Capital),112319,__export__.res_province_1123,TRUE
+__export__.res_citymun_112322,TALAINGOD,112322,__export__.res_province_1123,TRUE
+__export__.res_citymun_112323,BRAULIO E. DUJALI,112323,__export__.res_province_1123,TRUE
+__export__.res_citymun_112324,SAN ISIDRO,112324,__export__.res_province_1123,TRUE
+__export__.res_citymun_112401,BANSALAN,112401,__export__.res_province_1124,TRUE
+__export__.res_citymun_112402,DAVAO CITY,112402,__export__.res_province_1124,TRUE
+__export__.res_citymun_112403,CITY OF DIGOS (Capital),112403,__export__.res_province_1124,TRUE
+__export__.res_citymun_112404,HAGONOY,112404,__export__.res_province_1124,TRUE
+__export__.res_citymun_112406,KIBLAWAN,112406,__export__.res_province_1124,TRUE
+__export__.res_citymun_112407,MAGSAYSAY,112407,__export__.res_province_1124,TRUE
+__export__.res_citymun_112408,MALALAG,112408,__export__.res_province_1124,TRUE
+__export__.res_citymun_112410,MATANAO,112410,__export__.res_province_1124,TRUE
+__export__.res_citymun_112411,PADADA,112411,__export__.res_province_1124,TRUE
+__export__.res_citymun_112412,SANTA CRUZ,112412,__export__.res_province_1124,TRUE
+__export__.res_citymun_112414,SULOP,112414,__export__.res_province_1124,TRUE
+__export__.res_citymun_112501,BAGANGA,112501,__export__.res_province_1125,TRUE
+__export__.res_citymun_112502,BANAYBANAY,112502,__export__.res_province_1125,TRUE
+__export__.res_citymun_112503,BOSTON,112503,__export__.res_province_1125,TRUE
+__export__.res_citymun_112504,CARAGA,112504,__export__.res_province_1125,TRUE
+__export__.res_citymun_112505,CATEEL,112505,__export__.res_province_1125,TRUE
+__export__.res_citymun_112506,GOVERNOR GENEROSO,112506,__export__.res_province_1125,TRUE
+__export__.res_citymun_112507,LUPON,112507,__export__.res_province_1125,TRUE
+__export__.res_citymun_112508,MANAY,112508,__export__.res_province_1125,TRUE
+__export__.res_citymun_112509,CITY OF MATI (Capital),112509,__export__.res_province_1125,TRUE
+__export__.res_citymun_112510,SAN ISIDRO,112510,__export__.res_province_1125,TRUE
+__export__.res_citymun_112511,TARRAGONA,112511,__export__.res_province_1125,TRUE
+__export__.res_citymun_118201,COMPOSTELA,118201,__export__.res_province_1182,TRUE
+__export__.res_citymun_118202,LAAK (SAN VICENTE),118202,__export__.res_province_1182,TRUE
+__export__.res_citymun_118203,MABINI (DOÑA ALICIA),118203,__export__.res_province_1182,TRUE
+__export__.res_citymun_118204,MACO,118204,__export__.res_province_1182,TRUE
+__export__.res_citymun_118205,MARAGUSAN (SAN MARIANO),118205,__export__.res_province_1182,TRUE
+__export__.res_citymun_118206,MAWAB,118206,__export__.res_province_1182,TRUE
+__export__.res_citymun_118207,MONKAYO,118207,__export__.res_province_1182,TRUE
+__export__.res_citymun_118208,MONTEVISTA,118208,__export__.res_province_1182,TRUE
+__export__.res_citymun_118209,NABUNTURAN (Capital),118209,__export__.res_province_1182,TRUE
+__export__.res_citymun_118210,NEW BATAAN,118210,__export__.res_province_1182,TRUE
+__export__.res_citymun_118211,PANTUKAN,118211,__export__.res_province_1182,TRUE
+__export__.res_citymun_118601,DON MARCELINO,118601,__export__.res_province_1186,TRUE
+__export__.res_citymun_118602,JOSE ABAD SANTOS (TRINIDAD),118602,__export__.res_province_1186,TRUE
+__export__.res_citymun_118603,MALITA,118603,__export__.res_province_1186,TRUE
+__export__.res_citymun_118604,SANTA MARIA,118604,__export__.res_province_1186,TRUE
+__export__.res_citymun_118605,SARANGANI,118605,__export__.res_province_1186,TRUE
+__export__.res_citymun_124701,ALAMADA,124701,__export__.res_province_1247,TRUE
+__export__.res_citymun_124702,CARMEN,124702,__export__.res_province_1247,TRUE
+__export__.res_citymun_124703,KABACAN,124703,__export__.res_province_1247,TRUE
+__export__.res_citymun_124704,CITY OF KIDAPAWAN (Capital),124704,__export__.res_province_1247,TRUE
+__export__.res_citymun_124705,LIBUNGAN,124705,__export__.res_province_1247,TRUE
+__export__.res_citymun_124706,MAGPET,124706,__export__.res_province_1247,TRUE
+__export__.res_citymun_124707,MAKILALA,124707,__export__.res_province_1247,TRUE
+__export__.res_citymun_124708,MATALAM,124708,__export__.res_province_1247,TRUE
+__export__.res_citymun_124709,MIDSAYAP,124709,__export__.res_province_1247,TRUE
+__export__.res_citymun_124710,M'LANG,124710,__export__.res_province_1247,TRUE
+__export__.res_citymun_124711,PIGKAWAYAN,124711,__export__.res_province_1247,TRUE
+__export__.res_citymun_124712,PIKIT,124712,__export__.res_province_1247,TRUE
+__export__.res_citymun_124713,PRESIDENT ROXAS,124713,__export__.res_province_1247,TRUE
+__export__.res_citymun_124714,TULUNAN,124714,__export__.res_province_1247,TRUE
+__export__.res_citymun_124715,ANTIPAS,124715,__export__.res_province_1247,TRUE
+__export__.res_citymun_124716,BANISILAN,124716,__export__.res_province_1247,TRUE
+__export__.res_citymun_124717,ALEOSAN,124717,__export__.res_province_1247,TRUE
+__export__.res_citymun_124718,ARAKAN,124718,__export__.res_province_1247,TRUE
+__export__.res_citymun_126302,BANGA,126302,__export__.res_province_1263,TRUE
+__export__.res_citymun_126303,GENERAL SANTOS CITY (DADIANGAS),126303,__export__.res_province_1263,TRUE
+__export__.res_citymun_126306,CITY OF KORONADAL (Capital),126306,__export__.res_province_1263,TRUE
+__export__.res_citymun_126311,NORALA,126311,__export__.res_province_1263,TRUE
+__export__.res_citymun_126312,POLOMOLOK,126312,__export__.res_province_1263,TRUE
+__export__.res_citymun_126313,SURALLAH,126313,__export__.res_province_1263,TRUE
+__export__.res_citymun_126314,TAMPAKAN,126314,__export__.res_province_1263,TRUE
+__export__.res_citymun_126315,TANTANGAN,126315,__export__.res_province_1263,TRUE
+__export__.res_citymun_126316,T'BOLI,126316,__export__.res_province_1263,TRUE
+__export__.res_citymun_126317,TUPI,126317,__export__.res_province_1263,TRUE
+__export__.res_citymun_126318,SANTO NIÑO,126318,__export__.res_province_1263,TRUE
+__export__.res_citymun_126319,LAKE SEBU,126319,__export__.res_province_1263,TRUE
+__export__.res_citymun_126501,BAGUMBAYAN,126501,__export__.res_province_1265,TRUE
+__export__.res_citymun_126502,COLUMBIO,126502,__export__.res_province_1265,TRUE
+__export__.res_citymun_126503,ESPERANZA,126503,__export__.res_province_1265,TRUE
+__export__.res_citymun_126504,ISULAN (Capital),126504,__export__.res_province_1265,TRUE
+__export__.res_citymun_126505,KALAMANSIG,126505,__export__.res_province_1265,TRUE
+__export__.res_citymun_126506,LEBAK,126506,__export__.res_province_1265,TRUE
+__export__.res_citymun_126507,LUTAYAN,126507,__export__.res_province_1265,TRUE
+__export__.res_citymun_126508,LAMBAYONG (MARIANO MARCOS),126508,__export__.res_province_1265,TRUE
+__export__.res_citymun_126509,PALIMBANG,126509,__export__.res_province_1265,TRUE
+__export__.res_citymun_126510,PRESIDENT QUIRINO,126510,__export__.res_province_1265,TRUE
+__export__.res_citymun_126511,CITY OF TACURONG,126511,__export__.res_province_1265,TRUE
+__export__.res_citymun_126512,SEN. NINOY AQUINO,126512,__export__.res_province_1265,TRUE
+__export__.res_citymun_128001,ALABEL (Capital),128001,__export__.res_province_1280,TRUE
+__export__.res_citymun_128002,GLAN,128002,__export__.res_province_1280,TRUE
+__export__.res_citymun_128003,KIAMBA,128003,__export__.res_province_1280,TRUE
+__export__.res_citymun_128004,MAASIM,128004,__export__.res_province_1280,TRUE
+__export__.res_citymun_128005,MAITUM,128005,__export__.res_province_1280,TRUE
+__export__.res_citymun_128006,MALAPATAN,128006,__export__.res_province_1280,TRUE
+__export__.res_citymun_128007,MALUNGON,128007,__export__.res_province_1280,TRUE
+__export__.res_citymun_129804,COTABATO CITY,129804,__export__.res_province_1298,TRUE
+__export__.res_citymun_133901,TONDO I / II,133901,__export__.res_province_1339,TRUE
+__export__.res_citymun_133902,BINONDO,133902,__export__.res_province_1339,TRUE
+__export__.res_citymun_133903,QUIAPO,133903,__export__.res_province_1339,TRUE
+__export__.res_citymun_133904,SAN NICOLAS,133904,__export__.res_province_1339,TRUE
+__export__.res_citymun_133905,SANTA CRUZ,133905,__export__.res_province_1339,TRUE
+__export__.res_citymun_133906,SAMPALOC,133906,__export__.res_province_1339,TRUE
+__export__.res_citymun_133907,SAN MIGUEL,133907,__export__.res_province_1339,TRUE
+__export__.res_citymun_133908,ERMITA,133908,__export__.res_province_1339,TRUE
+__export__.res_citymun_133909,INTRAMUROS,133909,__export__.res_province_1339,TRUE
+__export__.res_citymun_133910,MALATE,133910,__export__.res_province_1339,TRUE
+__export__.res_citymun_133911,PACO,133911,__export__.res_province_1339,TRUE
+__export__.res_citymun_133912,PANDACAN,133912,__export__.res_province_1339,TRUE
+__export__.res_citymun_133913,PORT AREA,133913,__export__.res_province_1339,TRUE
+__export__.res_citymun_133914,SANTA ANA,133914,__export__.res_province_1339,TRUE
+__export__.res_citymun_137401,CITY OF MANDALUYONG,137401,__export__.res_province_1374,TRUE
+__export__.res_citymun_137402,CITY OF MARIKINA,137402,__export__.res_province_1374,TRUE
+__export__.res_citymun_137403,CITY OF PASIG,137403,__export__.res_province_1374,TRUE
+__export__.res_citymun_137404,QUEZON CITY,137404,__export__.res_province_1374,TRUE
+__export__.res_citymun_137405,CITY OF SAN JUAN,137405,__export__.res_province_1374,TRUE
+__export__.res_citymun_137501,CALOOCAN CITY,137501,__export__.res_province_1375,TRUE
+__export__.res_citymun_137502,CITY OF MALABON,137502,__export__.res_province_1375,TRUE
+__export__.res_citymun_137503,CITY OF NAVOTAS,137503,__export__.res_province_1375,TRUE
+__export__.res_citymun_137504,CITY OF VALENZUELA,137504,__export__.res_province_1375,TRUE
+__export__.res_citymun_137601,CITY OF LAS PIÑAS,137601,__export__.res_province_1376,TRUE
+__export__.res_citymun_137602,CITY OF MAKATI,137602,__export__.res_province_1376,TRUE
+__export__.res_citymun_137603,CITY OF MUNTINLUPA,137603,__export__.res_province_1376,TRUE
+__export__.res_citymun_137604,CITY OF PARAÑAQUE,137604,__export__.res_province_1376,TRUE
+__export__.res_citymun_137605,PASAY CITY,137605,__export__.res_province_1376,TRUE
+__export__.res_citymun_137606,PATEROS,137606,__export__.res_province_1376,TRUE
+__export__.res_citymun_137607,TAGUIG CITY,137607,__export__.res_province_1376,TRUE
+__export__.res_citymun_140101,BANGUED (Capital),140101,__export__.res_province_1401,TRUE
+__export__.res_citymun_140102,BOLINEY,140102,__export__.res_province_1401,TRUE
+__export__.res_citymun_140103,BUCAY,140103,__export__.res_province_1401,TRUE
+__export__.res_citymun_140104,BUCLOC,140104,__export__.res_province_1401,TRUE
+__export__.res_citymun_140105,DAGUIOMAN,140105,__export__.res_province_1401,TRUE
+__export__.res_citymun_140106,DANGLAS,140106,__export__.res_province_1401,TRUE
+__export__.res_citymun_140107,DOLORES,140107,__export__.res_province_1401,TRUE
+__export__.res_citymun_140108,LA PAZ,140108,__export__.res_province_1401,TRUE
+__export__.res_citymun_140109,LACUB,140109,__export__.res_province_1401,TRUE
+__export__.res_citymun_140110,LAGANGILANG,140110,__export__.res_province_1401,TRUE
+__export__.res_citymun_140111,LAGAYAN,140111,__export__.res_province_1401,TRUE
+__export__.res_citymun_140112,LANGIDEN,140112,__export__.res_province_1401,TRUE
+__export__.res_citymun_140113,LICUAN-BAAY (LICUAN),140113,__export__.res_province_1401,TRUE
+__export__.res_citymun_140114,LUBA,140114,__export__.res_province_1401,TRUE
+__export__.res_citymun_140115,MALIBCONG,140115,__export__.res_province_1401,TRUE
+__export__.res_citymun_140116,MANABO,140116,__export__.res_province_1401,TRUE
+__export__.res_citymun_140117,PEÑARRUBIA,140117,__export__.res_province_1401,TRUE
+__export__.res_citymun_140118,PIDIGAN,140118,__export__.res_province_1401,TRUE
+__export__.res_citymun_140119,PILAR,140119,__export__.res_province_1401,TRUE
+__export__.res_citymun_140120,SALLAPADAN,140120,__export__.res_province_1401,TRUE
+__export__.res_citymun_140121,SAN ISIDRO,140121,__export__.res_province_1401,TRUE
+__export__.res_citymun_140122,SAN JUAN,140122,__export__.res_province_1401,TRUE
+__export__.res_citymun_140123,SAN QUINTIN,140123,__export__.res_province_1401,TRUE
+__export__.res_citymun_140124,TAYUM,140124,__export__.res_province_1401,TRUE
+__export__.res_citymun_140125,TINEG,140125,__export__.res_province_1401,TRUE
+__export__.res_citymun_140126,TUBO,140126,__export__.res_province_1401,TRUE
+__export__.res_citymun_140127,VILLAVICIOSA,140127,__export__.res_province_1401,TRUE
+__export__.res_citymun_141101,ATOK,141101,__export__.res_province_1411,TRUE
+__export__.res_citymun_141102,BAGUIO CITY,141102,__export__.res_province_1411,TRUE
+__export__.res_citymun_141103,BAKUN,141103,__export__.res_province_1411,TRUE
+__export__.res_citymun_141104,BOKOD,141104,__export__.res_province_1411,TRUE
+__export__.res_citymun_141105,BUGUIAS,141105,__export__.res_province_1411,TRUE
+__export__.res_citymun_141106,ITOGON,141106,__export__.res_province_1411,TRUE
+__export__.res_citymun_141107,KABAYAN,141107,__export__.res_province_1411,TRUE
+__export__.res_citymun_141108,KAPANGAN,141108,__export__.res_province_1411,TRUE
+__export__.res_citymun_141109,KIBUNGAN,141109,__export__.res_province_1411,TRUE
+__export__.res_citymun_141110,LA TRINIDAD (Capital),141110,__export__.res_province_1411,TRUE
+__export__.res_citymun_141111,MANKAYAN,141111,__export__.res_province_1411,TRUE
+__export__.res_citymun_141112,SABLAN,141112,__export__.res_province_1411,TRUE
+__export__.res_citymun_141113,TUBA,141113,__export__.res_province_1411,TRUE
+__export__.res_citymun_141114,TUBLAY,141114,__export__.res_province_1411,TRUE
+__export__.res_citymun_142701,BANAUE,142701,__export__.res_province_1427,TRUE
+__export__.res_citymun_142702,HUNGDUAN,142702,__export__.res_province_1427,TRUE
+__export__.res_citymun_142703,KIANGAN,142703,__export__.res_province_1427,TRUE
+__export__.res_citymun_142704,LAGAWE (Capital),142704,__export__.res_province_1427,TRUE
+__export__.res_citymun_142705,LAMUT,142705,__export__.res_province_1427,TRUE
+__export__.res_citymun_142706,MAYOYAO,142706,__export__.res_province_1427,TRUE
+__export__.res_citymun_142707,ALFONSO LISTA (POTIA),142707,__export__.res_province_1427,TRUE
+__export__.res_citymun_142708,AGUINALDO,142708,__export__.res_province_1427,TRUE
+__export__.res_citymun_142709,HINGYON,142709,__export__.res_province_1427,TRUE
+__export__.res_citymun_142710,TINOC,142710,__export__.res_province_1427,TRUE
+__export__.res_citymun_142711,ASIPULO,142711,__export__.res_province_1427,TRUE
+__export__.res_citymun_143201,BALBALAN,143201,__export__.res_province_1432,TRUE
+__export__.res_citymun_143206,LUBUAGAN,143206,__export__.res_province_1432,TRUE
+__export__.res_citymun_143208,PASIL,143208,__export__.res_province_1432,TRUE
+__export__.res_citymun_143209,PINUKPUK,143209,__export__.res_province_1432,TRUE
+__export__.res_citymun_143211,RIZAL (LIWAN),143211,__export__.res_province_1432,TRUE
+__export__.res_citymun_143213,CITY OF TABUK (Capital),143213,__export__.res_province_1432,TRUE
+__export__.res_citymun_143214,TANUDAN,143214,__export__.res_province_1432,TRUE
+__export__.res_citymun_143215,TINGLAYAN,143215,__export__.res_province_1432,TRUE
+__export__.res_citymun_144401,BARLIG,144401,__export__.res_province_1444,TRUE
+__export__.res_citymun_144402,BAUKO,144402,__export__.res_province_1444,TRUE
+__export__.res_citymun_144403,BESAO,144403,__export__.res_province_1444,TRUE
+__export__.res_citymun_144404,BONTOC (Capital),144404,__export__.res_province_1444,TRUE
+__export__.res_citymun_144405,NATONIN,144405,__export__.res_province_1444,TRUE
+__export__.res_citymun_144406,PARACELIS,144406,__export__.res_province_1444,TRUE
+__export__.res_citymun_144407,SABANGAN,144407,__export__.res_province_1444,TRUE
+__export__.res_citymun_144408,SADANGA,144408,__export__.res_province_1444,TRUE
+__export__.res_citymun_144409,SAGADA,144409,__export__.res_province_1444,TRUE
+__export__.res_citymun_144410,TADIAN,144410,__export__.res_province_1444,TRUE
+__export__.res_citymun_148101,CALANASAN (BAYAG),148101,__export__.res_province_1481,TRUE
+__export__.res_citymun_148102,CONNER,148102,__export__.res_province_1481,TRUE
+__export__.res_citymun_148103,FLORA,148103,__export__.res_province_1481,TRUE
+__export__.res_citymun_148104,KABUGAO (Capital),148104,__export__.res_province_1481,TRUE
+__export__.res_citymun_148105,LUNA,148105,__export__.res_province_1481,TRUE
+__export__.res_citymun_148106,PUDTOL,148106,__export__.res_province_1481,TRUE
+__export__.res_citymun_148107,SANTA MARCELA,148107,__export__.res_province_1481,TRUE
+__export__.res_citymun_150702,CITY OF LAMITAN,150702,__export__.res_province_1507,TRUE
+__export__.res_citymun_150703,LANTAWAN,150703,__export__.res_province_1507,TRUE
+__export__.res_citymun_150704,MALUSO,150704,__export__.res_province_1507,TRUE
+__export__.res_citymun_150705,SUMISIP,150705,__export__.res_province_1507,TRUE
+__export__.res_citymun_150706,TIPO-TIPO,150706,__export__.res_province_1507,TRUE
+__export__.res_citymun_150707,TUBURAN,150707,__export__.res_province_1507,TRUE
+__export__.res_citymun_150708,AKBAR,150708,__export__.res_province_1507,TRUE
+__export__.res_citymun_150709,AL-BARKA,150709,__export__.res_province_1507,TRUE
+__export__.res_citymun_150710,HADJI MOHAMMAD AJUL,150710,__export__.res_province_1507,TRUE
+__export__.res_citymun_150711,UNGKAYA PUKAN,150711,__export__.res_province_1507,TRUE
+__export__.res_citymun_150712,HADJI MUHTAMAD,150712,__export__.res_province_1507,TRUE
+__export__.res_citymun_150713,TABUAN-LASA,150713,__export__.res_province_1507,TRUE
+__export__.res_citymun_153601,BACOLOD-KALAWI (BACOLOD GRANDE),153601,__export__.res_province_1536,TRUE
+__export__.res_citymun_153602,BALABAGAN,153602,__export__.res_province_1536,TRUE
+__export__.res_citymun_153603,BALINDONG (WATU),153603,__export__.res_province_1536,TRUE
+__export__.res_citymun_153604,BAYANG,153604,__export__.res_province_1536,TRUE
+__export__.res_citymun_153605,BINIDAYAN,153605,__export__.res_province_1536,TRUE
+__export__.res_citymun_153606,BUBONG,153606,__export__.res_province_1536,TRUE
+__export__.res_citymun_153607,BUTIG,153607,__export__.res_province_1536,TRUE
+__export__.res_citymun_153609,GANASSI,153609,__export__.res_province_1536,TRUE
+__export__.res_citymun_153610,KAPAI,153610,__export__.res_province_1536,TRUE
+__export__.res_citymun_153611,LUMBA-BAYABAO (MAGUING),153611,__export__.res_province_1536,TRUE
+__export__.res_citymun_153612,LUMBATAN,153612,__export__.res_province_1536,TRUE
+__export__.res_citymun_153613,MADALUM,153613,__export__.res_province_1536,TRUE
+__export__.res_citymun_153614,MADAMBA,153614,__export__.res_province_1536,TRUE
+__export__.res_citymun_153615,MALABANG,153615,__export__.res_province_1536,TRUE
+__export__.res_citymun_153616,MARANTAO,153616,__export__.res_province_1536,TRUE
+__export__.res_citymun_153617,MARAWI CITY (Capital),153617,__export__.res_province_1536,TRUE
+__export__.res_citymun_153618,MASIU,153618,__export__.res_province_1536,TRUE
+__export__.res_citymun_153619,MULONDO,153619,__export__.res_province_1536,TRUE
+__export__.res_citymun_153620,PAGAYAWAN (TATARIKAN),153620,__export__.res_province_1536,TRUE
+__export__.res_citymun_153621,PIAGAPO,153621,__export__.res_province_1536,TRUE
+__export__.res_citymun_153622,POONA BAYABAO (GATA),153622,__export__.res_province_1536,TRUE
+__export__.res_citymun_153623,PUALAS,153623,__export__.res_province_1536,TRUE
+__export__.res_citymun_153624,DITSAAN-RAMAIN,153624,__export__.res_province_1536,TRUE
+__export__.res_citymun_153625,SAGUIARAN,153625,__export__.res_province_1536,TRUE
+__export__.res_citymun_153626,TAMPARAN,153626,__export__.res_province_1536,TRUE
+__export__.res_citymun_153627,TARAKA,153627,__export__.res_province_1536,TRUE
+__export__.res_citymun_153628,TUBARAN,153628,__export__.res_province_1536,TRUE
+__export__.res_citymun_153629,TUGAYA,153629,__export__.res_province_1536,TRUE
+__export__.res_citymun_153630,WAO,153630,__export__.res_province_1536,TRUE
+__export__.res_citymun_153631,MAROGONG,153631,__export__.res_province_1536,TRUE
+__export__.res_citymun_153632,CALANOGAS,153632,__export__.res_province_1536,TRUE
+__export__.res_citymun_153633,BUADIPOSO-BUNTONG,153633,__export__.res_province_1536,TRUE
+__export__.res_citymun_153634,MAGUING,153634,__export__.res_province_1536,TRUE
+__export__.res_citymun_153635,PICONG (SULTAN GUMANDER),153635,__export__.res_province_1536,TRUE
+__export__.res_citymun_153636,LUMBAYANAGUE,153636,__export__.res_province_1536,TRUE
+__export__.res_citymun_153637,BUMBARAN,153637,__export__.res_province_1536,TRUE
+__export__.res_citymun_153638,TAGOLOAN II,153638,__export__.res_province_1536,TRUE
+__export__.res_citymun_153639,KAPATAGAN,153639,__export__.res_province_1536,TRUE
+__export__.res_citymun_153640,SULTAN DUMALONDONG,153640,__export__.res_province_1536,TRUE
+__export__.res_citymun_153641,LUMBACA-UNAYAN,153641,__export__.res_province_1536,TRUE
+__export__.res_citymun_153801,AMPATUAN,153801,__export__.res_province_1538,TRUE
+__export__.res_citymun_153802,BULDON,153802,__export__.res_province_1538,TRUE
+__export__.res_citymun_153803,BULUAN,153803,__export__.res_province_1538,TRUE
+__export__.res_citymun_153805,DATU PAGLAS,153805,__export__.res_province_1538,TRUE
+__export__.res_citymun_153806,DATU PIANG,153806,__export__.res_province_1538,TRUE
+__export__.res_citymun_153807,DATU ODIN SINSUAT (DINAIG),153807,__export__.res_province_1538,TRUE
+__export__.res_citymun_153808,SHARIFF AGUAK (MAGANOY) (Capital),153808,__export__.res_province_1538,TRUE
+__export__.res_citymun_153809,MATANOG,153809,__export__.res_province_1538,TRUE
+__export__.res_citymun_153810,PAGALUNGAN,153810,__export__.res_province_1538,TRUE
+__export__.res_citymun_153811,PARANG,153811,__export__.res_province_1538,TRUE
+__export__.res_citymun_153812,SULTAN KUDARAT (NULING),153812,__export__.res_province_1538,TRUE
+__export__.res_citymun_153813,SULTAN SA BARONGIS (LAMBAYONG),153813,__export__.res_province_1538,TRUE
+__export__.res_citymun_153814,KABUNTALAN (TUMBAO),153814,__export__.res_province_1538,TRUE
+__export__.res_citymun_153815,UPI,153815,__export__.res_province_1538,TRUE
+__export__.res_citymun_153816,TALAYAN,153816,__export__.res_province_1538,TRUE
+__export__.res_citymun_153817,SOUTH UPI,153817,__export__.res_province_1538,TRUE
+__export__.res_citymun_153818,BARIRA,153818,__export__.res_province_1538,TRUE
+__export__.res_citymun_153819,GEN. S. K. PENDATUN,153819,__export__.res_province_1538,TRUE
+__export__.res_citymun_153820,MAMASAPANO,153820,__export__.res_province_1538,TRUE
+__export__.res_citymun_153821,TALITAY,153821,__export__.res_province_1538,TRUE
+__export__.res_citymun_153822,PAGAGAWAN,153822,__export__.res_province_1538,TRUE
+__export__.res_citymun_153823,PAGLAT,153823,__export__.res_province_1538,TRUE
+__export__.res_citymun_153824,SULTAN MASTURA,153824,__export__.res_province_1538,TRUE
+__export__.res_citymun_153825,GUINDULUNGAN,153825,__export__.res_province_1538,TRUE
+__export__.res_citymun_153826,DATU SAUDI-AMPATUAN,153826,__export__.res_province_1538,TRUE
+__export__.res_citymun_153827,DATU UNSAY,153827,__export__.res_province_1538,TRUE
+__export__.res_citymun_153828,DATU ABDULLAH SANGKI,153828,__export__.res_province_1538,TRUE
+__export__.res_citymun_153829,RAJAH BUAYAN,153829,__export__.res_province_1538,TRUE
+__export__.res_citymun_153830,DATU BLAH T. SINSUAT,153830,__export__.res_province_1538,TRUE
+__export__.res_citymun_153831,DATU ANGGAL MIDTIMBANG,153831,__export__.res_province_1538,TRUE
+__export__.res_citymun_153832,MANGUDADATU,153832,__export__.res_province_1538,TRUE
+__export__.res_citymun_153833,PANDAG,153833,__export__.res_province_1538,TRUE
+__export__.res_citymun_153834,NORTHERN KABUNTALAN,153834,__export__.res_province_1538,TRUE
+__export__.res_citymun_153835,DATU HOFFER AMPATUAN,153835,__export__.res_province_1538,TRUE
+__export__.res_citymun_153836,DATU SALIBO,153836,__export__.res_province_1538,TRUE
+__export__.res_citymun_153837,SHARIFF SAYDONA MUSTAPHA,153837,__export__.res_province_1538,TRUE
+__export__.res_citymun_156601,INDANAN,156601,__export__.res_province_1566,TRUE
+__export__.res_citymun_156602,JOLO (Capital),156602,__export__.res_province_1566,TRUE
+__export__.res_citymun_156603,KALINGALAN CALUANG,156603,__export__.res_province_1566,TRUE
+__export__.res_citymun_156604,LUUK,156604,__export__.res_province_1566,TRUE
+__export__.res_citymun_156605,MAIMBUNG,156605,__export__.res_province_1566,TRUE
+__export__.res_citymun_156606,HADJI PANGLIMA TAHIL (MARUNGGAS),156606,__export__.res_province_1566,TRUE
+__export__.res_citymun_156607,OLD PANAMAO,156607,__export__.res_province_1566,TRUE
+__export__.res_citymun_156608,PANGUTARAN,156608,__export__.res_province_1566,TRUE
+__export__.res_citymun_156609,PARANG,156609,__export__.res_province_1566,TRUE
+__export__.res_citymun_156610,PATA,156610,__export__.res_province_1566,TRUE
+__export__.res_citymun_156611,PATIKUL,156611,__export__.res_province_1566,TRUE
+__export__.res_citymun_156612,SIASI,156612,__export__.res_province_1566,TRUE
+__export__.res_citymun_156613,TALIPAO,156613,__export__.res_province_1566,TRUE
+__export__.res_citymun_156614,TAPUL,156614,__export__.res_province_1566,TRUE
+__export__.res_citymun_156615,TONGKIL,156615,__export__.res_province_1566,TRUE
+__export__.res_citymun_156616,PANGLIMA ESTINO (NEW PANAMAO),156616,__export__.res_province_1566,TRUE
+__export__.res_citymun_156617,LUGUS,156617,__export__.res_province_1566,TRUE
+__export__.res_citymun_156618,PANDAMI,156618,__export__.res_province_1566,TRUE
+__export__.res_citymun_156619,OMAR,156619,__export__.res_province_1566,TRUE
+__export__.res_citymun_157001,PANGLIMA SUGALA (BALIMBING),157001,__export__.res_province_1570,TRUE
+__export__.res_citymun_157002,BONGAO (Capital),157002,__export__.res_province_1570,TRUE
+__export__.res_citymun_157003,MAPUN (CAGAYAN DE TAWI-TAWI),157003,__export__.res_province_1570,TRUE
+__export__.res_citymun_157004,SIMUNUL,157004,__export__.res_province_1570,TRUE
+__export__.res_citymun_157005,SITANGKAI,157005,__export__.res_province_1570,TRUE
+__export__.res_citymun_157006,SOUTH UBIAN,157006,__export__.res_province_1570,TRUE
+__export__.res_citymun_157007,TANDUBAS,157007,__export__.res_province_1570,TRUE
+__export__.res_citymun_157008,TURTLE ISLANDS,157008,__export__.res_province_1570,TRUE
+__export__.res_citymun_157009,LANGUYAN,157009,__export__.res_province_1570,TRUE
+__export__.res_citymun_157010,SAPA-SAPA,157010,__export__.res_province_1570,TRUE
+__export__.res_citymun_157011,SIBUTU,157011,__export__.res_province_1570,TRUE
+__export__.res_citymun_160201,BUENAVISTA,160201,__export__.res_province_1602,TRUE
+__export__.res_citymun_160202,BUTUAN CITY (Capital),160202,__export__.res_province_1602,TRUE
+__export__.res_citymun_160203,CITY OF CABADBARAN,160203,__export__.res_province_1602,TRUE
+__export__.res_citymun_160204,CARMEN,160204,__export__.res_province_1602,TRUE
+__export__.res_citymun_160205,JABONGA,160205,__export__.res_province_1602,TRUE
+__export__.res_citymun_160206,KITCHARAO,160206,__export__.res_province_1602,TRUE
+__export__.res_citymun_160207,LAS NIEVES,160207,__export__.res_province_1602,TRUE
+__export__.res_citymun_160208,MAGALLANES,160208,__export__.res_province_1602,TRUE
+__export__.res_citymun_160209,NASIPIT,160209,__export__.res_province_1602,TRUE
+__export__.res_citymun_160210,SANTIAGO,160210,__export__.res_province_1602,TRUE
+__export__.res_citymun_160211,TUBAY,160211,__export__.res_province_1602,TRUE
+__export__.res_citymun_160212,REMEDIOS T. ROMUALDEZ,160212,__export__.res_province_1602,TRUE
+__export__.res_citymun_160301,CITY OF BAYUGAN,160301,__export__.res_province_1603,TRUE
+__export__.res_citymun_160302,BUNAWAN,160302,__export__.res_province_1603,TRUE
+__export__.res_citymun_160303,ESPERANZA,160303,__export__.res_province_1603,TRUE
+__export__.res_citymun_160304,LA PAZ,160304,__export__.res_province_1603,TRUE
+__export__.res_citymun_160305,LORETO,160305,__export__.res_province_1603,TRUE
+__export__.res_citymun_160306,PROSPERIDAD (Capital),160306,__export__.res_province_1603,TRUE
+__export__.res_citymun_160307,ROSARIO,160307,__export__.res_province_1603,TRUE
+__export__.res_citymun_160308,SAN FRANCISCO,160308,__export__.res_province_1603,TRUE
+__export__.res_citymun_160309,SAN LUIS,160309,__export__.res_province_1603,TRUE
+__export__.res_citymun_160310,SANTA JOSEFA,160310,__export__.res_province_1603,TRUE
+__export__.res_citymun_160311,TALACOGON,160311,__export__.res_province_1603,TRUE
+__export__.res_citymun_160312,TRENTO,160312,__export__.res_province_1603,TRUE
+__export__.res_citymun_160313,VERUELA,160313,__export__.res_province_1603,TRUE
+__export__.res_citymun_160314,SIBAGAT,160314,__export__.res_province_1603,TRUE
+__export__.res_citymun_166701,ALEGRIA,166701,__export__.res_province_1667,TRUE
+__export__.res_citymun_166702,BACUAG,166702,__export__.res_province_1667,TRUE
+__export__.res_citymun_166704,BURGOS,166704,__export__.res_province_1667,TRUE
+__export__.res_citymun_166706,CLAVER,166706,__export__.res_province_1667,TRUE
+__export__.res_citymun_166707,DAPA,166707,__export__.res_province_1667,TRUE
+__export__.res_citymun_166708,DEL CARMEN,166708,__export__.res_province_1667,TRUE
+__export__.res_citymun_166710,GENERAL LUNA,166710,__export__.res_province_1667,TRUE
+__export__.res_citymun_166711,GIGAQUIT,166711,__export__.res_province_1667,TRUE
+__export__.res_citymun_166714,MAINIT,166714,__export__.res_province_1667,TRUE
+__export__.res_citymun_166715,MALIMONO,166715,__export__.res_province_1667,TRUE
+__export__.res_citymun_166716,PILAR,166716,__export__.res_province_1667,TRUE
+__export__.res_citymun_166717,PLACER,166717,__export__.res_province_1667,TRUE
+__export__.res_citymun_166718,SAN BENITO,166718,__export__.res_province_1667,TRUE
+__export__.res_citymun_166719,SAN FRANCISCO (ANAO-AON),166719,__export__.res_province_1667,TRUE
+__export__.res_citymun_166720,SAN ISIDRO,166720,__export__.res_province_1667,TRUE
+__export__.res_citymun_166721,SANTA MONICA (SAPAO),166721,__export__.res_province_1667,TRUE
+__export__.res_citymun_166722,SISON,166722,__export__.res_province_1667,TRUE
+__export__.res_citymun_166723,SOCORRO,166723,__export__.res_province_1667,TRUE
+__export__.res_citymun_166724,SURIGAO CITY (Capital),166724,__export__.res_province_1667,TRUE
+__export__.res_citymun_166725,TAGANA-AN,166725,__export__.res_province_1667,TRUE
+__export__.res_citymun_166727,TUBOD,166727,__export__.res_province_1667,TRUE
+__export__.res_citymun_166801,BAROBO,166801,__export__.res_province_1668,TRUE
+__export__.res_citymun_166802,BAYABAS,166802,__export__.res_province_1668,TRUE
+__export__.res_citymun_166803,CITY OF BISLIG,166803,__export__.res_province_1668,TRUE
+__export__.res_citymun_166804,CAGWAIT,166804,__export__.res_province_1668,TRUE
+__export__.res_citymun_166805,CANTILAN,166805,__export__.res_province_1668,TRUE
+__export__.res_citymun_166806,CARMEN,166806,__export__.res_province_1668,TRUE
+__export__.res_citymun_166807,CARRASCAL,166807,__export__.res_province_1668,TRUE
+__export__.res_citymun_166808,CORTES,166808,__export__.res_province_1668,TRUE
+__export__.res_citymun_166809,HINATUAN,166809,__export__.res_province_1668,TRUE
+__export__.res_citymun_166810,LANUZA,166810,__export__.res_province_1668,TRUE
+__export__.res_citymun_166811,LIANGA,166811,__export__.res_province_1668,TRUE
+__export__.res_citymun_166812,LINGIG,166812,__export__.res_province_1668,TRUE
+__export__.res_citymun_166813,MADRID,166813,__export__.res_province_1668,TRUE
+__export__.res_citymun_166814,MARIHATAG,166814,__export__.res_province_1668,TRUE
+__export__.res_citymun_166815,SAN AGUSTIN,166815,__export__.res_province_1668,TRUE
+__export__.res_citymun_166816,SAN MIGUEL,166816,__export__.res_province_1668,TRUE
+__export__.res_citymun_166817,TAGBINA,166817,__export__.res_province_1668,TRUE
+__export__.res_citymun_166818,TAGO,166818,__export__.res_province_1668,TRUE
+__export__.res_citymun_166819,CITY OF TANDAG (Capital),166819,__export__.res_province_1668,TRUE
+__export__.res_citymun_168501,BASILISA (RIZAL),168501,__export__.res_province_1685,TRUE
+__export__.res_citymun_168502,CAGDIANAO,168502,__export__.res_province_1685,TRUE
+__export__.res_citymun_168503,DINAGAT,168503,__export__.res_province_1685,TRUE
+__export__.res_citymun_168504,LIBJO (ALBOR),168504,__export__.res_province_1685,TRUE
+__export__.res_citymun_168505,LORETO,168505,__export__.res_province_1685,TRUE
+__export__.res_citymun_168506,SAN JOSE (Capital),168506,__export__.res_province_1685,TRUE
+__export__.res_citymun_168507,TUBAJON,168507,__export__.res_province_1685,TRUE
+__export__.res_citymun_56217,BACON,56217,__export__.res_province_562,TRUE

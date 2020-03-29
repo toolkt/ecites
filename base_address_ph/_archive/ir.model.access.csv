@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+uesr_access_user_res_brgy,user.res.brgy,model_res_brgy,base.group_user,1,1,1,1
+uesr_access_user_res_region,user.res.region,model_res_region,base.group_user,1,1,1,1
+uesr_access_user_res_province,user.res.province,model_res_province,base.group_user,1,1,1,1
+uesr_access_user_res_citymun,user.res.citymun,model_res_citymun,base.group_user,1,1,1,1

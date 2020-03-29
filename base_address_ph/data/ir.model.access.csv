@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+uesr_access_user_res_brgy,user.res.brgy,model_res_brgy,base.group_user,1,0,0,0
+uesr_access_user_res_region,user.res.region,model_res_region,base.group_user,1,0,0,0
+uesr_access_user_res_province,user.res.province,model_res_province,base.group_user,1,0,0,0
+uesr_access_user_res_citymun,user.res.citymun,model_res_citymun,base.group_user,1,0,0,0
+
+
+uesr_access_admin_res_brgy,admin.res.brgy,model_res_brgy,base.user_admin,1,1,1,1
+uesr_access_admin_res_region,admin.res.region,model_res_region,base.user_admin,1,1,1,1
+uesr_access_admin_res_province,admin.res.province,model_res_province,base.user_admin,1,1,1,1
+uesr_access_admin_res_citymun,admin.res.citymun,model_res_citymun,base.user_admin,1,1,1,1

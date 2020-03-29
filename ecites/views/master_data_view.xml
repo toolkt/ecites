@@ -31,6 +31,7 @@
             <field name="arch" type="xml">
                 <tree editable='bottom'>
                     <field name="name"/>
+                    <field name="product_id"/>
                     <field name="s_english_name1"/>
                     <field name="s_english_name2"/>
                     <field name="s_kingdom"/>

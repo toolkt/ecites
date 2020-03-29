@@ -1,0 +1,15 @@
+﻿id,code,name
+ecites_purpose_01,T,Commercial
+ecites_purpose_02,Z,Zoo
+ecites_purpose_03,G,Botanical Garden
+ecites_purpose_04,Q,Exhibit
+ecites_purpose_05,S,Scientific
+ecites_purpose_06,H,Hunting trophy
+ecites_purpose_07,P,Personal 
+ecites_purpose_08,M,Medical
+ecites_purpose_09,E,Educational
+ecites_purpose_10,N,Reintroduction into the wild
+ecites_purpose_11,N,Introduction into the wild
+ecites_purpose_12,B,Breeding in captivity
+ecites_purpose_13,B,Artificial propagation
+ecites_purpose_14,L,Law enforcement/judicial/forensic

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+<record id="ecites_purpose_01" model="ecites.purpose">
+    <field name="code">T</field>
+    <field name="name">Commercial</field>
+</record>
+
+<record id="ecites_purpose_02" model="ecites.purpose">
+    <field name="code">Z</field>
+    <field name="name">Zoo</field>
+</record>
+
+<record id="ecites_purpose_03" model="ecites.purpose">
+    <field name="code">G</field>
+    <field name="name">Botanical Garden</field>
+</record>
+
+<record id="ecites_purpose_04" model="ecites.purpose">
+    <field name="code">Q</field>
+    <field name="name">Exhibit</field>
+</record>
+
+<record id="ecites_purpose_05" model="ecites.purpose">
+    <field name="code">S</field>
+    <field name="name">Scientific</field>
+</record>
+
+<record id="ecites_purpose_06" model="ecites.purpose">
+    <field name="code">H</field>
+    <field name="name">Hunting trophy</field>
+</record>
+
+<record id="ecites_purpose_07" model="ecites.purpose">
+    <field name="code">P</field>
+    <field name="name">Personal </field>
+</record>
+
+<record id="ecites_purpose_08" model="ecites.purpose">
+    <field name="code">M</field>
+    <field name="name">Medical</field>
+</record>
+
+<record id="ecites_purpose_09" model="ecites.purpose">
+    <field name="code">E</field>
+    <field name="name">Educational</field>
+</record>
+
+<record id="ecites_purpose_10" model="ecites.purpose">
+    <field name="code">N</field>
+    <field name="name">Reintroduction into the wild</field>
+</record>
+
+<record id="ecites_purpose_11" model="ecites.purpose">
+    <field name="code">N</field>
+    <field name="name">Introduction into the wild</field>
+</record>
+
+<record id="ecites_purpose_12" model="ecites.purpose">
+    <field name="code">B</field>
+    <field name="name">Breeding in captivity</field>
+</record>
+
+<record id="ecites_purpose_13" model="ecites.purpose">
+    <field name="code">B</field>
+    <field name="name">Artificial propagation</field>
+</record>
+
+<record id="ecites_purpose_14" model="ecites.purpose">
+    <field name="code">L</field>
+    <field name="name">Law enforcement/judicial/forensic</field>
+</record>
+
+
+    </data>
+</odoo>
