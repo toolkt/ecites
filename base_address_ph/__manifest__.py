@@ -20,7 +20,7 @@ Barangay
         'data/res_region_data.xml',
         'data/res_province_data.xml',
         'data/res_citymun_data.xml',
-        # 'data/res_brgy_data.xml',
+        'data/res_brgy_data.xml',
 
         'res_address_view.xml',
         'users_view.xml',
