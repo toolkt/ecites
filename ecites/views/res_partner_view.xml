@@ -6,8 +6,34 @@
             <field name="model">res.partner</field>
             <field name="inherit_id" ref="base.view_partner_form"/>
             <field name="arch" type="xml">
-                <xpath expr="//field[@name='function']" position="after">
+                <xpath expr="//field[@name='type']" position="after">
                      <field name="company" attrs="{'invisible':[('company_type','=','company')]}"/>
+                </xpath>
+
+                <xpath expr="//field[@name='vat']" position="after">
+
+                     <field name="brgy" />
+                     <field name="citymun" />
+                     <field name="province" />
+                     <field name="region" />
+
+
+                     <field name="email_2" />
+                     <field name="phone_2" />                     
+                     <field name="street_2" />
+                     <field name="street2_2" />
+                     <field name="brgy_2" />
+                     <field name="citymun_2" />
+                     <field name="province_2" />
+                     <field name="region_2" />
+
+
+                     <field name="permit_no" />
+                     <field name="permit_date_issued" />
+                     <field name="authorized_rep" />
+                     <field name="authorized_rep_contact_no" />
+
+                     <field name="registration_status" />
                 </xpath>
             </field>
         </record>

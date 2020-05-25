@@ -5,6 +5,26 @@ from odoo import api, fields, models, _
 from datetime import datetime, timedelta
 from odoo.exceptions import ValidationError, AccessError, UserError
 
+import qrcode
+import base64
+from io import BytesIO
+
+
+def generate_qr_code(url):
+    qr = qrcode.QRCode(
+             version=1,
+             error_correction=qrcode.constants.ERROR_CORRECT_L,
+             box_size=20,
+             border=4,
+             )
+    qr.add_data(url)
+    qr.make(fit=True)
+    img = qr.make_image()
+    temp = BytesIO()
+    img.save(temp, format="PNG")
+    qr_img = base64.b64encode(temp.getvalue())
+    return qr_img
+
 
 
 
@@ -38,29 +58,23 @@ class eCitesSpecies(models.Model):
 
 
 
-class ResPartner(models.Model):
-    _inherit = "res.partner"
-
-    company = fields.Char('Name of Establishment / Company')
-    permit_no = fields.Char(string='Wildlife Farm Permit No. (if applicable)')
-    permit_date_issued = fields.Char(string='Date Issued')
-    authorized_rep = fields.Char(string='Name of authorized representative')
-    authorized_rep_contact_no = fields.Char(string='Contact number')
-
-
 
 class eCitesApplication(models.Model):
     _name = 'ecites.application'
     _inherit = ['mail.thread']
 
 
-    def action_submit1(self):
+    def action_submit(self):
         for rec in self:
             rec.write({'state':'submitted'})
             print(rec)
 
+            for application in self.filtered(lambda application: rec.partner_id not in rec.message_partner_ids):
+                application.message_subscribe([rec.partner_id.id])
 
-    def action_submit(self):
+
+
+    def action_submit0(self):
         """ Called by the 'Fiscal Year Opening' button of the setup bar."""
         # company = self.env.company
         # company.create_op_move_if_non_existant()
@@ -113,6 +127,12 @@ class eCitesApplication(models.Model):
     def create(self, vals):
         rec = super(eCitesApplication, self).create(vals)
         rec.name = self.env['ir.sequence'].next_by_code('ecites.application')
+
+
+        base_url = self.env['ir.config_parameter'].sudo().get_param('web.base.url')
+        base_url += '/application/status/%s' % rec.name
+        rec.qr_image = generate_qr_code(base_url)
+
         return rec
 
 
@@ -138,8 +158,10 @@ class eCitesApplication(models.Model):
 
     name = fields.Char(string='Number', copy=False)
 
+    applicant_type = fields.Selection([('regular','Regular'),('walkin','Walkin')], required=True, string='Applicant Type')
     permit_type = fields.Selection([('export','CITES Export Permit'),('import','CITES Import Permit'),('re-export','CITES Re-export Permit')], required=True, string='Type of permit')
     importer_name = fields.Char(string='Importer', required=True )
+    partner_id = fields.Many2one('res.partner', string="Importer User", default=lambda self: self.env.user.partner_id.id)
     company_name = fields.Char(string='Company')
     company_address = fields.Text(string='Address', required=True)
     purpose = fields.Many2one('ecites.purpose',string='Purpose', required=True)
@@ -170,6 +192,32 @@ class eCitesApplication(models.Model):
     authorized_rep_contact_no = fields.Char(string='Contact number')
     digital_signature = fields.Binary(string='Signature')
 
+    qr_image = fields.Binary("QR Code", attachment=False)
+    qr_in_report = fields.Boolean('Show QR in Report')
+
+
+    # @api.multi
+    def print_permit(self):
+        
+        this = self.browse(self.ids[0])
+        current_user = self.env['res.users'].browse(self._uid)
+
+        values = {
+                'type': 'ir.actions.report',
+                'report_name': 'ecites.permit1',
+                'report_type': 'pentaho',
+                'datas': {
+                        'output_type': 'pdf',
+                        'variables': {
+                            'ids': self.id,
+                        }
+                    },
+                }   
+
+        #raise osv.except_osv('Test',values )
+        return values
+
+
 
 
 class eCitesApplicationLine(models.Model):
@@ -186,14 +234,14 @@ class eCitesApplicationLine(models.Model):
     @api.onchange('s_name')
     def onchange_s_name(self):
         self.s_common_name = self.s_name.s_english_name1
-        self.price = self.s_name.product_id.list_price
+        # self.price = self.s_name.product_id.list_price
 
     @api.onchange('quantity')
     def onchange_quantity(self):
         self.line_total = self.quantity*self.price
 
 
-    application_id = fields.Many2one('ecites.application', "Application Id")
+    application_id = fields.Many2one('ecites.application', "Application Id", ondelete='cascade')
 
     s_category = fields.Selection([('Flora','Flora'),('Fauna','Fauna')], 'Category')
     s_name = fields.Many2one('ecites.species',string='Scientific Name')

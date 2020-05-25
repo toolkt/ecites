@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+
+		<record id="ecites_permit_report" model="ir.actions.report">
+			<field name="name">Permit</field>
+			<field name="model">x</field>
+			<field name="report_name">ecites.permit1</field>
+			<field name="pentaho_report_model_id" ref="ecites.model_ecites_application"/>
+			<field name="pentaho_report_output_type">pdf</field>
+			<field name="pentaho_filename">ecites/reports/permit1.prpt</field>
+			<field name="pentaho_load_file" eval="True"/>
+			<field name="report_type">pentaho</field>
+		</record>
+
+	</data>
+</odoo>

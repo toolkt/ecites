@@ -24,6 +24,7 @@ Barangay
 
         'res_address_view.xml',
         'users_view.xml',
+        'res_partner.xml',
     ],
     'installable': True,
     'auto_install': False,

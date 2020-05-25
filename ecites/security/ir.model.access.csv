@@ -12,3 +12,7 @@ access_customer_ecites_source,customer.ecites.source,model_ecites_source,ecites.
 access_customer_ecites_purpose,customer.ecites.purpose,model_ecites_purpose,ecites.group_custom_ecites_customer,1,1,1,1
 access_customer_ecites_submit_wizard,customer.ecites.submit.wizard,model_ecites_submit_wizard,ecites.group_custom_ecites_customer,1,1,1,1
 
+
+access_portal_ecites_application,portal.ecites.application,model_ecites_application,base.group_portal,1,0,0,0
+
+

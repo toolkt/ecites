@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+
+  <!-- Latest Courses Assets -->
+  <template id="assets_frontend_js" name="Ecites Application" inherit_id="website.assets_frontend">
+<!--     <xpath expr="//link[last()]" position="after">
+      <link rel="stylesheet" type="text/scss" href="/ecites/static/src/scss/theme.scss"/>
+    </xpath> -->
+    <xpath expr="//script[last()]" position="after">
+      <script src="/ecites/static/src/js/utils.js" type="text/javascript"></script>
+      <script src="/ecites/static/src/js/registration.js" type="text/javascript"></script>
+    </xpath>
+  </template>
+
+
+
+</odoo>

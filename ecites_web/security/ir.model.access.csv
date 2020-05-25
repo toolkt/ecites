@@ -1,0 +1,14 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_admin_ecites_application,admin.ecites.application,model_ecites_application,ecites.group_custom_ecites_admin,1,1,1,0
+access_admin_ecites_species,admin.ecites.species,model_ecites_species,ecites.group_custom_ecites_admin,1,1,1,0
+access_admin_ecites_application_line,admin.ecites.application.line,model_ecites_application_line,ecites.group_custom_ecites_admin,1,1,1,0
+access_admin_ecites_source,admin.ecites.source,model_ecites_source,ecites.group_custom_ecites_admin,1,1,1,0
+access_admin_ecites_purpose,admin.ecites.purpose,model_ecites_purpose,ecites.group_custom_ecites_admin,1,1,1,0
+
+access_customer_ecites_application,customer.ecites.application,model_ecites_application,ecites.group_custom_ecites_customer,1,1,1,1
+access_customer_ecites_species,customer.ecites.species,model_ecites_species,ecites.group_custom_ecites_customer,1,1,1,1
+access_customer_ecites_application_line,customer.ecites.application.line,model_ecites_application_line,ecites.group_custom_ecites_customer,1,1,1,1
+access_customer_ecites_source,customer.ecites.source,model_ecites_source,ecites.group_custom_ecites_customer,1,1,1,1
+access_customer_ecites_purpose,customer.ecites.purpose,model_ecites_purpose,ecites.group_custom_ecites_customer,1,1,1,1
+access_customer_ecites_submit_wizard,customer.ecites.submit.wizard,model_ecites_submit_wizard,ecites.group_custom_ecites_customer,1,1,1,1
+

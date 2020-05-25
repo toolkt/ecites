@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+	<template id="complete_registration" name="Permit Apply">
+		<t t-name="complete.registration">
+			<t t-call="website.layout">
+				<div class="oe_structure oe_empty" id="wrap">
+					<div id="ecites_registration_form">
+						<section class="s_text_image pt32 pb32" data-name="Text - Image">
+							<div class="container">
+								<h1>Account Details</h1>
+								<h5>If you are new to the site, please complete your details</h5>
+								<form action="/registration/submit" enctype="multipart/form-data" id="regform" method="post">
+									<div class="form-row">
+										<div class="form-group col-md-6">
+											<label for="name">Name*</label>
+											<input class="form-control" id="name" name="name" placeholder="Name" type="text" t-att-value="partner.name" required="true" />
+										</div>
+										<div class="form-group col-md-6">
+											<label for="company">Company*</label>
+											<input class="form-control" id="company" name="company" placeholder="Name of Establishment / Company" type="text" t-att-value="partner.company" required="true" />
+										</div>									
+									</div>
+
+
+<!-- ####################### -->
+									<div class="form-group">
+										<label for="name">Address 1 *</label>
+										<p>(House No. / Street Name / Building No. / Subdivision / Village)</p>
+										<input class="form-control" id="street" name="street" placeholder="Address" type="text" t-att-value="partner.street" required="true" />
+									</div>
+									<div class="form-group">
+										<label for="company">Street</label>
+										<input class="form-control" id="street2" name="street2" placeholder="Street" type="text" t-att-value="partner.street2"/>
+									</div>
+									<div class="form-row">
+
+										<div class="form-group col-md-3">
+											<label for="region">Region</label>
+	                                        <input class="form-control" name="region" placeholder="Region*" required="true" t-att-value="partner.region"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="province">Province</label>
+	                                        <input class="form-control" name="province" placeholder="Province*" required="true" t-att-value="partner.province"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="citymun">City / Municioality</label>
+	                                        <input class="form-control" name="citymun" placeholder="City or Municipality*" required="true" t-att-value="partner.citymun"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="brgy">Barangay</label>
+	                                        <input class="form-control" name="brgy" placeholder="Barangay*" required="true" t-att-value="partner.brgy"/>
+										</div>
+									</div>
+
+									<div class="form-row">
+										<div class="form-group col-md-6">
+											<label for="email">Email*</label>
+											<input class="form-control" id="email" name="email" placeholder="Email" type="email" t-att-value="partner.email" required="true" />
+										</div>
+										<div class="form-group col-md-6">
+											<label for="phone">Phone*</label>
+											<input class="form-control" id="phone" name="phone" placeholder="Phone" type="text" t-att-value="partner.phone" required="true" />
+										</div>
+									</div>
+
+<!-- ####################### -->
+									<div class="form-group">
+										<label for="name">Address 2 *</label>
+										<p>(House No. / Street Name / Building No. / Subdivision / Village)</p>
+										<input class="form-control" id="street_2" name="street_2" placeholder="Address" type="text" t-att-value="partner.street_2" required="true" />
+									</div>
+									<div class="form-group">
+										<label for="company">Street</label>
+										<input class="form-control" id="street2_2" name="street2_2" placeholder="Street" type="text" t-att-value="partner.street2"/>
+									</div>
+									<div class="form-row">
+
+										<div class="form-group col-md-3">
+											<label for="region_2">Region</label>
+	                                        <input class="form-control" name="region_2" placeholder="Region*" required="true" t-att-value="partner.region_2"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="province_2">Province</label>
+	                                        <input class="form-control" name="province_2" placeholder="Province*" required="true" t-att-value="partner.province_2"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="citymun_2">City / Municioality</label>
+	                                        <input class="form-control" name="citymun_2" placeholder="City or Municipality*" required="true" t-att-value="partner.citymun_2"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="brgy_2">Barangay</label>
+	                                        <input class="form-control" name="brgy_2" placeholder="Barangay*" t-att-value="partner.brgy_2"/>
+										</div>
+									</div>
+
+									<div class="form-row">
+										<div class="form-group col-md-6">
+											<label for="email_2">Email*</label>
+											<input class="form-control" id="email_2" name="email_2" placeholder="Email" type="email" t-att-value="partner.email_2" required="true" />
+										</div>
+										<div class="form-group col-md-6">
+											<label for="phone_2">Phone*</label>
+											<input class="form-control" id="phone_2" name="phone_2" placeholder="Phone" type="text" t-att-value="partner.phone_2" required="true" />
+										</div>
+									</div>
+
+
+									<div class="form-row">
+
+										<div class="form-group col-md-3">
+											<label for="permit_no">Wildlife Farm Permit No. (if applicable)</label>
+	                                        <input class="form-control" name="permit_no" placeholder="" t-att-value="partner.permit_no"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="permit_date_issued">Date Issued</label>
+	                                        <input class="form-control" name="permit_date_issued" t-att-value="partner.permit_date_issued" type="date"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="authorized_rep">Authorized Representative</label>
+	                                        <input class="form-control" name="authorized_rep" placeholder="" t-att-value="partner.authorized_rep"/>
+										</div>
+
+										<div class="form-group col-md-3">
+											<label for="authorized_rep_contact_no">Contact No</label>
+	                                        <input class="form-control" name="authorized_rep_contact_no"  t-att-value="partner.authorized_rep_contact_no"/>
+										</div>
+									</div>
+
+										
+									<div class="form-group">
+										<div class="form-check">
+											<input class="form-check-input" id="accept" name="accept" type="checkbox"/>
+											<label class="form-check-label" for="accept">Accept Terms and Agreement</label>
+										</div>
+									</div>
+									<button class="btn btn-primary" type="submit">Submit</button>
+								</form>
+							</div>
+						</section>
+					</div>
+				</div>
+			</t>
+		</t>
+	</template>
+</odoo>
