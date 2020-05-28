@@ -48,10 +48,11 @@
                     <header>
                         <button string="Submit" type="object" name="action_submit" states="draft" class="oe_highlight"/>
                         <button string="Approve" type="object" name="action_approve" states="submitted" class="oe_highlight"/>
-                        <button string="Print Permit" type="object" name="print_permit" states="submitted" class="oe_highlight"/>
+                        <button string="Print Permit" type="object" name="print_permit" states="approved" class="oe_highlight"/>
+                        <button string="Cancel" type="object" name="action_cancel" class="oe_highlight"/>
 
 
-                        <field name="state" widget="statusbar" options="{'clickable': '1'}" statusbar_visible="draft,submitted,approved"/>
+                        <field name="state" widget="statusbar" options="{'clickable': '1'}" statusbar_visible="draft,submitted,approved,cancelled"/>
                     </header>
 
 

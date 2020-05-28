@@ -72,6 +72,23 @@ class eCitesApplication(models.Model):
             for application in self.filtered(lambda application: rec.partner_id not in rec.message_partner_ids):
                 application.message_subscribe([rec.partner_id.id])
 
+            if not rec.name:
+                suffix = ''
+                if rec.permit_type == 'export':
+                    suffix = 'CE'
+                if rec.permit_type == 'import':
+                    suffix = 'CI'
+                if rec.permit_type == 're-export':
+                    suffix = 'CR'
+
+                rec.name = "%s%s" % (self.env['ir.sequence'].next_by_code('ecites.application'),suffix)
+
+
+                #Generate QR Code
+                base_url = self.env['ir.config_parameter'].sudo().get_param('web.base.url')
+                base_url += '/application/status/%s' % rec.name
+                rec.qr_image = generate_qr_code(base_url)
+
 
 
     def action_submit0(self):
@@ -115,6 +132,12 @@ class eCitesApplication(models.Model):
             print(rec)
 
 
+    def action_cancel(self):
+        for rec in self:
+            rec.write({'state':'cancelled'})
+            print(rec)
+
+
     @api.depends('line_ids')
     def _compute_total(self):
         total = 0.0
@@ -123,17 +146,12 @@ class eCitesApplication(models.Model):
         self.total = total
 
 
-    @api.model
-    def create(self, vals):
-        rec = super(eCitesApplication, self).create(vals)
-        rec.name = self.env['ir.sequence'].next_by_code('ecites.application')
+    # @api.model
+    # def create(self, vals):
+    #     rec = super(eCitesApplication, self).create(vals)
+    #     rec.name = self.env['ir.sequence'].next_by_code('ecites.application')
 
-
-        base_url = self.env['ir.config_parameter'].sudo().get_param('web.base.url')
-        base_url += '/application/status/%s' % rec.name
-        rec.qr_image = generate_qr_code(base_url)
-
-        return rec
+    #     return rec
 
 
     @api.onchange('region_id')
@@ -156,43 +174,43 @@ class eCitesApplication(models.Model):
 
 
 
-    name = fields.Char(string='Number', copy=False)
+    name = fields.Char(string='Number', copy=False, tracking=True)
 
-    applicant_type = fields.Selection([('regular','Regular'),('walkin','Walkin')], required=True, string='Applicant Type')
-    permit_type = fields.Selection([('export','CITES Export Permit'),('import','CITES Import Permit'),('re-export','CITES Re-export Permit')], required=True, string='Type of permit')
-    importer_name = fields.Char(string='Importer', required=True )
-    partner_id = fields.Many2one('res.partner', string="Importer User", default=lambda self: self.env.user.partner_id.id)
-    company_name = fields.Char(string='Company')
-    company_address = fields.Text(string='Address', required=True)
-    purpose = fields.Many2one('ecites.purpose',string='Purpose', required=True)
-    shipment_date = fields.Date(string='Shipment Date', required=True)
-    transport_type = fields.Char(string='Transport Type')
+    applicant_type = fields.Selection([('regular','Regular'),('walkin','Walkin')], required=True, string='Applicant Type', tracking=True)
+    permit_type = fields.Selection([('export','CITES Export Permit'),('import','CITES Import Permit'),('re-export','CITES Re-export Permit')], required=True, string='Type of permit', tracking=True)
+    importer_name = fields.Char(string='Importer', required=True , tracking=True)
+    partner_id = fields.Many2one('res.partner', string="Importer User", default=lambda self: self.env.user.partner_id.id, tracking=True)
+    company_name = fields.Char(string='Company', tracking=True)
+    company_address = fields.Text(string='Address', required=True, tracking=True)
+    purpose = fields.Many2one('ecites.purpose',string='Purpose', required=True, tracking=True)
+    shipment_date = fields.Date(string='Shipment Date', required=True, tracking=True)
+    transport_type = fields.Selection([('air','Air Cargo'),('sea','Sea Cargo'),('post','Postal')], required=True, string='Transport', tracking=True)
 
-    line_ids = fields.One2many('ecites.application.line','application_id', "Items")
-    state = fields.Selection([('draft','Draft'),('submitted','Submitted'),('approved','Approved'),('cancelled','Cancelled')], default="draft", string='Status')
-    total = fields.Float("Total", compute='_compute_total')
+    line_ids = fields.One2many('ecites.application.line','application_id', "Items", tracking=True)
+    state = fields.Selection([('draft','Draft'),('submitted','Submitted'),('approved','Approved'),('cancelled','Cancelled')], default="draft", string='Status', tracking=True)
+    total = fields.Float("Total", compute='_compute_total', tracking=True)
 
 
-    applicant = fields.Char("Applicant Name")
+    applicant = fields.Char("Applicant Name", tracking=True)
 
-    brgy_id = fields.Many2one('res.brgy', string='Barangay')
-    citymun_id = fields.Many2one('res.citymun', string='City / Municipality')
-    province_id = fields.Many2one('res.province', string='Province')
-    region_id = fields.Many2one('res.region', string='Region')
+    brgy_id = fields.Many2one('res.brgy', string='Barangay', tracking=True)
+    citymun_id = fields.Many2one('res.citymun', string='City / Municipality', tracking=True)
+    province_id = fields.Many2one('res.province', string='Province', tracking=True)
+    region_id = fields.Many2one('res.region', string='Region', tracking=True)
 
-    complete_address = fields.Text('Complete Address')
-    complete_address_disp = fields.Text('Complete Address', related="complete_address")
+    complete_address = fields.Text('Complete Address', tracking=True)
+    complete_address_disp = fields.Text('Complete Address', related="complete_address", tracking=True)
 
-    phone = fields.Char("Contact Number")
-    email = fields.Char("Email Address")
+    phone = fields.Char("Contact Number", tracking=True)
+    email = fields.Char("Email Address", tracking=True)
 
-    permit_no = fields.Char(string='Wildlife Farm Permit No. (if applicable)')
-    permit_date_issued = fields.Date(string='Date Issued')
-    authorized_rep = fields.Char(string='Name of authorized representative')
-    authorized_rep_contact_no = fields.Char(string='Contact number')
-    digital_signature = fields.Binary(string='Signature')
+    permit_no = fields.Char(string='Wildlife Farm Permit No. (if applicable)', tracking=True)
+    permit_date_issued = fields.Date(string='Date Issued', tracking=True)
+    authorized_rep = fields.Char(string='Name of authorized representative', tracking=True)
+    authorized_rep_contact_no = fields.Char(string='Contact number', tracking=True)
+    digital_signature = fields.Binary(string='Signature', tracking=True)
 
-    qr_image = fields.Binary("QR Code", attachment=False)
+    qr_image = fields.Binary("QR Code", attachment=False, tracking=True)
     qr_in_report = fields.Boolean('Show QR in Report')
 
 
@@ -234,6 +252,7 @@ class eCitesApplicationLine(models.Model):
     @api.onchange('s_name')
     def onchange_s_name(self):
         self.s_common_name = self.s_name.s_english_name1
+        self.cites_appendix = self.s_name.s_current_listing
         # self.price = self.s_name.product_id.list_price
 
     @api.onchange('quantity')
