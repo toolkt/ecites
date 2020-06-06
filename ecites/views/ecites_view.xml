@@ -129,6 +129,15 @@
                                         <field name="authorized_rep" string="Representative" placeholder="Name of authorized Representative"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                         <field name="authorized_rep_contact_no"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                     </group>
+                                    <group>
+                                        <field name="permit_validity"  />
+                                        <field name="country_exportation"  />
+                                        <field name="country_destination"  />
+                                        <field name="country_last_export"  />
+                                        <field name="last_reexport_date"  />
+                                        <field name="permit_number_ir"  />
+                                        <field name="permit_number_ir_date"  />
+                                    </group>
                               </group>
                             </page>
                            

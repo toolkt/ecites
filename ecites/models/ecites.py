@@ -204,11 +204,26 @@ class eCitesApplication(models.Model):
     phone = fields.Char("Contact Number", tracking=True)
     email = fields.Char("Email Address", tracking=True)
 
-    permit_no = fields.Char(string='Wildlife Farm Permit No. (if applicable)', tracking=True)
-    permit_date_issued = fields.Date(string='Date Issued', tracking=True)
+
     authorized_rep = fields.Char(string='Name of authorized representative', tracking=True)
     authorized_rep_contact_no = fields.Char(string='Contact number', tracking=True)
     digital_signature = fields.Binary(string='Signature', tracking=True)
+
+    permit_no = fields.Char(string='Wildlife Farm Permit No. (if applicable)', tracking=True)
+    permit_date_issued = fields.Date(string='Date Issued', tracking=True)    
+    permit_validity = fields.Date(string='Permit Validity')
+    country_exportation = fields.Many2one('res.country',"Country of (re)Exportation")
+    country_destination = fields.Many2one('res.country',"Country of Destination")
+    country_last_export = fields.Many2one('res.country',"Country of last (re)Exportation")
+    last_reexport_date = fields.Date(string='Permit Validity')
+    permit_number_ir = fields.Char("Permit Number", tracking=True)
+    permit_number_ir_date = fields.Date(string='Dated')
+    permit_claim = fields.Selection([('active','Active'),('claimed','Claimded')], required=True, string='Permit Claim', tracking=True)
+    claim_notes = fields.Char("Claim Notes", tracking=True)
+    special_conditions = fields.Char("Special Conditions", tracking=True)
+    exporter_name = fields.Char("Applicant Name", tracking=True)
+    exporter_company = fields.Char("Exporter Company", tracking=True)
+
 
     qr_image = fields.Binary("QR Code", attachment=False, tracking=True)
     qr_in_report = fields.Boolean('Show QR in Report')
