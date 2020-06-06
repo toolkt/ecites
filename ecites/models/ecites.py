@@ -221,7 +221,7 @@ class eCitesApplication(models.Model):
     permit_claim = fields.Selection([('active','Active'),('claimed','Claimded')], string='Permit Claim', tracking=True)
     claim_notes = fields.Char("Claim Notes", tracking=True)
     special_conditions = fields.Char("Special Conditions", tracking=True)
-    exporter_name = fields.Char("Applicant Name", tracking=True)
+    exporter_name = fields.Char("Exporter Name", tracking=True)
     exporter_company = fields.Char("Exporter Company", tracking=True)
 
 
