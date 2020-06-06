@@ -125,6 +125,13 @@
                                         <field name="last_reexport_date"  />
                                         <field name="permit_number_ir"  />
                                         <field name="permit_number_ir_date"  />
+
+                                        <field name="permit_claim"  />
+                                        <field name="claim_notes"  />
+                                        <field name="special_conditions"  />
+                                        <field name="exporter_name"  />
+                                        <field name="exporter_company"  />
+
                                     </group>
                               </group>
                             </page>
