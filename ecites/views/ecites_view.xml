@@ -84,18 +84,6 @@
 
                                 <!-- Totals (only invoices / receipts) -->
                                 <group class="oe_right">
-                                    <group class="oe_subtotal_footer">
-                                        <field name="total" class="oe_subtotal_footer_separator"/>
-
-                                        <!-- <field name="amount_untaxed"/>
-                                        <field name="amount_by_group" widget="tax-group-custom-field" nolabel="1" colspan="2"/>
-                                        
-                                        <field name="invoice_payments_widget" colspan="2" nolabel="1" widget="payment"/>
-                                        <field name="amount_residual" class="oe_subtotal_footer_separator" attrs="{'invisible': [('state', '=', 'draft')]}"/> -->
-                                    </group>
-
-                                    <newline/>
-
                                     <group class="oe_invoice_outstanding_credits_debits" style="width: 350px !important;">
                                         <field nolabel="1" name="digital_signature" widget="signature"/>
                                     </group>
@@ -176,8 +164,6 @@
                     <field name="s_name"/>
                     <field name="quantity"/>
                     <field name="unit"/>
-                    <field name="price"/>
-                    <field name="line_total"/>
                 </tree>
             </field>
         </record>
@@ -196,8 +182,6 @@
                                 <field name="cites_appendix"/>
                                 <field name="quantity" />
                                 <field name="unit"/>
-                                <field name="price"/>
-                                <field name="line_total"/>
                             </group>
                             <group>
                                 <field name="source" options="{'no_create': True}"/>

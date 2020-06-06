@@ -218,7 +218,7 @@ class eCitesApplication(models.Model):
     last_reexport_date = fields.Date(string='Permit Validity')
     permit_number_ir = fields.Char("Permit Number", tracking=True)
     permit_number_ir_date = fields.Date(string='Dated')
-    permit_claim = fields.Selection([('active','Active'),('claimed','Claimded')], required=True, string='Permit Claim', tracking=True)
+    permit_claim = fields.Selection([('active','Active'),('claimed','Claimded')], string='Permit Claim', tracking=True)
     claim_notes = fields.Char("Claim Notes", tracking=True)
     special_conditions = fields.Char("Special Conditions", tracking=True)
     exporter_name = fields.Char("Applicant Name", tracking=True)
