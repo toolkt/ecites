@@ -66,12 +66,12 @@ class eCitesApplication(models.Model):
 
     def action_submit(self):
         for rec in self:
-            rec.write({'state':'submitted'})
             print(rec)
 
             for application in self.filtered(lambda application: rec.partner_id not in rec.message_partner_ids):
                 application.message_subscribe([rec.partner_id.id])
 
+            #Generate Unique Permit Number
             if not rec.name:
                 suffix = ''
                 if rec.permit_type == 'export':
@@ -83,12 +83,45 @@ class eCitesApplication(models.Model):
 
                 rec.name = "%s%s" % (self.env['ir.sequence'].next_by_code('ecites.application'),suffix)
 
-
                 #Generate QR Code
                 base_url = self.env['ir.config_parameter'].sudo().get_param('web.base.url')
                 base_url += '/application/status/%s' % rec.name
                 rec.qr_image = generate_qr_code(base_url)
 
+            if rec.state == 'draft':
+                rec.write({'state':'submitted'})
+
+
+
+
+
+
+
+    def action_submit_region(self):
+        for rec in self:
+            rec.write({'state':'region'})
+
+
+    def action_submit_evaluator(self):
+        for rec in self:
+            rec.write({'state':'evaluator'})
+
+    def action_submit_payment(self):
+        for rec in self:
+            rec.write({'state':'payment'})
+
+    def action_submit_wrchief(self):
+        for rec in self:
+            rec.write({'state':'wrchief'})
+
+    def action_submit_approved(self):
+        for rec in self:
+            rec.write({'state':'approved'})
+
+    def action_cancel(self):
+        for rec in self:
+            rec.write({'state':'cancelled'})
+            print(rec)
 
 
     def action_submit0(self):
@@ -126,16 +159,7 @@ class eCitesApplication(models.Model):
         }
 
 
-    def action_approve(self):
-        for rec in self:
-            rec.write({'state':'approved'})
-            print(rec)
 
-
-    def action_cancel(self):
-        for rec in self:
-            rec.write({'state':'cancelled'})
-            print(rec)
 
 
     @api.depends('line_ids')
@@ -187,7 +211,16 @@ class eCitesApplication(models.Model):
     transport_type = fields.Selection([('air','Air Cargo'),('sea','Sea Cargo'),('post','Postal')], required=True, string='Transport', tracking=True)
 
     line_ids = fields.One2many('ecites.application.line','application_id', "Items", tracking=True)
-    state = fields.Selection([('draft','Draft'),('submitted','Submitted'),('approved','Approved'),('cancelled','Cancelled')], default="draft", string='Status', tracking=True)
+    state = fields.Selection([
+        ('draft','Draft'),
+        ('submitted','Submitted'),
+        ('region','Endorsed by Region'),
+        ('evaluator','Endorsed by Evaluator'),
+        ('payment','Order of Payment'),
+        ('wrchief','Endorsed by WR Chief'),
+        ('approved','Approved'),
+        ('cancelled','Cancelled')
+        ], default="draft", string='Status', tracking=True)
     total = fields.Float("Total", compute='_compute_total', tracking=True)
 
 
@@ -219,10 +252,13 @@ class eCitesApplication(models.Model):
     permit_number_ir = fields.Char("Permit Number", tracking=True)
     permit_number_ir_date = fields.Date(string='Dated')
     permit_claim = fields.Selection([('active','Active'),('claimed','Claimded')], string='Permit Claim', tracking=True)
-    claim_notes = fields.Char("Claim Notes", tracking=True)
-    special_conditions = fields.Char("Special Conditions", tracking=True)
+    claim_notes = fields.Text("Claim Notes", tracking=True)
+    special_conditions = fields.Text("Special Conditions", tracking=True)
     exporter_name = fields.Char("Exporter Name", tracking=True)
     exporter_company = fields.Char("Exporter Company", tracking=True)
+
+    security_stamp_no = fields.Char("Security Stamp details", tracking=True)
+    permit_number_lir = fields.Char("Permit Number Last ", tracking=True)
 
 
     qr_image = fields.Binary("QR Code", attachment=False, tracking=True)

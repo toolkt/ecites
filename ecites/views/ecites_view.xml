@@ -47,12 +47,16 @@
 
                     <header>
                         <button string="Submit" type="object" name="action_submit" states="draft" class="oe_highlight"/>
-                        <button string="Approve" type="object" name="action_approve" states="submitted" class="oe_highlight"/>
+                        <button string="Endorse" type="object" name="action_submit_region" states="submitted" class="oe_highlight"/>
+                        <button string="Endorse" type="object" name="action_submit_evaluator" states="region" class="oe_highlight"/>
+                        <button string="Order Payment" type="object" name="action_submit_payment" states="evaluator" class="oe_highlight"/>
+                        <button string="Endorse" type="object" name="action_submit_wrchief" states="payment" class="oe_highlight"/>
+                        <button string="Approve" type="object" name="action_submit_approved" states="wrchief" class="oe_highlight"/>
                         <button string="Print Permit" type="object" name="print_permit" states="approved" class="oe_highlight"/>
-                        <button string="Cancel" type="object" name="action_cancel" class="oe_highlight"/>
+                        <!-- <button string="Cancel" type="object" name="action_cancel" class="oe_highlight"/> -->
 
 
-                        <field name="state" widget="statusbar" options="{'clickable': '1'}" statusbar_visible="draft,submitted,approved,cancelled"/>
+                        <field name="state" widget="statusbar" options="{'clickable': '1'}" />
                     </header>
 
 
@@ -73,9 +77,27 @@
                                 <field name="purpose" widget="selection"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                 <field name="shipment_date" placeholder="Estimated Shipment Date"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                 <field name="transport_type" placeholder="Transport type (air cargo, sea cargo, postal)"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
+                                <field name="exporter_name"  />
+                                <field name="exporter_company"  />
+                                <field name="complete_address"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                             </group>
-
                         </group>
+                        <group string="For Import and re-export permit request, please provide the followint details"  attrs="{'invisible': [('permit_type', '=', 'export')]}">
+                            <group>
+                                    <field name="country_destination"  />
+                                    <field name="country_exportation"  />
+                                    <field name="security_stamp_no"  />
+                                    <field name="country_last_export"  />
+                            </group>
+                            <group>
+                                    <field name="last_reexport_date"  />
+                                    <field name="permit_number_ir"  />
+                                    <field name="permit_number_lir"  />
+                                    <field name="permit_number_ir_date"  />
+                            </group>
+                        </group>
+
+
 
                         <notebook>
                             <page string="Species">
@@ -105,7 +127,7 @@
                                     <field name="province_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                     <field name="citymun_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                     <field name="brgy_id" options='{"no_open":True,"no_quick_create":True,"no_create_edit":True}'  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
-                                    <field name="complete_address"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
+                                    
                                   </group>
                               </group>
                             </page>
@@ -113,27 +135,25 @@
                                 <group>
                                     <group>
                                         <field name="permit_no" string="Permit No" placeholder="Wildlife Farm Permit No. (if applicable)"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
-                                        <field name="permit_date_issued"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
+                                        
                                         <field name="authorized_rep" string="Representative" placeholder="Name of authorized Representative"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                         <field name="authorized_rep_contact_no"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
                                     </group>
                                     <group>
                                         <field name="permit_validity"  />
-                                        <field name="country_exportation"  />
-                                        <field name="country_destination"  />
-                                        <field name="country_last_export"  />
-                                        <field name="last_reexport_date"  />
-                                        <field name="permit_number_ir"  />
-                                        <field name="permit_number_ir_date"  />
 
-                                        <field name="permit_claim"  />
-                                        <field name="claim_notes"  />
-                                        <field name="special_conditions"  />
-                                        <field name="exporter_name"  />
-                                        <field name="exporter_company"  />
-
+                                        
+                                        
                                     </group>
                               </group>
+                            </page>
+                            <page string="WR Details">
+                                <group>
+                                    <field name="permit_date_issued"  attrs="{'readonly': [('state', '!=', 'draft')]}"/>
+                                    <field name="special_conditions"  />
+                                    <field name="permit_claim"  />
+                                    <field name="claim_notes"  />
+                                </group>
                             </page>
                            
                         </notebook>
